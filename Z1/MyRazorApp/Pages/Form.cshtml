@@ -1,0 +1,37 @@
+﻿@page
+@model MyRazorApp.Pages.FormModel
+
+<h2>Contact</h2>
+
+@if (Model.Submitted)
+{
+    <div>
+        <p><strong>Name:</strong> @Model.ContactData.Name</p>
+        <p><strong>Email:</strong> @Model.ContactData.Email</p>
+        <p><strong>Message:</strong> @Model.ContactData.Message</p>
+        <form method="post">
+            <button type="submit" class="btn btn-primary" name="action" value="reset">Send again</button>
+        </form>
+    </div>
+}
+else
+{
+<form method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" name="ContactData.Name" value="@Model.ContactData.Name" autocomplete="name" />
+        <span class="text-danger">@Html.ValidationMessageFor(m => m.ContactData.Name)</span>
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" name="ContactData.Email" value="@Model.ContactData.Email" autocomplete="email" />
+        <span class="text-danger">@Html.ValidationMessageFor(m => m.ContactData.Email)</span>
+    </div>
+    <div class="form-group">
+        <label for="message">Message</label>
+        <textarea class="form-control" id="message" name="ContactData.Message" autocomplete="off">@Model.ContactData.Message</textarea>
+        <span class="text-danger">@Html.ValidationMessageFor(m => m.ContactData.Message)</span>
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>
+}

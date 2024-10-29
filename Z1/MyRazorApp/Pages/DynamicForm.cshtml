@@ -1,0 +1,241 @@
+﻿@page
+@model DynamicFormModel
+@{
+    ViewData["Title"] = "Dynamic Form";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div id="formContainer">
+    <form id="dynamicForm">
+        <div class="form-field">
+            <label for="field1" class="field-label">Name</label>
+            <input type="text" id="field1" name="Name">
+            <button type="button" class="editFieldButton">✏️</button>
+            <button type="button" class="removeFieldButton" style="display: none;">X</button>
+        </div>
+        
+        <div id="buttonContainer">
+            <button type="button" id="addFieldButton">Add Field</button>
+            <button type="submit" id="submitButton">Send</button>
+        </div>
+    </form>
+</div>
+
+<div id="resultContainer" style="display: none;">
+    <h3>Form Information:</h3>
+    <div id="resultList"></div>
+    <button type="button" id="backToFormButton">Back to Form</button>
+</div>
+
+<script>
+    $(document).ready(function () {
+        var fieldCount = 1;
+
+        // Funkcja do zarządzania widocznością przycisków "X"
+        function toggleRemoveButtons() {
+            if ($('.form-field').length > 1) {
+                $('.removeFieldButton').show();
+            } else {
+                $('.removeFieldButton').hide();
+            }
+        }
+
+        // Dodawanie nowego pola przed kontenerem z przyciskami
+        $('#addFieldButton').click(function () {
+            fieldCount++;
+            $('#buttonContainer').before(`
+                <div class="form-field">
+                    <label for="dynamicField${fieldCount}" class="field-label">Field ${fieldCount}</label>
+                    <input type="text" id="dynamicField${fieldCount}" name="Field ${fieldCount}">
+                    <button type="button" class="editFieldButton">✏️</button>
+                    <button type="button" class="removeFieldButton">X</button>
+                </div>
+            `);
+            toggleRemoveButtons();
+        });
+
+        // Usuwanie pola
+        $('#dynamicForm').on('click', '.removeFieldButton', function () {
+            $(this).parent().remove();
+            toggleRemoveButtons();
+        });
+
+        // Zmiana nazwy pola po kliknięciu na ikonkę ołówka
+        $('#dynamicForm').on('click', '.editFieldButton', function () {
+            var label = $(this).siblings('.field-label');
+            var newLabel = prompt("Give new field name:", label.text());
+            if (newLabel) {
+                label.text(newLabel);
+                var input = $(this).siblings('input');
+                input.attr('name', newLabel);
+            }
+        });
+
+        // Przesyłanie formularza
+        $('#dynamicForm').submit(function (event) {
+            event.preventDefault();
+            $('#resultList').empty();
+
+            // Pobieranie danych i ich wyświetlanie
+            var formData = $(this).serializeArray();
+            var resultHTML = '<ul>';
+            formData.forEach(function (field) {
+                resultHTML += `<li><strong>${field.name}:</strong> ${field.value}</li>`;
+            });
+            resultHTML += '</ul>';
+            $('#resultList').html(resultHTML);
+
+            // Ukrywanie formularza, wyświetlanie wyników
+            $('#formContainer').hide();
+            $('#resultContainer').show();
+        });
+
+        // Powrót do formularza
+        $('#backToFormButton').click(function () {
+            $('#resultContainer').hide();
+            $('#formContainer').show();
+        });
+
+        // Sprawdzenie widoczności przycisków "X" przy załadowaniu
+        toggleRemoveButtons();
+    });
+</script>
+
+<style>
+    /* Tytuł formularza */
+    h2 {
+        color: #2c3e50; /* Ciemnoniebieski odcień */
+        font-size: 24px;
+        text-align: center;
+    }
+
+    /* Tytuł sekcji wyników */
+    h3 {
+        color: #34495e; /* Trochę jaśniejszy odcień */
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .form-field {
+        margin-bottom: 15px;
+        display: flex;
+        align-items: flex-start;
+        flex-wrap: wrap; /* Zawijanie elementów, gdy brak miejsca */
+    }
+
+    .form-field label {
+        flex-shrink: 0;
+        width: 100%; /* Rozciągnięcie na całą szerokość */
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #555; /* Neutralny szary */
+        word-wrap: break-word; /* Zawijanie tekstu, gdy za długi */
+    }
+
+    .form-field input {
+        flex-grow: 1;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        width: 100%; /* Ustawienie pełnej szerokości */
+        max-width: 100%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        color: #34495e; /* Taki sam kolor jak tytuł sekcji wyników */
+    }
+
+    .form-field button.removeFieldButton {
+        background-color: red;
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 5px;
+        border-radius: 4px;
+        margin-bottom: 10px;
+    }
+
+    .form-field button.editFieldButton {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        padding: 5px;
+        border-radius: 4px;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+
+    button#addFieldButton, button#submitButton {
+        margin-top: 15px;
+        width: 100%;
+        border: none;
+        padding: 12px;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+
+    button#addFieldButton {
+        background-color: #007bff;
+        color: white;
+    }
+
+    button#addFieldButton:hover {
+        background-color: #0069d9;
+    }
+
+    button#submitButton {
+        background-color: #28a745;
+        color: white;
+    }
+
+    button#submitButton:hover {
+        background-color: #218838;
+    }
+
+    button#backToFormButton {
+        background-color: #ffc107;
+        color: #212529;
+        padding: 8px 16px; /* Zmniejszenie rozmiaru przycisku */
+        border-radius: 4px;
+        font-size: 14px;
+        display: block;
+        margin: 20px auto;
+    }
+
+    button#backToFormButton:hover {
+        background-color: #e0a800;
+    }
+
+    #resultList ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        max-width: 500px;
+        margin: 20px auto;
+        background-color: white;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    #resultList ul li {
+        padding: 10px 0;
+        border-bottom: 1px solid #ccc;
+        color: #34495e; /* Dopasowanie do tekstu formularza */
+    }
+
+    #resultList ul li:last-child {
+        border-bottom: none;
+    }
+
+    #resultList ul li strong {
+        color: #555; /* Dopasowanie do tytułu formularza */
+        display: inline-block;
+        width: 100%;
+        overflow-wrap: break-word; /* Wymuszenie zawijania */
+    }
+</style>

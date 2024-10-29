@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Favorite Quotes";
+}
+
+<h2>Favorite Quotes</h2>
+
+<div>
+    <input type="text" id="quoteInput" placeholder="Add a new quote" />
+    <button onclick="addQuote()">Add Quote</button>
+</div>
+
+<ul id="quotesList"></ul>
+
+<script>
+    function loadQuotes() {
+        const quotes = JSON.parse(localStorage.getItem("quotes")) || [];
+        const quotesList = document.getElementById("quotesList");
+        quotesList.innerHTML = "";
+        quotes.forEach((quote, index) => {
+            const li = document.createElement("li");
+            li.innerHTML = `
+                    <span>${quote}</span>
+                    <button onclick="editQuote(${index})">Edit</button>
+                    <button onclick="deleteQuote(${index})">Delete</button>
+                `;
+            quotesList.appendChild(li);
+        });
+    }
+
+    function addQuote() {
+        const input = document.getElementById("quoteInput");
+        const quotes = JSON.parse(localStorage.getItem("quotes")) || [];
+
+        if (input.value.trim()) {
+            quotes.push(input.value.trim());
+            localStorage.setItem("quotes", JSON.stringify(quotes));
+            input.value = "";
+            loadQuotes();
+        }
+    }
+
+    function editQuote(index) {
+        const quotes = JSON.parse(localStorage.getItem("quotes"));
+        const newQuote = prompt("Edit quote:", quotes[index]);
+
+        if (newQuote !== null) {
+            quotes[index] = newQuote.trim();
+            localStorage.setItem("quotes", JSON.stringify(quotes));
+            loadQuotes();
+        }
+    }
+
+    function deleteQuote(index) {
+        const quotes = JSON.parse(localStorage.getItem("quotes"));
+        quotes.splice(index, 1);
+        localStorage.setItem("quotes", JSON.stringify(quotes));
+        loadQuotes();
+    }
+
+    document.addEventListener("DOMContentLoaded", loadQuotes);
+</script>

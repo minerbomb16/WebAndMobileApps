@@ -1,0 +1,73 @@
+﻿@model List<Lab2task.Models.TODOModel>
+
+@{
+    ViewBag.Title = "TODO list";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<!-- Formularz dodawania nowego zadania -->
+<form asp-action="Add" method="post">
+    <input type="text" name="description" placeholder="New task" required />
+    <button type="submit">Add</button>
+</form>
+
+<!-- Wyświetlanie listy zadań -->
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 8px 12px;
+        text-align: left;
+        vertical-align: top;
+    }
+
+        th.description, td.description {
+            max-width: 200px;
+            word-wrap: break-word;
+            white-space: normal;
+        }
+
+        th.status, td.status {
+            width: 100px;
+        }
+
+        th.action, td.action {
+            width: 150px;
+        }
+
+    tr + tr {
+        border-top: 1px solid #ddd;
+    }
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th class="description">Description</th>
+            <th class="status">Status</th>
+            <th class="action">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td class="description">@task.Description</td>
+                <td class="status">@(task.IsCompleted ? "Done" : "To do")</td>
+                <td class="action">
+                    @if (!task.IsCompleted)
+                    {
+                        <a asp-action="Complete" asp-route-id="@task.Id">Complete</a>
+                    }
+                    <a asp-action="Delete" asp-route-id="@task.Id">Remove</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

@@ -1,0 +1,50 @@
+﻿@page
+@model MyRazorApp.Pages.Calculate
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h2 class="text-center">Calculate</h2>
+
+<div id="calculator-container" class="d-flex flex-column align-items-center">
+    <form id="calculatorForm" class="w-50">
+        <div class="form-group">
+            <label for="number1">Number 1:</label>
+            <input type="number" class="form-control" id="number1" name="Number1" required>
+        </div>
+        <div class="form-group">
+            <label for="number2">Number 2:</label>
+            <input type="number" class="form-control" id="number2" name="Number2" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Add</button>
+    </form>
+
+    <div id="result" class="mt-4 text-center font-weight-bold" style="color: green; font-size: 1.5em;"></div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('calculatorForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            var number1 = document.getElementById('number1').value;
+            var number2 = document.getElementById('number2').value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/Calculator', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    document.getElementById('result').innerText = xhr.responseText;
+                } else {
+                    document.getElementById('result').innerText = 'Wystąpił błąd podczas obliczeń.';
+                }
+            };
+
+            var params = 'Number1=' + encodeURIComponent(number1) + '&Number2=' + encodeURIComponent(number2);
+            xhr.send(params);
+        });
+    </script>
+}

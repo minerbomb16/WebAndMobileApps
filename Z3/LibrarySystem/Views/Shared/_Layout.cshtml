@@ -1,0 +1,118 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="~/assets/img/apple-icon.png" asp-append-version="true">
+    <link rel="icon" type="image/png" href="~/assets/img/favicon.png" asp-append-version="true">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>
+        Library System - Now UI Dashboard
+    </title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!-- Fonts and icons -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!-- CSS Files -->
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/assets/css/now-ui-dashboard.css?v=1.5.0" rel="stylesheet" asp-append-version="true" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="~/assets/demo/demo.css" rel="stylesheet" asp-append-version="true" />
+</head>
+
+<body class="">
+    <div class="wrapper ">
+        <div class="sidebar" data-color="orange">
+            <div class="logo">
+                <a class="simple-text logo-normal" style="padding-left: 10px;">Library System</a>
+            </div>
+            <div class="sidebar-wrapper" id="sidebar-wrapper">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Home")">
+                            <i class="now-ui-icons design_app"></i>
+                            <p>Dashboard</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Book")">
+                            <i class="now-ui-icons education_atom"></i>
+                            <p>Books</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Client")">
+                            <i class="now-ui-icons users_single-02"></i>
+                            <p>Clients</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index", "Rental")">
+                            <i class="now-ui-icons shopping_cart-simple"></i>
+                            <p>Rentals</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel" id="main-panel">
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-sm navbar-transparent bg-primary navbar-absolute">
+                <div class="container-fluid">
+                    <div class="navbar-wrapper">
+                        <div class="navbar-toggle">
+                            <button type="button" class="navbar-toggler">
+                                <span class="navbar-toggler-bar bar1"></span>
+                                <span class="navbar-toggler-bar bar2"></span>
+                                <span class="navbar-toggler-bar bar3"></span>
+                            </button>
+                        </div>
+                        <a class="navbar-brand">Library System</a>
+                    </div>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                    </button>
+                </div>
+            </nav>
+            <!-- End Navbar -->
+            <div class="panel-header panel-header-sm">
+                @RenderSection("Header", required: false)
+            </div>
+            <div class="content">
+                @RenderBody()
+            </div>
+            <footer class="footer">
+                <div class="container-fluid">
+                    <div class="copyright" id="copyright">
+                        Designed by Bartłomiej Janota & Michał Bibrzycki
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <!-- Core JS Files -->
+    <script src="~/assets/js/core/jquery.min.js" asp-append-version="true"></script>
+    <script src="~/assets/js/core/popper.min.js" asp-append-version="true"></script>
+    <script src="~/assets/js/core/bootstrap.min.js" asp-append-version="true"></script>
+    <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js" asp-append-version="true"></script>
+    <!-- Chart JS -->
+    <script src="~/assets/js/plugins/chartjs.min.js" asp-append-version="true"></script>
+    <!-- Notifications Plugin -->
+    <script src="~/assets/js/plugins/bootstrap-notify.js" asp-append-version="true"></script>
+    <!-- Now UI Dashboard Control Center -->
+    <script src="~/assets/js/now-ui-dashboard.min.js?v=1.5.0" type="text/javascript" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+
+
+</body>
+
+</html>

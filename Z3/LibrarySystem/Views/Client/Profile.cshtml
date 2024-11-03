@@ -1,0 +1,45 @@
+﻿@model LibrarySystem.Models.ClientProfileViewModel
+
+@{
+    ViewData["Title"] = "Client Profile";
+}
+
+<h1>Client Profile - @Model.Client.Name</h1>
+<hr />
+
+<div>
+    <h3>Client Details</h3>
+    <p><strong>Name:</strong> @Model.Client.Name</p>
+    <p><strong>Email:</strong> @Model.Client.Email</p>
+    <p><strong>Phone:</strong> @Model.Client.Phone</p>
+</div>
+
+<div>
+    <h3>Rental History</h3>
+    @if (Model.RentalHistory.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Book Title</th>
+                    <th>Rental Date</th>
+                    <th>Return Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var rental in Model.RentalHistory)
+                {
+                    <tr>
+                        <td>@rental.BookTitle</td>
+                        <td>@rental.RentalDate.ToString("yyyy-MM-dd")</td>
+                        <td>@(rental.ReturnDate.HasValue ? rental.ReturnDate.Value.ToString("yyyy-MM-dd") : "Not Returned")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No rental history available.</p>
+    }
+</div>

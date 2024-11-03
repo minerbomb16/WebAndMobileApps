@@ -1,0 +1,72 @@
+﻿@model LibrarySystem.Models.Book
+
+@{
+    ViewData["Title"] = "Add New Book (Simplified Test)";
+}
+
+<h1>Add New Book (Test)</h1>
+
+<!-- Use the Html helper to automatically generate the anti-forgery token -->
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken() <!-- This handles the CSRF token automatically -->
+    <!-- Simplified form inputs without ASP.NET Tag Helpers -->
+    <div class="form-group">
+        <label for="Title">Book Title</label>
+        <input type="text" id="Title" name="Title" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Author">Author Name</label>
+        <input type="text" id="Author" name="Author" class="form-control" />
+    </div>
+
+    <!-- Genre dropdown list with search functionality -->
+    <div class="form-group">
+        <label for="Genre">Genre</label>
+        <select id="Genre" name="Genre" class="form-control" style="width: 100%;">
+            <option value="">Select a genre</option>
+            <option value="Fiction">Fiction</option>
+            <option value="Non-fiction">Non-fiction</option>
+            <option value="Mystery">Mystery</option>
+            <option value="Fantasy">Fantasy</option>
+            <option value="Science Fiction">Science Fiction</option>
+            <option value="Biography">Biography</option>
+            <option value="Romance">Romance</option>
+            <option value="Horror">Horror</option>
+            <option value="Thriller">Thriller</option>
+            <option value="Historical">Historical</option>
+            <option value="Young Adult">Young Adult</option>
+            <option value="Children's">Children's</option>
+        </select>
+    </div>
+
+    <!-- Year input field with validation to ensure only numbers -->
+    <div class="form-group">
+        <label for="Year">Publication Year</label>
+        <input type="number"
+               id="Year"
+               name="Year"
+               class="form-control"
+               min="0"
+               max="2024"
+               step="1"
+               oninput="this.value = this.value.replace(/[^0-9]/g, '').trim()" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <!-- Initialize Select2 for Genre Dropdown -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#Genre').select2({
+                placeholder: 'Search or select a genre',
+                allowClear: true,
+                width: 'resolve'
+            });
+        });
+    </script>
+
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

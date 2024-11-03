@@ -1,0 +1,175 @@
+﻿@model IEnumerable<LibrarySystem.Models.Client>
+
+@{
+    ViewData["Title"] = "Clients";
+
+    // Determine sorting states for each column
+    string GetNextSortOrder(string currentSortOrder) =>
+        currentSortOrder == "asc" ? "desc" : currentSortOrder == "desc" ? null : "asc";
+
+    // Set the next sort order for each column based on the current sorting state
+    string nameSortOrder = ViewBag.SortColumn == "Name" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string emailSortOrder = ViewBag.SortColumn == "Email" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string phoneSortOrder = ViewBag.SortColumn == "Phone" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+
+    // Icon rendering helper - only display the icon for the active sorted column
+    Func<string, string, string> renderSortIcon = (column, sortOrder) =>
+    {
+        if (ViewBag.SortColumn == column)
+        {
+            return sortOrder == "asc" ? "&#9650;" : sortOrder == "desc" ? "&#9660;" : "";
+        }
+        return "";
+    };
+}
+
+<h1>Clients</h1>
+<a class="btn btn-primary" href="/Client/Create">Add New Client</a>
+<br />
+<br />
+
+<!-- Search box for Name, Email, or Phone -->
+<div class="form-inline">
+    <label for="searchBox" class="ml-2">Search:</label>
+    <input type="text" id="searchBox" class="form-control mx-2" value="@ViewBag.SearchQuery" style="width: 300px;" placeholder="Search by Name, Email, or Phone..." />
+</div>
+<br />
+
+<!-- Styles to prevent shifting and handle arrows -->
+<style>
+    th.sortable {
+        padding-right: 20px;
+        white-space: nowrap;
+    }
+
+    .sort-icon {
+        display: inline-block;
+        width: 15px;
+        text-align: center;
+        margin-left: 5px;
+    }
+</style>
+
+<!-- Table with a message if there are no results -->
+<div id="no-results-message" style="display: none;">
+    <p>No clients match the selected criteria.</p>
+</div>
+
+<table class="table" id="client-table">
+    <thead>
+        <tr>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Name" data-order="@nameSortOrder">
+                    Name<span class="sort-icon">@Html.Raw(renderSortIcon("Name", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Email" data-order="@emailSortOrder">
+                    Email<span class="sort-icon">@Html.Raw(renderSortIcon("Email", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Phone" data-order="@phoneSortOrder">
+                    Phone<span class="sort-icon">@Html.Raw(renderSortIcon("Phone", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="client-table-body">
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>
+                    <a href="@Url.Action("Profile", "Client", new { id = client.Id })">@client.Name</a>
+                </td>
+                <td>@client.Email</td>
+                <td>@client.Phone</td>
+                <td>
+                    <a class="btn btn-secondary" href="@Url.Action("Edit", "Client", new { id = client.Id })">Edit</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", "Client", new { id = client.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Store the current sorting column and order
+            let currentSortColumn = '@ViewBag.SortColumn';
+            let currentSortOrder = '@ViewBag.SortOrder';
+
+            // Handle click on sortable headers
+            $('.sort-link').click(function () {
+                currentSortColumn = $(this).data('column');
+                currentSortOrder = $(this).data('order');
+                fetchClients();
+            });
+
+            // Handle search query input
+            $('#searchBox').on('input', function () {
+                fetchClients();
+            });
+
+            // Function to fetch clients with current sort and search criteria
+            function fetchClients() {
+                // AJAX request to fetch sorted and searched data
+                $.ajax({
+                    url: '@Url.Action("GetSortedClients", "Client")',
+                    type: 'GET',
+                    data: {
+                        sortColumn: currentSortColumn,
+                        sortOrder: currentSortOrder,
+                        searchQuery: $('#searchBox').val()
+                    },
+                    success: function (data) {
+                        if (data.length === 0) {
+                            $('#client-table').hide();
+                            $('#no-results-message').show();
+                        } else {
+                            $('#no-results-message').hide();
+                            $('#client-table').show();
+
+                            // Update table body with searched and sorted data
+                            let rows = '';
+                            data.forEach(function (client) {
+                                // Create a link for the client name
+                                let clientLink = `<a href="/Client/Profile/${client.id}">${client.name}</a>`;
+                                let phone = client.phone ? client.phone : '';
+
+                                rows += `
+                                <tr>
+                                    <td>${clientLink}</td>
+                                    <td>${client.email}</td>
+                                    <td>${phone}</td>
+                                    <td>
+                                        <a class="btn btn-secondary" href="/Client/Edit/${client.id}">Edit</a>
+                                        <a class="btn btn-danger" href="/Client/Delete/${client.id}">Delete</a>
+                                    </td>
+                                </tr>
+                            `;
+                            });
+                            $('#client-table-body').html(rows);
+
+                            // Update the sort icons dynamically
+                            $('.sort-link').each(function () {
+                                const column = $(this).data('column');
+                                const icon = $(this).find('.sort-icon');
+                                if (column === currentSortColumn) {
+                                    icon.html(currentSortOrder === 'asc' ? '&#9650;' : '&#9660;');
+                                    $(this).data('order', currentSortOrder === 'asc' ? 'desc' : 'asc');
+                                } else {
+                                    icon.html('');
+                                    $(this).data('order', 'asc');
+                                }
+                            });
+                        }
+                    }
+                });
+            }
+
+        });
+    </script>
+}

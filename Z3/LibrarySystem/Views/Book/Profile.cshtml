@@ -1,0 +1,54 @@
+﻿@model LibrarySystem.Models.BookProfileViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Profile - @Model.Title</title>
+</head>
+<body>
+    <h1>Book Profile - @Model.Title</h1>
+    <hr />
+
+    <div>
+        <h3>Book Details</h3>
+        <p><strong>Author:</strong> @Model.Author</p>
+        <p><strong>Genre:</strong> @Model.Genre</p>
+        <p><strong>Year:</strong> @Model.Year</p>
+        <p><strong>Availability:</strong> @(Model.IsRented ? "Currently Rented" : "Available")</p>
+    </div>
+
+    <div>
+        <h3>Rental History</h3>
+        @if (Model.RentalHistory.Any())
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Client Name</th>
+                        <th>Rental Date</th>
+                        <th>Return Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var rental in Model.RentalHistory
+                   .OrderBy(r => r.ReturnDate.HasValue) // "Not Returned" (null) first
+                   .ThenByDescending(r => r.RentalDate)) // Then by most recent RentalDate
+                    {
+                        <tr>
+                            <td>@rental.ClientName</td>
+                            <td>@rental.RentalDate.ToString("yyyy-MM-dd")</td>
+                            <td>@(rental.ReturnDate.HasValue ? rental.ReturnDate.Value.ToString("yyyy-MM-dd") : "Not Returned")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No rental history available.</p>
+        }
+    </div>
+</body>
+</html>

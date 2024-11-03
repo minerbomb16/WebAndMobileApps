@@ -1,0 +1,402 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Book Thief",
+    "Author": "Markus Zusak",
+    "Genre": "Historical",
+    "Year": 2005,
+    "IsRented": false
+  },
+  {
+    "Id": 2,
+    "Title": "The Time Traveler's Wife",
+    "Author": "Audrey Niffenegger",
+    "Genre": "Romance",
+    "Year": 2003,
+    "IsRented": false
+  },
+  {
+    "Id": 3,
+    "Title": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "Genre": "Mystery",
+    "Year": 2005,
+    "IsRented": false
+  },
+  {
+    "Id": 4,
+    "Title": "The Hitchhiker's Guide to the Galaxy",
+    "Author": "Douglas Adams",
+    "Genre": "Science Fiction",
+    "Year": 1979,
+    "IsRented": false
+  },
+  {
+    "Id": 5,
+    "Title": "The Fault in Our Stars",
+    "Author": "John Green",
+    "Genre": "Young Adult",
+    "Year": 2012,
+    "IsRented": false
+  },
+  {
+    "Id": 6,
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "Genre": "Horror",
+    "Year": 1977,
+    "IsRented": false
+  },
+  {
+    "Id": 7,
+    "Title": "The Silent Patient",
+    "Author": "Alex Michaelides",
+    "Genre": "Thriller",
+    "Year": 2019,
+    "IsRented": false
+  },
+  {
+    "Id": 8,
+    "Title": "Circe",
+    "Author": "Madeline Miller",
+    "Genre": "Fantasy",
+    "Year": 2018,
+    "IsRented": false
+  },
+  {
+    "Id": 9,
+    "Title": "Educated",
+    "Author": "Tara Westover",
+    "Genre": "Biography",
+    "Year": 2018,
+    "IsRented": true
+  },
+  {
+    "Id": 10,
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Fiction",
+    "Year": 1925,
+    "IsRented": false
+  },
+  {
+    "Id": 11,
+    "Title": "The Night Circus",
+    "Author": "Erin Morgenstern",
+    "Genre": "Fantasy",
+    "Year": 2011,
+    "IsRented": true
+  },
+  {
+    "Id": 12,
+    "Title": "Big Little Lies",
+    "Author": "Liane Moriarty",
+    "Genre": "Fiction",
+    "Year": 2014,
+    "IsRented": false
+  },
+  {
+    "Id": 13,
+    "Title": "The Handmaid's Tale",
+    "Author": "Margaret Atwood",
+    "Genre": "Dystopian",
+    "Year": 1985,
+    "IsRented": true
+  },
+  {
+    "Id": 14,
+    "Title": "A Court of Thorns and Roses",
+    "Author": "Sarah J. Maas",
+    "Genre": "Fantasy",
+    "Year": 2015,
+    "IsRented": true
+  },
+  {
+    "Id": 15,
+    "Title": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Genre": "Mystery",
+    "Year": 2003,
+    "IsRented": true
+  },
+  {
+    "Id": 16,
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "Genre": "Science Fiction",
+    "Year": 1965,
+    "IsRented": true
+  },
+  {
+    "Id": 17,
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "Genre": "Thriller",
+    "Year": 2012,
+    "IsRented": true
+  },
+  {
+    "Id": 18,
+    "Title": "A Game of Thrones",
+    "Author": "George R.R. Martin",
+    "Genre": "Fantasy",
+    "Year": 1996,
+    "IsRented": false
+  },
+  {
+    "Id": 19,
+    "Title": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "Genre": "Fiction",
+    "Year": 1890,
+    "IsRented": true
+  },
+  {
+    "Id": 20,
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "Genre": "Dystopian",
+    "Year": 1932,
+    "IsRented": true
+  },
+  {
+    "Id": 21,
+    "Title": "The Perks of Being a Wallflower",
+    "Author": "Stephen Chbosky",
+    "Genre": "Young Adult",
+    "Year": 1999,
+    "IsRented": false
+  },
+  {
+    "Id": 22,
+    "Title": "The Immortalists",
+    "Author": "Chloe Benjamin",
+    "Genre": "Fiction",
+    "Year": 2018,
+    "IsRented": true
+  },
+  {
+    "Id": 23,
+    "Title": "Anxious People",
+    "Author": "Fredrik Backman",
+    "Genre": "Fiction",
+    "Year": 2020,
+    "IsRented": false
+  },
+  {
+    "Id": 24,
+    "Title": "The Ocean at the End of the Lane",
+    "Author": "Neil Gaiman",
+    "Genre": "Fantasy",
+    "Year": 2013,
+    "IsRented": false
+  },
+  {
+    "Id": 25,
+    "Title": "Station Eleven",
+    "Author": "Emily St. John Mandel",
+    "Genre": "Science Fiction",
+    "Year": 2014,
+    "IsRented": true
+  },
+  {
+    "Id": 26,
+    "Title": "The Silent Corner",
+    "Author": "Dean Koontz",
+    "Genre": "Thriller",
+    "Year": 2017,
+    "IsRented": false
+  },
+  {
+    "Id": 27,
+    "Title": "American Dirt",
+    "Author": "Jeanine Cummins",
+    "Genre": "Fiction",
+    "Year": 2020,
+    "IsRented": true
+  },
+  {
+    "Id": 28,
+    "Title": "The House in the Cerulean Sea",
+    "Author": "TJ Klune",
+    "Genre": "Fantasy",
+    "Year": 2020,
+    "IsRented": true
+  },
+  {
+    "Id": 29,
+    "Title": "The Glass Castle",
+    "Author": "Jeannette Walls",
+    "Genre": "Biography",
+    "Year": 2005,
+    "IsRented": true
+  },
+  {
+    "Id": 30,
+    "Title": "Me Before You",
+    "Author": "Jojo Moyes",
+    "Genre": "Romance",
+    "Year": 2012,
+    "IsRented": false
+  },
+  {
+    "Id": 31,
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Genre": "Young Adult",
+    "Year": 2008,
+    "IsRented": false
+  },
+  {
+    "Id": 32,
+    "Title": "The Girl on the Train",
+    "Author": "Paula Hawkins",
+    "Genre": "Thriller",
+    "Year": 2015,
+    "IsRented": true
+  },
+  {
+    "Id": 33,
+    "Title": "The Art of Racing in the Rain",
+    "Author": "Garth Stein",
+    "Genre": "Fiction",
+    "Year": 2008,
+    "IsRented": false
+  },
+  {
+    "Id": 34,
+    "Title": "Call Me by Your Name",
+    "Author": "André Aciman",
+    "Genre": "Romance",
+    "Year": 2007,
+    "IsRented": false
+  },
+  {
+    "Id": 35,
+    "Title": "The Road",
+    "Author": "Cormac McCarthy",
+    "Genre": "Fiction",
+    "Year": 2006,
+    "IsRented": false
+  },
+  {
+    "Id": 36,
+    "Title": "The Lovely Bones",
+    "Author": "Alice Sebold",
+    "Genre": "Fiction",
+    "Year": 2002,
+    "IsRented": true
+  },
+  {
+    "Id": 37,
+    "Title": "All the Light We Cannot See",
+    "Author": "Anthony Doerr",
+    "Genre": "Historical",
+    "Year": 2014,
+    "IsRented": false
+  },
+  {
+    "Id": 38,
+    "Title": "The Woman in the Window",
+    "Author": "A.J. Finn",
+    "Genre": "Thriller",
+    "Year": 2018,
+    "IsRented": false
+  },
+  {
+    "Id": 39,
+    "Title": "The Martian",
+    "Author": "Andy Weir",
+    "Genre": "Science Fiction",
+    "Year": 2011,
+    "IsRented": false
+  },
+  {
+    "Id": 40,
+    "Title": "Where the Crawdads Sing",
+    "Author": "Delia Owens",
+    "Genre": "Fiction",
+    "Year": 2018,
+    "IsRented": true
+  },
+  {
+    "Id": 41,
+    "Title": "The Goldfinch",
+    "Author": "Donna Tartt",
+    "Genre": "Fiction",
+    "Year": 2013,
+    "IsRented": false
+  },
+  {
+    "Id": 42,
+    "Title": "The Seven Husbands of Evelyn Hugo",
+    "Author": "Taylor Jenkins Reid",
+    "Genre": "Historical",
+    "Year": 2017,
+    "IsRented": true
+  },
+  {
+    "Id": 43,
+    "Title": "The City We Became",
+    "Author": "N.K. Jemisin",
+    "Genre": "Fantasy",
+    "Year": 2020,
+    "IsRented": false
+  },
+  {
+    "Id": 44,
+    "Title": "It Ends with Us",
+    "Author": "Colleen Hoover",
+    "Genre": "Romance",
+    "Year": 2016,
+    "IsRented": false
+  },
+  {
+    "Id": 45,
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Year": 1997,
+    "IsRented": false
+  },
+  {
+    "Id": 46,
+    "Title": "The Rosie Project",
+    "Author": "Graeme Simsion",
+    "Genre": "Romance",
+    "Year": 2013,
+    "IsRented": false
+  },
+  {
+    "Id": 47,
+    "Title": "The Kite Runner",
+    "Author": "Khaled Hosseini",
+    "Genre": "Fiction",
+    "Year": 2003,
+    "IsRented": true
+  },
+  {
+    "Id": 48,
+    "Title": "Normal People",
+    "Author": "Sally Rooney",
+    "Genre": "Fiction",
+    "Year": 2018,
+    "IsRented": false
+  },
+  {
+    "Id": 49,
+    "Title": "The Vanishing Half",
+    "Author": "Brit Bennett",
+    "Genre": "Fiction",
+    "Year": 2020,
+    "IsRented": true
+  },
+  {
+    "Id": 50,
+    "Title": "Pachinko",
+    "Author": "Min Jin Lee",
+    "Genre": "Historical",
+    "Year": 2017,
+    "IsRented": false
+  }
+]

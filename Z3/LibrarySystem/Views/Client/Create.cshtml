@@ -1,0 +1,32 @@
+﻿@model LibrarySystem.Models.Client
+
+@{
+    ViewData["Title"] = "Add New Client";
+}
+
+<h1>Add New Client</h1>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Name">Client Name</label>
+        <input type="text" id="Name" name="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email Address</label>
+        <input type="email" id="Email" name="Email" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Phone">Phone Number</label>
+        <input type="text" id="Phone" name="Phone" class="form-control" maxlength="9" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

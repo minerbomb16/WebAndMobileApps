@@ -1,0 +1,2711 @@
+[
+  {
+    "Id": 1,
+    "ClientId": 41,
+    "BookId": 49,
+    "RentalDate": "2024-08-19T00:00:00",
+    "ReturnDate": "2024-08-30T00:00:00"
+  },
+  {
+    "Id": 2,
+    "ClientId": 18,
+    "BookId": 33,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-06-21T00:00:00"
+  },
+  {
+    "Id": 3,
+    "ClientId": 15,
+    "BookId": 26,
+    "RentalDate": "2024-09-22T00:00:00",
+    "ReturnDate": "2024-10-29T20:27:57.4453378+01:00"
+  },
+  {
+    "Id": 4,
+    "ClientId": 26,
+    "BookId": 16,
+    "RentalDate": "2024-08-18T00:00:00",
+    "ReturnDate": "2024-09-05T00:00:00"
+  },
+  {
+    "Id": 5,
+    "ClientId": 24,
+    "BookId": 28,
+    "RentalDate": "2024-10-07T00:00:00",
+    "ReturnDate": "2024-10-24T00:00:00"
+  },
+  {
+    "Id": 6,
+    "ClientId": 30,
+    "BookId": 13,
+    "RentalDate": "2024-06-02T00:00:00",
+    "ReturnDate": "2024-06-19T00:00:00"
+  },
+  {
+    "Id": 7,
+    "ClientId": 31,
+    "BookId": 43,
+    "RentalDate": "2024-09-14T00:00:00",
+    "ReturnDate": "2024-09-22T00:00:00"
+  },
+  {
+    "Id": 8,
+    "ClientId": 9,
+    "BookId": 50,
+    "RentalDate": "2024-10-24T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 9,
+    "ClientId": 18,
+    "BookId": 17,
+    "RentalDate": "2024-07-13T00:00:00",
+    "ReturnDate": "2024-07-21T00:00:00"
+  },
+  {
+    "Id": 10,
+    "ClientId": 50,
+    "BookId": 26,
+    "RentalDate": "2024-08-11T00:00:00",
+    "ReturnDate": "2024-08-26T00:00:00"
+  },
+  {
+    "Id": 11,
+    "ClientId": 45,
+    "BookId": 29,
+    "RentalDate": "2024-10-13T00:00:00",
+    "ReturnDate": "2024-10-27T00:00:00"
+  },
+  {
+    "Id": 12,
+    "ClientId": 47,
+    "BookId": 41,
+    "RentalDate": "2024-06-14T00:00:00",
+    "ReturnDate": "2024-07-03T00:00:00"
+  },
+  {
+    "Id": 13,
+    "ClientId": 29,
+    "BookId": 4,
+    "RentalDate": "2024-09-05T00:00:00",
+    "ReturnDate": "2024-09-14T00:00:00"
+  },
+  {
+    "Id": 14,
+    "ClientId": 17,
+    "BookId": 16,
+    "RentalDate": "2024-09-02T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 15,
+    "ClientId": 20,
+    "BookId": 22,
+    "RentalDate": "2024-07-24T00:00:00",
+    "ReturnDate": "2024-08-10T00:00:00"
+  },
+  {
+    "Id": 16,
+    "ClientId": 36,
+    "BookId": 44,
+    "RentalDate": "2024-09-12T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 17,
+    "ClientId": 33,
+    "BookId": 46,
+    "RentalDate": "2024-10-23T00:00:00",
+    "ReturnDate": "2024-11-10T00:00:00"
+  },
+  {
+    "Id": 18,
+    "ClientId": 22,
+    "BookId": 43,
+    "RentalDate": "2024-08-26T00:00:00",
+    "ReturnDate": "2024-09-10T00:00:00"
+  },
+  {
+    "Id": 19,
+    "ClientId": 25,
+    "BookId": 37,
+    "RentalDate": "2024-08-03T00:00:00",
+    "ReturnDate": "2024-08-14T00:00:00"
+  },
+  {
+    "Id": 20,
+    "ClientId": 14,
+    "BookId": 15,
+    "RentalDate": "2024-08-25T00:00:00",
+    "ReturnDate": "2024-09-10T00:00:00"
+  },
+  {
+    "Id": 21,
+    "ClientId": 25,
+    "BookId": 30,
+    "RentalDate": "2024-07-08T00:00:00",
+    "ReturnDate": "2024-07-24T00:00:00"
+  },
+  {
+    "Id": 22,
+    "ClientId": 35,
+    "BookId": 18,
+    "RentalDate": "2024-10-24T00:00:00",
+    "ReturnDate": "2024-11-03T00:00:00"
+  },
+  {
+    "Id": 23,
+    "ClientId": 41,
+    "BookId": 15,
+    "RentalDate": "2024-08-10T00:00:00",
+    "ReturnDate": "2024-08-29T00:00:00"
+  },
+  {
+    "Id": 24,
+    "ClientId": 14,
+    "BookId": 49,
+    "RentalDate": "2024-09-11T00:00:00",
+    "ReturnDate": "2024-09-23T00:00:00"
+  },
+  {
+    "Id": 25,
+    "ClientId": 40,
+    "BookId": 44,
+    "RentalDate": "2024-08-20T00:00:00",
+    "ReturnDate": "2024-08-25T00:00:00"
+  },
+  {
+    "Id": 26,
+    "ClientId": 2,
+    "BookId": 11,
+    "RentalDate": "2024-08-17T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 27,
+    "ClientId": 49,
+    "BookId": 48,
+    "RentalDate": "2024-09-20T00:00:00",
+    "ReturnDate": "2024-10-06T00:00:00"
+  },
+  {
+    "Id": 28,
+    "ClientId": 47,
+    "BookId": 32,
+    "RentalDate": "2024-08-26T00:00:00",
+    "ReturnDate": "2024-09-05T00:00:00"
+  },
+  {
+    "Id": 29,
+    "ClientId": 31,
+    "BookId": 8,
+    "RentalDate": "2024-07-22T00:00:00",
+    "ReturnDate": "2024-07-31T00:00:00"
+  },
+  {
+    "Id": 30,
+    "ClientId": 6,
+    "BookId": 41,
+    "RentalDate": "2024-08-17T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 31,
+    "ClientId": 41,
+    "BookId": 4,
+    "RentalDate": "2024-07-08T00:00:00",
+    "ReturnDate": "2024-07-16T00:00:00"
+  },
+  {
+    "Id": 32,
+    "ClientId": 11,
+    "BookId": 45,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-08-31T00:00:00"
+  },
+  {
+    "Id": 33,
+    "ClientId": 45,
+    "BookId": 38,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 34,
+    "ClientId": 5,
+    "BookId": 15,
+    "RentalDate": "2024-08-29T00:00:00",
+    "ReturnDate": "2024-09-17T00:00:00"
+  },
+  {
+    "Id": 35,
+    "ClientId": 17,
+    "BookId": 13,
+    "RentalDate": "2024-09-03T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 36,
+    "ClientId": 6,
+    "BookId": 39,
+    "RentalDate": "2024-08-03T00:00:00",
+    "ReturnDate": "2024-08-20T00:00:00"
+  },
+  {
+    "Id": 37,
+    "ClientId": 9,
+    "BookId": 9,
+    "RentalDate": "2024-09-24T00:00:00",
+    "ReturnDate": "2024-10-04T00:00:00"
+  },
+  {
+    "Id": 38,
+    "ClientId": 8,
+    "BookId": 8,
+    "RentalDate": "2024-06-18T00:00:00",
+    "ReturnDate": "2024-06-24T00:00:00"
+  },
+  {
+    "Id": 39,
+    "ClientId": 26,
+    "BookId": 13,
+    "RentalDate": "2024-06-28T00:00:00",
+    "ReturnDate": "2024-07-12T00:00:00"
+  },
+  {
+    "Id": 40,
+    "ClientId": 19,
+    "BookId": 35,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-06-22T00:00:00"
+  },
+  {
+    "Id": 41,
+    "ClientId": 9,
+    "BookId": 24,
+    "RentalDate": "2024-09-13T00:00:00",
+    "ReturnDate": "2024-09-19T00:00:00"
+  },
+  {
+    "Id": 42,
+    "ClientId": 20,
+    "BookId": 27,
+    "RentalDate": "2024-07-28T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 43,
+    "ClientId": 30,
+    "BookId": 47,
+    "RentalDate": "2024-08-25T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 44,
+    "ClientId": 40,
+    "BookId": 12,
+    "RentalDate": "2024-07-08T00:00:00",
+    "ReturnDate": "2024-07-27T00:00:00"
+  },
+  {
+    "Id": 45,
+    "ClientId": 33,
+    "BookId": 25,
+    "RentalDate": "2024-07-22T00:00:00",
+    "ReturnDate": "2024-08-06T00:00:00"
+  },
+  {
+    "Id": 46,
+    "ClientId": 27,
+    "BookId": 27,
+    "RentalDate": "2024-10-08T00:00:00",
+    "ReturnDate": "2024-10-16T00:00:00"
+  },
+  {
+    "Id": 47,
+    "ClientId": 4,
+    "BookId": 14,
+    "RentalDate": "2024-06-25T00:00:00",
+    "ReturnDate": "2024-07-14T00:00:00"
+  },
+  {
+    "Id": 48,
+    "ClientId": 14,
+    "BookId": 3,
+    "RentalDate": "2024-07-01T00:00:00",
+    "ReturnDate": "2024-07-16T00:00:00"
+  },
+  {
+    "Id": 49,
+    "ClientId": 43,
+    "BookId": 12,
+    "RentalDate": "2024-10-17T00:00:00",
+    "ReturnDate": "2024-10-30T00:00:00"
+  },
+  {
+    "Id": 50,
+    "ClientId": 22,
+    "BookId": 39,
+    "RentalDate": "2024-08-12T00:00:00",
+    "ReturnDate": "2024-08-30T00:00:00"
+  },
+  {
+    "Id": 51,
+    "ClientId": 47,
+    "BookId": 41,
+    "RentalDate": "2024-06-12T00:00:00",
+    "ReturnDate": "2024-06-27T00:00:00"
+  },
+  {
+    "Id": 52,
+    "ClientId": 48,
+    "BookId": 5,
+    "RentalDate": "2024-06-01T00:00:00",
+    "ReturnDate": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 53,
+    "ClientId": 45,
+    "BookId": 13,
+    "RentalDate": "2024-08-19T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 54,
+    "ClientId": 36,
+    "BookId": 2,
+    "RentalDate": "2024-09-10T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 55,
+    "ClientId": 42,
+    "BookId": 4,
+    "RentalDate": "2024-06-05T00:00:00",
+    "ReturnDate": "2024-10-29T19:50:31.9803795+01:00"
+  },
+  {
+    "Id": 56,
+    "ClientId": 19,
+    "BookId": 11,
+    "RentalDate": "2024-06-26T00:00:00",
+    "ReturnDate": "2024-07-12T00:00:00"
+  },
+  {
+    "Id": 57,
+    "ClientId": 44,
+    "BookId": 43,
+    "RentalDate": "2024-09-18T00:00:00",
+    "ReturnDate": "2024-10-08T00:00:00"
+  },
+  {
+    "Id": 58,
+    "ClientId": 13,
+    "BookId": 26,
+    "RentalDate": "2024-08-02T00:00:00",
+    "ReturnDate": "2024-08-10T00:00:00"
+  },
+  {
+    "Id": 59,
+    "ClientId": 4,
+    "BookId": 6,
+    "RentalDate": "2024-09-13T00:00:00",
+    "ReturnDate": "2024-09-28T00:00:00"
+  },
+  {
+    "Id": 60,
+    "ClientId": 11,
+    "BookId": 21,
+    "RentalDate": "2024-08-11T00:00:00",
+    "ReturnDate": "2024-08-18T00:00:00"
+  },
+  {
+    "Id": 61,
+    "ClientId": 15,
+    "BookId": 33,
+    "RentalDate": "2024-10-13T00:00:00",
+    "ReturnDate": "2024-10-25T00:00:00"
+  },
+  {
+    "Id": 62,
+    "ClientId": 38,
+    "BookId": 13,
+    "RentalDate": "2024-08-16T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 63,
+    "ClientId": 8,
+    "BookId": 1,
+    "RentalDate": "2024-10-28T00:00:00",
+    "ReturnDate": "2024-11-13T00:00:00"
+  },
+  {
+    "Id": 64,
+    "ClientId": 6,
+    "BookId": 19,
+    "RentalDate": "2024-06-02T00:00:00",
+    "ReturnDate": "2024-06-11T00:00:00"
+  },
+  {
+    "Id": 65,
+    "ClientId": 18,
+    "BookId": 3,
+    "RentalDate": "2024-08-19T00:00:00",
+    "ReturnDate": "2024-08-28T00:00:00"
+  },
+  {
+    "Id": 66,
+    "ClientId": 24,
+    "BookId": 39,
+    "RentalDate": "2024-08-29T00:00:00",
+    "ReturnDate": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 67,
+    "ClientId": 15,
+    "BookId": 17,
+    "RentalDate": "2024-06-10T00:00:00",
+    "ReturnDate": "2024-06-26T00:00:00"
+  },
+  {
+    "Id": 68,
+    "ClientId": 35,
+    "BookId": 41,
+    "RentalDate": "2024-09-07T00:00:00",
+    "ReturnDate": "2024-09-24T00:00:00"
+  },
+  {
+    "Id": 69,
+    "ClientId": 39,
+    "BookId": 8,
+    "RentalDate": "2024-06-11T00:00:00",
+    "ReturnDate": "2024-06-24T00:00:00"
+  },
+  {
+    "Id": 70,
+    "ClientId": 41,
+    "BookId": 24,
+    "RentalDate": "2024-06-30T00:00:00",
+    "ReturnDate": "2024-07-07T00:00:00"
+  },
+  {
+    "Id": 71,
+    "ClientId": 29,
+    "BookId": 44,
+    "RentalDate": "2024-10-21T00:00:00",
+    "ReturnDate": "2024-11-03T00:00:00"
+  },
+  {
+    "Id": 72,
+    "ClientId": 46,
+    "BookId": 22,
+    "RentalDate": "2024-07-06T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 73,
+    "ClientId": 31,
+    "BookId": 39,
+    "RentalDate": "2024-07-17T00:00:00",
+    "ReturnDate": "2024-08-04T00:00:00"
+  },
+  {
+    "Id": 74,
+    "ClientId": 25,
+    "BookId": 49,
+    "RentalDate": "2024-09-06T00:00:00",
+    "ReturnDate": "2024-09-19T00:00:00"
+  },
+  {
+    "Id": 75,
+    "ClientId": 28,
+    "BookId": 30,
+    "RentalDate": "2024-09-28T00:00:00",
+    "ReturnDate": "2024-10-17T00:00:00"
+  },
+  {
+    "Id": 76,
+    "ClientId": 48,
+    "BookId": 4,
+    "RentalDate": "2024-08-27T00:00:00",
+    "ReturnDate": "2024-09-14T00:00:00"
+  },
+  {
+    "Id": 77,
+    "ClientId": 5,
+    "BookId": 25,
+    "RentalDate": "2024-06-09T00:00:00",
+    "ReturnDate": "2024-06-18T00:00:00"
+  },
+  {
+    "Id": 78,
+    "ClientId": 28,
+    "BookId": 5,
+    "RentalDate": "2024-09-14T00:00:00",
+    "ReturnDate": "2024-09-30T00:00:00"
+  },
+  {
+    "Id": 79,
+    "ClientId": 46,
+    "BookId": 43,
+    "RentalDate": "2024-09-22T00:00:00",
+    "ReturnDate": "2024-10-12T00:00:00"
+  },
+  {
+    "Id": 80,
+    "ClientId": 18,
+    "BookId": 19,
+    "RentalDate": "2024-09-11T00:00:00",
+    "ReturnDate": "2024-09-18T00:00:00"
+  },
+  {
+    "Id": 81,
+    "ClientId": 22,
+    "BookId": 26,
+    "RentalDate": "2024-08-23T00:00:00",
+    "ReturnDate": "2024-09-08T00:00:00"
+  },
+  {
+    "Id": 82,
+    "ClientId": 1,
+    "BookId": 33,
+    "RentalDate": "2024-07-10T00:00:00",
+    "ReturnDate": "2024-07-21T00:00:00"
+  },
+  {
+    "Id": 83,
+    "ClientId": 46,
+    "BookId": 21,
+    "RentalDate": "2024-09-30T00:00:00",
+    "ReturnDate": "2024-10-14T00:00:00"
+  },
+  {
+    "Id": 84,
+    "ClientId": 47,
+    "BookId": 27,
+    "RentalDate": "2024-09-04T00:00:00",
+    "ReturnDate": "2024-09-24T00:00:00"
+  },
+  {
+    "Id": 85,
+    "ClientId": 14,
+    "BookId": 40,
+    "RentalDate": "2024-07-20T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 86,
+    "ClientId": 25,
+    "BookId": 47,
+    "RentalDate": "2024-10-21T00:00:00",
+    "ReturnDate": "2024-10-29T00:00:00"
+  },
+  {
+    "Id": 87,
+    "ClientId": 1,
+    "BookId": 17,
+    "RentalDate": "2024-07-19T00:00:00",
+    "ReturnDate": "2024-08-06T00:00:00"
+  },
+  {
+    "Id": 88,
+    "ClientId": 7,
+    "BookId": 34,
+    "RentalDate": "2024-06-23T00:00:00",
+    "ReturnDate": "2024-07-05T00:00:00"
+  },
+  {
+    "Id": 89,
+    "ClientId": 36,
+    "BookId": 42,
+    "RentalDate": "2024-08-05T00:00:00",
+    "ReturnDate": "2024-08-21T00:00:00"
+  },
+  {
+    "Id": 90,
+    "ClientId": 33,
+    "BookId": 20,
+    "RentalDate": "2024-06-10T00:00:00",
+    "ReturnDate": "2024-06-20T00:00:00"
+  },
+  {
+    "Id": 91,
+    "ClientId": 30,
+    "BookId": 4,
+    "RentalDate": "2024-06-14T00:00:00",
+    "ReturnDate": "2024-06-20T00:00:00"
+  },
+  {
+    "Id": 92,
+    "ClientId": 40,
+    "BookId": 41,
+    "RentalDate": "2024-07-01T00:00:00",
+    "ReturnDate": "2024-07-16T00:00:00"
+  },
+  {
+    "Id": 93,
+    "ClientId": 35,
+    "BookId": 32,
+    "RentalDate": "2024-09-05T00:00:00",
+    "ReturnDate": "2024-09-21T00:00:00"
+  },
+  {
+    "Id": 94,
+    "ClientId": 18,
+    "BookId": 14,
+    "RentalDate": "2024-10-20T00:00:00",
+    "ReturnDate": "2024-10-25T00:00:00"
+  },
+  {
+    "Id": 95,
+    "ClientId": 11,
+    "BookId": 23,
+    "RentalDate": "2024-08-22T00:00:00",
+    "ReturnDate": "2024-09-07T00:00:00"
+  },
+  {
+    "Id": 96,
+    "ClientId": 38,
+    "BookId": 24,
+    "RentalDate": "2024-09-29T00:00:00",
+    "ReturnDate": "2024-10-13T00:00:00"
+  },
+  {
+    "Id": 97,
+    "ClientId": 6,
+    "BookId": 26,
+    "RentalDate": "2024-08-23T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 98,
+    "ClientId": 11,
+    "BookId": 16,
+    "RentalDate": "2024-07-11T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 99,
+    "ClientId": 9,
+    "BookId": 28,
+    "RentalDate": "2024-06-08T00:00:00",
+    "ReturnDate": "2024-06-18T00:00:00"
+  },
+  {
+    "Id": 100,
+    "ClientId": 28,
+    "BookId": 27,
+    "RentalDate": "2024-09-05T00:00:00",
+    "ReturnDate": "2024-09-12T00:00:00"
+  },
+  {
+    "Id": 101,
+    "ClientId": 34,
+    "BookId": 48,
+    "RentalDate": "2024-07-17T00:00:00",
+    "ReturnDate": "2024-07-26T00:00:00"
+  },
+  {
+    "Id": 102,
+    "ClientId": 35,
+    "BookId": 7,
+    "RentalDate": "2024-10-12T00:00:00",
+    "ReturnDate": "2024-10-23T00:00:00"
+  },
+  {
+    "Id": 103,
+    "ClientId": 26,
+    "BookId": 29,
+    "RentalDate": "2024-08-10T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 104,
+    "ClientId": 17,
+    "BookId": 17,
+    "RentalDate": "2024-08-01T00:00:00",
+    "ReturnDate": "2024-08-11T00:00:00"
+  },
+  {
+    "Id": 105,
+    "ClientId": 18,
+    "BookId": 45,
+    "RentalDate": "2024-07-19T00:00:00",
+    "ReturnDate": "2024-07-28T00:00:00"
+  },
+  {
+    "Id": 106,
+    "ClientId": 47,
+    "BookId": 25,
+    "RentalDate": "2024-08-17T00:00:00",
+    "ReturnDate": "2024-09-01T00:00:00"
+  },
+  {
+    "Id": 107,
+    "ClientId": 23,
+    "BookId": 22,
+    "RentalDate": "2024-08-18T00:00:00",
+    "ReturnDate": "2024-09-04T00:00:00"
+  },
+  {
+    "Id": 108,
+    "ClientId": 41,
+    "BookId": 4,
+    "RentalDate": "2024-10-12T00:00:00",
+    "ReturnDate": "2024-10-29T18:36:58.4785362+01:00"
+  },
+  {
+    "Id": 109,
+    "ClientId": 7,
+    "BookId": 33,
+    "RentalDate": "2024-09-23T00:00:00",
+    "ReturnDate": "2024-10-02T00:00:00"
+  },
+  {
+    "Id": 110,
+    "ClientId": 42,
+    "BookId": 31,
+    "RentalDate": "2024-10-23T00:00:00",
+    "ReturnDate": "2024-11-04T00:00:00"
+  },
+  {
+    "Id": 111,
+    "ClientId": 40,
+    "BookId": 13,
+    "RentalDate": "2024-10-27T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 112,
+    "ClientId": 17,
+    "BookId": 41,
+    "RentalDate": "2024-08-21T00:00:00",
+    "ReturnDate": "2024-09-09T00:00:00"
+  },
+  {
+    "Id": 113,
+    "ClientId": 10,
+    "BookId": 25,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": "2024-10-14T00:00:00"
+  },
+  {
+    "Id": 114,
+    "ClientId": 1,
+    "BookId": 23,
+    "RentalDate": "2024-09-13T00:00:00",
+    "ReturnDate": "2024-09-25T00:00:00"
+  },
+  {
+    "Id": 115,
+    "ClientId": 25,
+    "BookId": 8,
+    "RentalDate": "2024-06-27T00:00:00",
+    "ReturnDate": "2024-07-09T00:00:00"
+  },
+  {
+    "Id": 116,
+    "ClientId": 40,
+    "BookId": 2,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-11-03T00:00:00"
+  },
+  {
+    "Id": 117,
+    "ClientId": 24,
+    "BookId": 10,
+    "RentalDate": "2024-08-26T00:00:00",
+    "ReturnDate": "2024-09-06T00:00:00"
+  },
+  {
+    "Id": 118,
+    "ClientId": 1,
+    "BookId": 35,
+    "RentalDate": "2024-06-03T00:00:00",
+    "ReturnDate": "2024-06-23T00:00:00"
+  },
+  {
+    "Id": 119,
+    "ClientId": 35,
+    "BookId": 49,
+    "RentalDate": "2024-09-26T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 120,
+    "ClientId": 30,
+    "BookId": 32,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-09-01T00:00:00"
+  },
+  {
+    "Id": 121,
+    "ClientId": 3,
+    "BookId": 42,
+    "RentalDate": "2024-09-10T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 122,
+    "ClientId": 20,
+    "BookId": 45,
+    "RentalDate": "2024-07-25T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 123,
+    "ClientId": 12,
+    "BookId": 20,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 124,
+    "ClientId": 18,
+    "BookId": 15,
+    "RentalDate": "2024-08-20T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 125,
+    "ClientId": 22,
+    "BookId": 21,
+    "RentalDate": "2024-08-05T00:00:00",
+    "ReturnDate": "2024-08-18T00:00:00"
+  },
+  {
+    "Id": 126,
+    "ClientId": 19,
+    "BookId": 32,
+    "RentalDate": "2024-06-23T00:00:00",
+    "ReturnDate": "2024-07-04T00:00:00"
+  },
+  {
+    "Id": 127,
+    "ClientId": 10,
+    "BookId": 26,
+    "RentalDate": "2024-10-27T00:00:00",
+    "ReturnDate": "2024-11-13T00:00:00"
+  },
+  {
+    "Id": 128,
+    "ClientId": 3,
+    "BookId": 37,
+    "RentalDate": "2024-10-10T00:00:00",
+    "ReturnDate": "2024-10-21T00:00:00"
+  },
+  {
+    "Id": 129,
+    "ClientId": 36,
+    "BookId": 4,
+    "RentalDate": "2024-07-14T00:00:00",
+    "ReturnDate": "2024-07-24T00:00:00"
+  },
+  {
+    "Id": 130,
+    "ClientId": 39,
+    "BookId": 27,
+    "RentalDate": "2024-08-24T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 131,
+    "ClientId": 1,
+    "BookId": 40,
+    "RentalDate": "2024-10-11T00:00:00",
+    "ReturnDate": "2024-10-26T00:00:00"
+  },
+  {
+    "Id": 132,
+    "ClientId": 48,
+    "BookId": 7,
+    "RentalDate": "2024-07-28T00:00:00",
+    "ReturnDate": "2024-08-13T00:00:00"
+  },
+  {
+    "Id": 133,
+    "ClientId": 5,
+    "BookId": 3,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-11-04T00:00:00"
+  },
+  {
+    "Id": 134,
+    "ClientId": 10,
+    "BookId": 21,
+    "RentalDate": "2024-06-08T00:00:00",
+    "ReturnDate": "2024-06-17T00:00:00"
+  },
+  {
+    "Id": 135,
+    "ClientId": 14,
+    "BookId": 39,
+    "RentalDate": "2024-07-14T00:00:00",
+    "ReturnDate": "2024-08-02T00:00:00"
+  },
+  {
+    "Id": 136,
+    "ClientId": 37,
+    "BookId": 30,
+    "RentalDate": "2024-07-09T00:00:00",
+    "ReturnDate": "2024-07-15T00:00:00"
+  },
+  {
+    "Id": 137,
+    "ClientId": 49,
+    "BookId": 33,
+    "RentalDate": "2024-06-18T00:00:00",
+    "ReturnDate": "2024-06-28T00:00:00"
+  },
+  {
+    "Id": 138,
+    "ClientId": 18,
+    "BookId": 17,
+    "RentalDate": "2024-07-05T00:00:00",
+    "ReturnDate": "2024-07-23T00:00:00"
+  },
+  {
+    "Id": 139,
+    "ClientId": 26,
+    "BookId": 22,
+    "RentalDate": "2024-07-04T00:00:00",
+    "ReturnDate": "2024-07-10T00:00:00"
+  },
+  {
+    "Id": 140,
+    "ClientId": 33,
+    "BookId": 15,
+    "RentalDate": "2024-07-04T00:00:00",
+    "ReturnDate": "2024-07-11T00:00:00"
+  },
+  {
+    "Id": 141,
+    "ClientId": 26,
+    "BookId": 45,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-08-19T00:00:00"
+  },
+  {
+    "Id": 142,
+    "ClientId": 42,
+    "BookId": 42,
+    "RentalDate": "2024-07-08T00:00:00",
+    "ReturnDate": "2024-07-22T00:00:00"
+  },
+  {
+    "Id": 143,
+    "ClientId": 10,
+    "BookId": 33,
+    "RentalDate": "2024-10-20T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 144,
+    "ClientId": 42,
+    "BookId": 27,
+    "RentalDate": "2024-08-28T00:00:00",
+    "ReturnDate": "2024-09-11T00:00:00"
+  },
+  {
+    "Id": 145,
+    "ClientId": 26,
+    "BookId": 8,
+    "RentalDate": "2024-10-11T00:00:00",
+    "ReturnDate": "2024-10-24T00:00:00"
+  },
+  {
+    "Id": 146,
+    "ClientId": 34,
+    "BookId": 5,
+    "RentalDate": "2024-10-21T00:00:00",
+    "ReturnDate": "2024-11-07T00:00:00"
+  },
+  {
+    "Id": 147,
+    "ClientId": 30,
+    "BookId": 9,
+    "RentalDate": "2024-07-03T00:00:00",
+    "ReturnDate": "2024-07-10T00:00:00"
+  },
+  {
+    "Id": 148,
+    "ClientId": 4,
+    "BookId": 32,
+    "RentalDate": "2024-06-02T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 149,
+    "ClientId": 8,
+    "BookId": 6,
+    "RentalDate": "2024-10-26T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 150,
+    "ClientId": 38,
+    "BookId": 15,
+    "RentalDate": "2024-06-07T00:00:00",
+    "ReturnDate": "2024-06-18T00:00:00"
+  },
+  {
+    "Id": 151,
+    "ClientId": 24,
+    "BookId": 27,
+    "RentalDate": "2024-10-01T00:00:00",
+    "ReturnDate": "2024-10-10T00:00:00"
+  },
+  {
+    "Id": 152,
+    "ClientId": 31,
+    "BookId": 48,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 153,
+    "ClientId": 4,
+    "BookId": 25,
+    "RentalDate": "2024-09-26T00:00:00",
+    "ReturnDate": "2024-10-11T00:00:00"
+  },
+  {
+    "Id": 154,
+    "ClientId": 28,
+    "BookId": 22,
+    "RentalDate": "2024-09-23T00:00:00",
+    "ReturnDate": "2024-10-02T00:00:00"
+  },
+  {
+    "Id": 155,
+    "ClientId": 23,
+    "BookId": 28,
+    "RentalDate": "2024-08-04T00:00:00",
+    "ReturnDate": "2024-08-21T00:00:00"
+  },
+  {
+    "Id": 156,
+    "ClientId": 12,
+    "BookId": 36,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 157,
+    "ClientId": 32,
+    "BookId": 42,
+    "RentalDate": "2024-06-01T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 158,
+    "ClientId": 13,
+    "BookId": 49,
+    "RentalDate": "2024-07-24T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 159,
+    "ClientId": 4,
+    "BookId": 23,
+    "RentalDate": "2024-09-29T00:00:00",
+    "ReturnDate": "2024-10-04T00:00:00"
+  },
+  {
+    "Id": 160,
+    "ClientId": 48,
+    "BookId": 21,
+    "RentalDate": "2024-07-22T00:00:00",
+    "ReturnDate": "2024-07-28T00:00:00"
+  },
+  {
+    "Id": 161,
+    "ClientId": 12,
+    "BookId": 20,
+    "RentalDate": "2024-07-27T00:00:00",
+    "ReturnDate": "2024-08-01T00:00:00"
+  },
+  {
+    "Id": 162,
+    "ClientId": 30,
+    "BookId": 36,
+    "RentalDate": "2024-07-02T00:00:00",
+    "ReturnDate": "2024-07-20T00:00:00"
+  },
+  {
+    "Id": 163,
+    "ClientId": 44,
+    "BookId": 41,
+    "RentalDate": "2024-09-22T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 164,
+    "ClientId": 24,
+    "BookId": 20,
+    "RentalDate": "2024-06-27T00:00:00",
+    "ReturnDate": "2024-07-16T00:00:00"
+  },
+  {
+    "Id": 165,
+    "ClientId": 24,
+    "BookId": 14,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-08-24T00:00:00"
+  },
+  {
+    "Id": 166,
+    "ClientId": 44,
+    "BookId": 27,
+    "RentalDate": "2024-08-21T00:00:00",
+    "ReturnDate": "2024-08-29T00:00:00"
+  },
+  {
+    "Id": 167,
+    "ClientId": 25,
+    "BookId": 28,
+    "RentalDate": "2024-06-23T00:00:00",
+    "ReturnDate": "2024-07-05T00:00:00"
+  },
+  {
+    "Id": 168,
+    "ClientId": 16,
+    "BookId": 19,
+    "RentalDate": "2024-09-16T00:00:00",
+    "ReturnDate": "2024-09-29T00:00:00"
+  },
+  {
+    "Id": 169,
+    "ClientId": 21,
+    "BookId": 32,
+    "RentalDate": "2024-06-20T00:00:00",
+    "ReturnDate": "2024-10-29T18:37:34.3156743+01:00"
+  },
+  {
+    "Id": 170,
+    "ClientId": 2,
+    "BookId": 28,
+    "RentalDate": "2024-06-05T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 171,
+    "ClientId": 38,
+    "BookId": 10,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 172,
+    "ClientId": 44,
+    "BookId": 36,
+    "RentalDate": "2024-08-09T00:00:00",
+    "ReturnDate": "2024-08-20T00:00:00"
+  },
+  {
+    "Id": 173,
+    "ClientId": 26,
+    "BookId": 39,
+    "RentalDate": "2024-09-01T00:00:00",
+    "ReturnDate": "2024-09-09T00:00:00"
+  },
+  {
+    "Id": 174,
+    "ClientId": 32,
+    "BookId": 30,
+    "RentalDate": "2024-06-20T00:00:00",
+    "ReturnDate": "2024-07-10T00:00:00"
+  },
+  {
+    "Id": 175,
+    "ClientId": 38,
+    "BookId": 24,
+    "RentalDate": "2024-10-27T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 176,
+    "ClientId": 34,
+    "BookId": 19,
+    "RentalDate": "2024-07-24T00:00:00",
+    "ReturnDate": "2024-08-10T00:00:00"
+  },
+  {
+    "Id": 177,
+    "ClientId": 37,
+    "BookId": 25,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": "2024-10-18T00:00:00"
+  },
+  {
+    "Id": 178,
+    "ClientId": 16,
+    "BookId": 40,
+    "RentalDate": "2024-07-18T00:00:00",
+    "ReturnDate": "2024-07-31T00:00:00"
+  },
+  {
+    "Id": 179,
+    "ClientId": 37,
+    "BookId": 20,
+    "RentalDate": "2024-08-17T00:00:00",
+    "ReturnDate": "2024-09-03T00:00:00"
+  },
+  {
+    "Id": 180,
+    "ClientId": 4,
+    "BookId": 37,
+    "RentalDate": "2024-09-06T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 181,
+    "ClientId": 26,
+    "BookId": 22,
+    "RentalDate": "2024-09-18T00:00:00",
+    "ReturnDate": "2024-09-23T00:00:00"
+  },
+  {
+    "Id": 182,
+    "ClientId": 40,
+    "BookId": 11,
+    "RentalDate": "2024-08-09T00:00:00",
+    "ReturnDate": "2024-08-16T00:00:00"
+  },
+  {
+    "Id": 183,
+    "ClientId": 39,
+    "BookId": 7,
+    "RentalDate": "2024-09-12T00:00:00",
+    "ReturnDate": "2024-09-29T00:00:00"
+  },
+  {
+    "Id": 184,
+    "ClientId": 48,
+    "BookId": 21,
+    "RentalDate": "2024-08-28T00:00:00",
+    "ReturnDate": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 185,
+    "ClientId": 8,
+    "BookId": 32,
+    "RentalDate": "2024-09-13T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 186,
+    "ClientId": 38,
+    "BookId": 9,
+    "RentalDate": "2024-09-11T00:00:00",
+    "ReturnDate": "2024-09-22T00:00:00"
+  },
+  {
+    "Id": 187,
+    "ClientId": 44,
+    "BookId": 14,
+    "RentalDate": "2024-08-17T00:00:00",
+    "ReturnDate": "2024-08-24T00:00:00"
+  },
+  {
+    "Id": 188,
+    "ClientId": 6,
+    "BookId": 35,
+    "RentalDate": "2024-10-13T00:00:00",
+    "ReturnDate": "2024-10-24T00:00:00"
+  },
+  {
+    "Id": 189,
+    "ClientId": 15,
+    "BookId": 20,
+    "RentalDate": "2024-06-11T00:00:00",
+    "ReturnDate": "2024-06-29T00:00:00"
+  },
+  {
+    "Id": 190,
+    "ClientId": 1,
+    "BookId": 32,
+    "RentalDate": "2024-10-08T00:00:00",
+    "ReturnDate": "2024-10-26T00:00:00"
+  },
+  {
+    "Id": 191,
+    "ClientId": 16,
+    "BookId": 36,
+    "RentalDate": "2024-08-08T00:00:00",
+    "ReturnDate": "2024-08-21T00:00:00"
+  },
+  {
+    "Id": 192,
+    "ClientId": 14,
+    "BookId": 43,
+    "RentalDate": "2024-06-13T00:00:00",
+    "ReturnDate": "2024-07-01T00:00:00"
+  },
+  {
+    "Id": 193,
+    "ClientId": 39,
+    "BookId": 40,
+    "RentalDate": "2024-06-26T00:00:00",
+    "ReturnDate": "2024-07-04T00:00:00"
+  },
+  {
+    "Id": 194,
+    "ClientId": 29,
+    "BookId": 37,
+    "RentalDate": "2024-09-11T00:00:00",
+    "ReturnDate": "2024-09-21T00:00:00"
+  },
+  {
+    "Id": 195,
+    "ClientId": 20,
+    "BookId": 4,
+    "RentalDate": "2024-07-09T00:00:00",
+    "ReturnDate": "2024-07-14T00:00:00"
+  },
+  {
+    "Id": 196,
+    "ClientId": 25,
+    "BookId": 28,
+    "RentalDate": "2024-10-25T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 197,
+    "ClientId": 40,
+    "BookId": 25,
+    "RentalDate": "2024-07-17T00:00:00",
+    "ReturnDate": "2024-10-29T18:40:03.4656701+01:00"
+  },
+  {
+    "Id": 198,
+    "ClientId": 47,
+    "BookId": 29,
+    "RentalDate": "2024-06-14T00:00:00",
+    "ReturnDate": "2024-06-28T00:00:00"
+  },
+  {
+    "Id": 199,
+    "ClientId": 29,
+    "BookId": 49,
+    "RentalDate": "2024-10-13T00:00:00",
+    "ReturnDate": "2024-10-31T00:00:00"
+  },
+  {
+    "Id": 200,
+    "ClientId": 9,
+    "BookId": 20,
+    "RentalDate": "2024-09-10T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 201,
+    "ClientId": 44,
+    "BookId": 42,
+    "RentalDate": "2024-06-01T00:00:00",
+    "ReturnDate": "2024-06-19T00:00:00"
+  },
+  {
+    "Id": 202,
+    "ClientId": 12,
+    "BookId": 37,
+    "RentalDate": "2024-07-15T00:00:00",
+    "ReturnDate": "2024-07-23T00:00:00"
+  },
+  {
+    "Id": 203,
+    "ClientId": 15,
+    "BookId": 35,
+    "RentalDate": "2024-09-19T00:00:00",
+    "ReturnDate": "2024-10-03T00:00:00"
+  },
+  {
+    "Id": 204,
+    "ClientId": 27,
+    "BookId": 40,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-07-04T00:00:00"
+  },
+  {
+    "Id": 205,
+    "ClientId": 48,
+    "BookId": 11,
+    "RentalDate": "2024-10-24T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 206,
+    "ClientId": 13,
+    "BookId": 29,
+    "RentalDate": "2024-09-07T00:00:00",
+    "ReturnDate": "2024-09-20T00:00:00"
+  },
+  {
+    "Id": 207,
+    "ClientId": 18,
+    "BookId": 15,
+    "RentalDate": "2024-08-11T00:00:00",
+    "ReturnDate": "2024-08-21T00:00:00"
+  },
+  {
+    "Id": 208,
+    "ClientId": 19,
+    "BookId": 19,
+    "RentalDate": "2024-10-08T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 209,
+    "ClientId": 13,
+    "BookId": 23,
+    "RentalDate": "2024-08-03T00:00:00",
+    "ReturnDate": "2024-08-22T00:00:00"
+  },
+  {
+    "Id": 210,
+    "ClientId": 25,
+    "BookId": 29,
+    "RentalDate": "2024-08-11T00:00:00",
+    "ReturnDate": "2024-08-30T00:00:00"
+  },
+  {
+    "Id": 211,
+    "ClientId": 4,
+    "BookId": 4,
+    "RentalDate": "2024-07-01T00:00:00",
+    "ReturnDate": "2024-07-08T00:00:00"
+  },
+  {
+    "Id": 212,
+    "ClientId": 36,
+    "BookId": 30,
+    "RentalDate": "2024-06-12T00:00:00",
+    "ReturnDate": "2024-07-01T00:00:00"
+  },
+  {
+    "Id": 213,
+    "ClientId": 10,
+    "BookId": 21,
+    "RentalDate": "2024-06-27T00:00:00",
+    "ReturnDate": "2024-07-09T00:00:00"
+  },
+  {
+    "Id": 214,
+    "ClientId": 27,
+    "BookId": 8,
+    "RentalDate": "2024-07-30T00:00:00",
+    "ReturnDate": "2024-10-29T18:46:24.2872736+01:00"
+  },
+  {
+    "Id": 215,
+    "ClientId": 44,
+    "BookId": 42,
+    "RentalDate": "2024-08-06T00:00:00",
+    "ReturnDate": "2024-08-16T00:00:00"
+  },
+  {
+    "Id": 216,
+    "ClientId": 6,
+    "BookId": 45,
+    "RentalDate": "2024-07-23T00:00:00",
+    "ReturnDate": "2024-08-06T00:00:00"
+  },
+  {
+    "Id": 217,
+    "ClientId": 10,
+    "BookId": 34,
+    "RentalDate": "2024-06-05T00:00:00",
+    "ReturnDate": "2024-06-19T00:00:00"
+  },
+  {
+    "Id": 218,
+    "ClientId": 5,
+    "BookId": 25,
+    "RentalDate": "2024-07-30T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 219,
+    "ClientId": 37,
+    "BookId": 35,
+    "RentalDate": "2024-06-10T00:00:00",
+    "ReturnDate": "2024-06-26T00:00:00"
+  },
+  {
+    "Id": 220,
+    "ClientId": 19,
+    "BookId": 34,
+    "RentalDate": "2024-10-20T00:00:00",
+    "ReturnDate": "2024-10-28T00:00:00"
+  },
+  {
+    "Id": 221,
+    "ClientId": 39,
+    "BookId": 4,
+    "RentalDate": "2024-08-25T00:00:00",
+    "ReturnDate": "2024-09-02T00:00:00"
+  },
+  {
+    "Id": 222,
+    "ClientId": 5,
+    "BookId": 42,
+    "RentalDate": "2024-10-09T00:00:00",
+    "ReturnDate": "2024-10-20T00:00:00"
+  },
+  {
+    "Id": 223,
+    "ClientId": 11,
+    "BookId": 14,
+    "RentalDate": "2024-07-06T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 224,
+    "ClientId": 37,
+    "BookId": 19,
+    "RentalDate": "2024-09-12T00:00:00",
+    "ReturnDate": "2024-09-29T00:00:00"
+  },
+  {
+    "Id": 225,
+    "ClientId": 15,
+    "BookId": 30,
+    "RentalDate": "2024-06-18T00:00:00",
+    "ReturnDate": "2024-06-26T00:00:00"
+  },
+  {
+    "Id": 226,
+    "ClientId": 33,
+    "BookId": 45,
+    "RentalDate": "2024-07-23T00:00:00",
+    "ReturnDate": "2024-08-07T00:00:00"
+  },
+  {
+    "Id": 227,
+    "ClientId": 15,
+    "BookId": 30,
+    "RentalDate": "2024-10-15T00:00:00",
+    "ReturnDate": "2024-11-01T00:00:00"
+  },
+  {
+    "Id": 228,
+    "ClientId": 1,
+    "BookId": 14,
+    "RentalDate": "2024-06-19T00:00:00",
+    "ReturnDate": "2024-06-29T00:00:00"
+  },
+  {
+    "Id": 229,
+    "ClientId": 46,
+    "BookId": 35,
+    "RentalDate": "2024-10-26T00:00:00",
+    "ReturnDate": "2024-11-06T00:00:00"
+  },
+  {
+    "Id": 230,
+    "ClientId": 47,
+    "BookId": 43,
+    "RentalDate": "2024-06-23T00:00:00",
+    "ReturnDate": "2024-07-02T00:00:00"
+  },
+  {
+    "Id": 231,
+    "ClientId": 29,
+    "BookId": 23,
+    "RentalDate": "2024-07-24T00:00:00",
+    "ReturnDate": "2024-08-13T00:00:00"
+  },
+  {
+    "Id": 232,
+    "ClientId": 48,
+    "BookId": 42,
+    "RentalDate": "2024-10-26T00:00:00",
+    "ReturnDate": "2024-11-08T00:00:00"
+  },
+  {
+    "Id": 233,
+    "ClientId": 45,
+    "BookId": 41,
+    "RentalDate": "2024-09-02T00:00:00",
+    "ReturnDate": "2024-09-19T00:00:00"
+  },
+  {
+    "Id": 234,
+    "ClientId": 6,
+    "BookId": 9,
+    "RentalDate": "2024-10-02T00:00:00",
+    "ReturnDate": "2024-10-17T00:00:00"
+  },
+  {
+    "Id": 235,
+    "ClientId": 18,
+    "BookId": 22,
+    "RentalDate": "2024-09-17T00:00:00",
+    "ReturnDate": "2024-09-22T00:00:00"
+  },
+  {
+    "Id": 236,
+    "ClientId": 30,
+    "BookId": 4,
+    "RentalDate": "2024-08-23T00:00:00",
+    "ReturnDate": "2024-10-29T18:37:45.7968832+01:00"
+  },
+  {
+    "Id": 237,
+    "ClientId": 22,
+    "BookId": 8,
+    "RentalDate": "2024-09-24T00:00:00",
+    "ReturnDate": "2024-10-09T00:00:00"
+  },
+  {
+    "Id": 238,
+    "ClientId": 29,
+    "BookId": 40,
+    "RentalDate": "2024-06-12T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 239,
+    "ClientId": 9,
+    "BookId": 19,
+    "RentalDate": "2024-07-07T00:00:00",
+    "ReturnDate": "2024-07-18T00:00:00"
+  },
+  {
+    "Id": 240,
+    "ClientId": 31,
+    "BookId": 7,
+    "RentalDate": "2024-08-24T00:00:00",
+    "ReturnDate": "2024-09-05T00:00:00"
+  },
+  {
+    "Id": 241,
+    "ClientId": 46,
+    "BookId": 15,
+    "RentalDate": "2024-07-25T00:00:00",
+    "ReturnDate": "2024-08-10T00:00:00"
+  },
+  {
+    "Id": 242,
+    "ClientId": 21,
+    "BookId": 17,
+    "RentalDate": "2024-08-16T00:00:00",
+    "ReturnDate": "2024-08-26T00:00:00"
+  },
+  {
+    "Id": 243,
+    "ClientId": 8,
+    "BookId": 41,
+    "RentalDate": "2024-08-03T00:00:00",
+    "ReturnDate": "2024-08-23T00:00:00"
+  },
+  {
+    "Id": 244,
+    "ClientId": 25,
+    "BookId": 29,
+    "RentalDate": "2024-09-19T00:00:00",
+    "ReturnDate": "2024-10-06T00:00:00"
+  },
+  {
+    "Id": 245,
+    "ClientId": 18,
+    "BookId": 14,
+    "RentalDate": "2024-10-06T00:00:00",
+    "ReturnDate": "2024-10-22T00:00:00"
+  },
+  {
+    "Id": 246,
+    "ClientId": 17,
+    "BookId": 36,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": "2024-10-10T00:00:00"
+  },
+  {
+    "Id": 247,
+    "ClientId": 1,
+    "BookId": 16,
+    "RentalDate": "2024-06-22T00:00:00",
+    "ReturnDate": "2024-07-09T00:00:00"
+  },
+  {
+    "Id": 248,
+    "ClientId": 10,
+    "BookId": 43,
+    "RentalDate": "2024-09-10T00:00:00",
+    "ReturnDate": "2024-09-18T00:00:00"
+  },
+  {
+    "Id": 249,
+    "ClientId": 28,
+    "BookId": 40,
+    "RentalDate": "2024-10-24T00:00:00",
+    "ReturnDate": "2024-11-11T00:00:00"
+  },
+  {
+    "Id": 252,
+    "ClientId": 37,
+    "BookId": 37,
+    "RentalDate": "2024-09-20T00:00:00",
+    "ReturnDate": "2024-10-02T00:00:00"
+  },
+  {
+    "Id": 253,
+    "ClientId": 9,
+    "BookId": 36,
+    "RentalDate": "2024-06-05T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 254,
+    "ClientId": 36,
+    "BookId": 14,
+    "RentalDate": "2024-07-02T00:00:00",
+    "ReturnDate": "2024-10-29T18:40:27.4391021+01:00"
+  },
+  {
+    "Id": 255,
+    "ClientId": 30,
+    "BookId": 41,
+    "RentalDate": "2024-07-25T00:00:00",
+    "ReturnDate": "2024-08-01T00:00:00"
+  },
+  {
+    "Id": 256,
+    "ClientId": 26,
+    "BookId": 21,
+    "RentalDate": "2024-08-24T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 257,
+    "ClientId": 12,
+    "BookId": 41,
+    "RentalDate": "2024-09-02T00:00:00",
+    "ReturnDate": "2024-09-17T00:00:00"
+  },
+  {
+    "Id": 258,
+    "ClientId": 3,
+    "BookId": 39,
+    "RentalDate": "2024-10-12T00:00:00",
+    "ReturnDate": "2024-10-26T00:00:00"
+  },
+  {
+    "Id": 259,
+    "ClientId": 26,
+    "BookId": 29,
+    "RentalDate": "2024-08-24T00:00:00",
+    "ReturnDate": "2024-09-12T00:00:00"
+  },
+  {
+    "Id": 260,
+    "ClientId": 34,
+    "BookId": 15,
+    "RentalDate": "2024-08-22T00:00:00",
+    "ReturnDate": "2024-08-29T00:00:00"
+  },
+  {
+    "Id": 261,
+    "ClientId": 4,
+    "BookId": 27,
+    "RentalDate": "2024-08-01T00:00:00",
+    "ReturnDate": "2024-08-16T00:00:00"
+  },
+  {
+    "Id": 262,
+    "ClientId": 42,
+    "BookId": 4,
+    "RentalDate": "2024-10-14T00:00:00",
+    "ReturnDate": "2024-10-29T18:37:56.4142509+01:00"
+  },
+  {
+    "Id": 263,
+    "ClientId": 39,
+    "BookId": 23,
+    "RentalDate": "2024-08-15T00:00:00",
+    "ReturnDate": "2024-08-30T00:00:00"
+  },
+  {
+    "Id": 264,
+    "ClientId": 42,
+    "BookId": 22,
+    "RentalDate": "2024-07-16T00:00:00",
+    "ReturnDate": "2024-07-26T00:00:00"
+  },
+  {
+    "Id": 266,
+    "ClientId": 50,
+    "BookId": 19,
+    "RentalDate": "2024-09-26T00:00:00",
+    "ReturnDate": "2024-10-02T00:00:00"
+  },
+  {
+    "Id": 267,
+    "ClientId": 28,
+    "BookId": 43,
+    "RentalDate": "2024-10-27T00:00:00",
+    "ReturnDate": "2024-11-02T00:00:00"
+  },
+  {
+    "Id": 268,
+    "ClientId": 23,
+    "BookId": 20,
+    "RentalDate": "2024-10-28T00:00:00",
+    "ReturnDate": "2024-11-02T00:00:00"
+  },
+  {
+    "Id": 269,
+    "ClientId": 19,
+    "BookId": 25,
+    "RentalDate": "2024-07-17T00:00:00",
+    "ReturnDate": "2024-08-04T00:00:00"
+  },
+  {
+    "Id": 270,
+    "ClientId": 3,
+    "BookId": 37,
+    "RentalDate": "2024-08-27T00:00:00",
+    "ReturnDate": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 271,
+    "ClientId": 28,
+    "BookId": 7,
+    "RentalDate": "2024-07-21T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 272,
+    "ClientId": 33,
+    "BookId": 17,
+    "RentalDate": "2024-09-07T00:00:00",
+    "ReturnDate": "2024-09-20T00:00:00"
+  },
+  {
+    "Id": 273,
+    "ClientId": 49,
+    "BookId": 27,
+    "RentalDate": "2024-10-01T00:00:00",
+    "ReturnDate": "2024-10-16T00:00:00"
+  },
+  {
+    "Id": 274,
+    "ClientId": 14,
+    "BookId": 37,
+    "RentalDate": "2024-09-08T00:00:00",
+    "ReturnDate": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 275,
+    "ClientId": 41,
+    "BookId": 21,
+    "RentalDate": "2024-06-25T00:00:00",
+    "ReturnDate": "2024-06-30T00:00:00"
+  },
+  {
+    "Id": 276,
+    "ClientId": 35,
+    "BookId": 29,
+    "RentalDate": "2024-06-01T00:00:00",
+    "ReturnDate": "2024-06-12T00:00:00"
+  },
+  {
+    "Id": 277,
+    "ClientId": 39,
+    "BookId": 45,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": "2024-10-16T00:00:00"
+  },
+  {
+    "Id": 278,
+    "ClientId": 9,
+    "BookId": 25,
+    "RentalDate": "2024-06-17T00:00:00",
+    "ReturnDate": "2024-06-26T00:00:00"
+  },
+  {
+    "Id": 279,
+    "ClientId": 26,
+    "BookId": 14,
+    "RentalDate": "2024-06-01T00:00:00",
+    "ReturnDate": "2024-06-20T00:00:00"
+  },
+  {
+    "Id": 280,
+    "ClientId": 6,
+    "BookId": 21,
+    "RentalDate": "2024-10-11T00:00:00",
+    "ReturnDate": "2024-10-18T00:00:00"
+  },
+  {
+    "Id": 281,
+    "ClientId": 34,
+    "BookId": 19,
+    "RentalDate": "2024-07-25T00:00:00",
+    "ReturnDate": "2024-08-13T00:00:00"
+  },
+  {
+    "Id": 282,
+    "ClientId": 4,
+    "BookId": 39,
+    "RentalDate": "2024-08-24T00:00:00",
+    "ReturnDate": "2024-09-11T00:00:00"
+  },
+  {
+    "Id": 283,
+    "ClientId": 11,
+    "BookId": 9,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-08-23T00:00:00"
+  },
+  {
+    "Id": 284,
+    "ClientId": 14,
+    "BookId": 8,
+    "RentalDate": "2024-06-06T00:00:00",
+    "ReturnDate": "2024-06-25T00:00:00"
+  },
+  {
+    "Id": 285,
+    "ClientId": 8,
+    "BookId": 22,
+    "RentalDate": "2024-08-15T00:00:00",
+    "ReturnDate": "2024-08-30T00:00:00"
+  },
+  {
+    "Id": 286,
+    "ClientId": 29,
+    "BookId": 41,
+    "RentalDate": "2024-07-01T00:00:00",
+    "ReturnDate": "2024-07-21T00:00:00"
+  },
+  {
+    "Id": 287,
+    "ClientId": 49,
+    "BookId": 14,
+    "RentalDate": "2024-07-13T00:00:00",
+    "ReturnDate": "2024-07-20T00:00:00"
+  },
+  {
+    "Id": 288,
+    "ClientId": 10,
+    "BookId": 15,
+    "RentalDate": "2024-06-14T00:00:00",
+    "ReturnDate": "2024-06-29T00:00:00"
+  },
+  {
+    "Id": 289,
+    "ClientId": 11,
+    "BookId": 23,
+    "RentalDate": "2024-09-05T00:00:00",
+    "ReturnDate": "2024-09-20T00:00:00"
+  },
+  {
+    "Id": 290,
+    "ClientId": 36,
+    "BookId": 29,
+    "RentalDate": "2024-07-06T00:00:00",
+    "ReturnDate": "2024-07-21T00:00:00"
+  },
+  {
+    "Id": 291,
+    "ClientId": 2,
+    "BookId": 41,
+    "RentalDate": "2024-09-25T00:00:00",
+    "ReturnDate": "2024-10-06T00:00:00"
+  },
+  {
+    "Id": 292,
+    "ClientId": 16,
+    "BookId": 14,
+    "RentalDate": "2024-09-01T00:00:00",
+    "ReturnDate": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 293,
+    "ClientId": 45,
+    "BookId": 15,
+    "RentalDate": "2024-10-20T00:00:00",
+    "ReturnDate": "2024-11-07T00:00:00"
+  },
+  {
+    "Id": 294,
+    "ClientId": 23,
+    "BookId": 4,
+    "RentalDate": "2024-06-25T00:00:00",
+    "ReturnDate": "2024-10-29T18:37:52.2647848+01:00"
+  },
+  {
+    "Id": 295,
+    "ClientId": 40,
+    "BookId": 19,
+    "RentalDate": "2024-07-23T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 296,
+    "ClientId": 38,
+    "BookId": 16,
+    "RentalDate": "2024-08-15T00:00:00",
+    "ReturnDate": "2024-09-04T00:00:00"
+  },
+  {
+    "Id": 297,
+    "ClientId": 15,
+    "BookId": 19,
+    "RentalDate": "2024-07-04T00:00:00",
+    "ReturnDate": "2024-10-29T18:40:47.5793933+01:00"
+  },
+  {
+    "Id": 298,
+    "ClientId": 5,
+    "BookId": 36,
+    "RentalDate": "2024-08-22T00:00:00",
+    "ReturnDate": "2024-08-27T00:00:00"
+  },
+  {
+    "Id": 299,
+    "ClientId": 13,
+    "BookId": 37,
+    "RentalDate": "2024-06-23T00:00:00",
+    "ReturnDate": "2024-07-04T00:00:00"
+  },
+  {
+    "Id": 300,
+    "ClientId": 16,
+    "BookId": 14,
+    "RentalDate": "2024-10-24T00:00:00",
+    "ReturnDate": "2024-11-04T00:00:00"
+  },
+  {
+    "Id": 301,
+    "ClientId": 48,
+    "BookId": 21,
+    "RentalDate": "2024-07-15T00:00:00",
+    "ReturnDate": "2024-07-25T00:00:00"
+  },
+  {
+    "Id": 302,
+    "ClientId": 32,
+    "BookId": 25,
+    "RentalDate": "2024-09-04T00:00:00",
+    "ReturnDate": "2024-09-09T00:00:00"
+  },
+  {
+    "Id": 303,
+    "ClientId": 12,
+    "BookId": 37,
+    "RentalDate": "2024-06-14T00:00:00",
+    "ReturnDate": "2024-06-24T00:00:00"
+  },
+  {
+    "Id": 304,
+    "ClientId": 19,
+    "BookId": 4,
+    "RentalDate": "2024-09-07T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 305,
+    "ClientId": 14,
+    "BookId": 27,
+    "RentalDate": "2024-07-16T00:00:00",
+    "ReturnDate": "2024-07-22T00:00:00"
+  },
+  {
+    "Id": 306,
+    "ClientId": 29,
+    "BookId": 32,
+    "RentalDate": "2024-06-08T00:00:00",
+    "ReturnDate": "2024-06-25T00:00:00"
+  },
+  {
+    "Id": 307,
+    "ClientId": 46,
+    "BookId": 45,
+    "RentalDate": "2024-08-11T00:00:00",
+    "ReturnDate": "2024-08-20T00:00:00"
+  },
+  {
+    "Id": 308,
+    "ClientId": 19,
+    "BookId": 22,
+    "RentalDate": "2024-08-29T00:00:00",
+    "ReturnDate": "2024-09-12T00:00:00"
+  },
+  {
+    "Id": 309,
+    "ClientId": 1,
+    "BookId": 16,
+    "RentalDate": "2024-10-05T00:00:00",
+    "ReturnDate": "2024-10-12T00:00:00"
+  },
+  {
+    "Id": 310,
+    "ClientId": 41,
+    "BookId": 8,
+    "RentalDate": "2024-07-23T00:00:00",
+    "ReturnDate": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 311,
+    "ClientId": 15,
+    "BookId": 19,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-06-27T00:00:00"
+  },
+  {
+    "Id": 312,
+    "ClientId": 27,
+    "BookId": 4,
+    "RentalDate": "2024-06-26T00:00:00",
+    "ReturnDate": "2024-07-01T00:00:00"
+  },
+  {
+    "Id": 313,
+    "ClientId": 45,
+    "BookId": 23,
+    "RentalDate": "2024-10-23T00:00:00",
+    "ReturnDate": "2024-10-30T00:00:00"
+  },
+  {
+    "Id": 314,
+    "ClientId": 40,
+    "BookId": 22,
+    "RentalDate": "2024-06-27T00:00:00",
+    "ReturnDate": "2024-07-08T00:00:00"
+  },
+  {
+    "Id": 315,
+    "ClientId": 41,
+    "BookId": 19,
+    "RentalDate": "2024-07-22T00:00:00",
+    "ReturnDate": "2024-08-11T00:00:00"
+  },
+  {
+    "Id": 316,
+    "ClientId": 31,
+    "BookId": 17,
+    "RentalDate": "2024-08-27T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 317,
+    "ClientId": 17,
+    "BookId": 36,
+    "RentalDate": "2024-07-30T00:00:00",
+    "ReturnDate": "2024-08-07T00:00:00"
+  },
+  {
+    "Id": 318,
+    "ClientId": 30,
+    "BookId": 22,
+    "RentalDate": "2024-07-12T00:00:00",
+    "ReturnDate": "2024-07-23T00:00:00"
+  },
+  {
+    "Id": 319,
+    "ClientId": 46,
+    "BookId": 32,
+    "RentalDate": "2024-10-25T00:00:00",
+    "ReturnDate": "2024-10-29T18:39:49.9687183+01:00"
+  },
+  {
+    "Id": 320,
+    "ClientId": 3,
+    "BookId": 19,
+    "RentalDate": "2024-08-15T00:00:00",
+    "ReturnDate": "2024-08-27T00:00:00"
+  },
+  {
+    "Id": 321,
+    "ClientId": 34,
+    "BookId": 41,
+    "RentalDate": "2024-06-25T00:00:00",
+    "ReturnDate": "2024-07-01T00:00:00"
+  },
+  {
+    "Id": 322,
+    "ClientId": 25,
+    "BookId": 22,
+    "RentalDate": "2024-06-21T00:00:00",
+    "ReturnDate": "2024-07-02T00:00:00"
+  },
+  {
+    "Id": 323,
+    "ClientId": 15,
+    "BookId": 7,
+    "RentalDate": "2024-09-08T00:00:00",
+    "ReturnDate": "2024-09-23T00:00:00"
+  },
+  {
+    "Id": 324,
+    "ClientId": 32,
+    "BookId": 29,
+    "RentalDate": "2024-08-20T00:00:00",
+    "ReturnDate": "2024-09-01T00:00:00"
+  },
+  {
+    "Id": 325,
+    "ClientId": 44,
+    "BookId": 4,
+    "RentalDate": "2024-07-03T00:00:00",
+    "ReturnDate": "2024-07-10T00:00:00"
+  },
+  {
+    "Id": 326,
+    "ClientId": 9,
+    "BookId": 45,
+    "RentalDate": "2024-09-04T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 327,
+    "ClientId": 2,
+    "BookId": 4,
+    "RentalDate": "2024-10-26T00:00:00",
+    "ReturnDate": "2024-10-29T18:38:02.1333406+01:00"
+  },
+  {
+    "Id": 328,
+    "ClientId": 41,
+    "BookId": 22,
+    "RentalDate": "2024-10-16T00:00:00",
+    "ReturnDate": "2024-10-29T00:00:00"
+  },
+  {
+    "Id": 329,
+    "ClientId": 37,
+    "BookId": 21,
+    "RentalDate": "2024-10-22T00:00:00",
+    "ReturnDate": "2024-10-30T00:00:00"
+  },
+  {
+    "Id": 330,
+    "ClientId": 6,
+    "BookId": 41,
+    "RentalDate": "2024-08-04T00:00:00",
+    "ReturnDate": "2024-08-17T00:00:00"
+  },
+  {
+    "Id": 331,
+    "ClientId": 13,
+    "BookId": 25,
+    "RentalDate": "2024-06-26T00:00:00",
+    "ReturnDate": "2024-07-05T00:00:00"
+  },
+  {
+    "Id": 332,
+    "ClientId": 43,
+    "BookId": 39,
+    "RentalDate": "2024-07-09T00:00:00",
+    "ReturnDate": "2024-07-19T00:00:00"
+  },
+  {
+    "Id": 333,
+    "ClientId": 34,
+    "BookId": 9,
+    "RentalDate": "2024-06-07T00:00:00",
+    "ReturnDate": "2024-06-17T00:00:00"
+  },
+  {
+    "Id": 335,
+    "ClientId": 7,
+    "BookId": 37,
+    "RentalDate": "2024-06-10T00:00:00",
+    "ReturnDate": "2024-06-16T00:00:00"
+  },
+  {
+    "Id": 336,
+    "ClientId": 26,
+    "BookId": 7,
+    "RentalDate": "2024-07-28T00:00:00",
+    "ReturnDate": "2024-08-12T00:00:00"
+  },
+  {
+    "Id": 337,
+    "ClientId": 50,
+    "BookId": 39,
+    "RentalDate": "2024-07-22T00:00:00",
+    "ReturnDate": "2024-08-11T00:00:00"
+  },
+  {
+    "Id": 338,
+    "ClientId": 36,
+    "BookId": 19,
+    "RentalDate": "2024-07-23T00:00:00",
+    "ReturnDate": "2024-08-01T00:00:00"
+  },
+  {
+    "Id": 339,
+    "ClientId": 8,
+    "BookId": 8,
+    "RentalDate": "2024-08-04T00:00:00",
+    "ReturnDate": "2024-08-15T00:00:00"
+  },
+  {
+    "Id": 340,
+    "ClientId": 4,
+    "BookId": 45,
+    "RentalDate": "2024-07-12T00:00:00",
+    "ReturnDate": "2024-07-29T00:00:00"
+  },
+  {
+    "Id": 341,
+    "ClientId": 41,
+    "BookId": 16,
+    "RentalDate": "2024-09-21T00:00:00",
+    "ReturnDate": "2024-10-06T00:00:00"
+  },
+  {
+    "Id": 342,
+    "ClientId": 20,
+    "BookId": 17,
+    "RentalDate": "2024-10-17T00:00:00",
+    "ReturnDate": "2024-10-29T18:41:04.850697+01:00"
+  },
+  {
+    "Id": 343,
+    "ClientId": 38,
+    "BookId": 27,
+    "RentalDate": "2024-10-29T00:00:00",
+    "ReturnDate": "2024-11-15T00:00:00"
+  },
+  {
+    "Id": 344,
+    "ClientId": 9,
+    "BookId": 19,
+    "RentalDate": "2024-07-17T00:00:00",
+    "ReturnDate": "2024-07-25T00:00:00"
+  },
+  {
+    "Id": 345,
+    "ClientId": 2,
+    "BookId": 9,
+    "RentalDate": "2024-09-21T00:00:00",
+    "ReturnDate": "2024-10-05T00:00:00"
+  },
+  {
+    "Id": 346,
+    "ClientId": 24,
+    "BookId": 45,
+    "RentalDate": "2024-08-31T00:00:00",
+    "ReturnDate": "2024-09-13T00:00:00"
+  },
+  {
+    "Id": 347,
+    "ClientId": 19,
+    "BookId": 37,
+    "RentalDate": "2024-08-08T00:00:00",
+    "ReturnDate": "2024-08-17T00:00:00"
+  },
+  {
+    "Id": 348,
+    "ClientId": 14,
+    "BookId": 39,
+    "RentalDate": "2024-10-29T00:00:00",
+    "ReturnDate": "2024-11-09T00:00:00"
+  },
+  {
+    "Id": 349,
+    "ClientId": 25,
+    "BookId": 19,
+    "RentalDate": "2024-10-01T00:00:00",
+    "ReturnDate": "2024-10-06T00:00:00"
+  },
+  {
+    "Id": 350,
+    "ClientId": 7,
+    "BookId": 8,
+    "RentalDate": "2024-07-09T00:00:00",
+    "ReturnDate": "2024-10-29T18:40:56.0027376+01:00"
+  },
+  {
+    "Id": 351,
+    "ClientId": 11,
+    "BookId": 7,
+    "RentalDate": "2024-10-21T00:00:00",
+    "ReturnDate": "2024-10-31T00:00:00"
+  },
+  {
+    "Id": 353,
+    "ClientId": 25,
+    "BookId": 37,
+    "RentalDate": "2024-06-07T00:00:00",
+    "ReturnDate": "2024-06-18T00:00:00"
+  },
+  {
+    "Id": 354,
+    "ClientId": 36,
+    "BookId": 36,
+    "RentalDate": "2024-07-24T00:00:00",
+    "ReturnDate": "2024-08-06T00:00:00"
+  },
+  {
+    "Id": 355,
+    "ClientId": 31,
+    "BookId": 25,
+    "RentalDate": "2024-09-20T00:00:00",
+    "ReturnDate": "2024-09-29T00:00:00"
+  },
+  {
+    "Id": 356,
+    "ClientId": 7,
+    "BookId": 8,
+    "RentalDate": "2024-09-12T00:00:00",
+    "ReturnDate": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 357,
+    "ClientId": 38,
+    "BookId": 29,
+    "RentalDate": "2024-07-05T00:00:00",
+    "ReturnDate": "2024-07-17T00:00:00"
+  },
+  {
+    "Id": 358,
+    "ClientId": 19,
+    "BookId": 45,
+    "RentalDate": "2024-07-13T00:00:00",
+    "ReturnDate": "2024-08-02T00:00:00"
+  },
+  {
+    "Id": 359,
+    "ClientId": 11,
+    "BookId": 37,
+    "RentalDate": "2024-07-18T00:00:00",
+    "ReturnDate": "2024-07-31T00:00:00"
+  },
+  {
+    "Id": 360,
+    "ClientId": 24,
+    "BookId": 16,
+    "RentalDate": "2024-10-23T00:00:00",
+    "ReturnDate": "2024-10-30T00:00:00"
+  },
+  {
+    "Id": 361,
+    "ClientId": 33,
+    "BookId": 19,
+    "RentalDate": "2024-06-16T00:00:00",
+    "ReturnDate": "2024-07-04T00:00:00"
+  },
+  {
+    "Id": 362,
+    "ClientId": 35,
+    "BookId": 25,
+    "RentalDate": "2024-09-30T00:00:00",
+    "ReturnDate": "2024-10-18T00:00:00"
+  },
+  {
+    "Id": 363,
+    "ClientId": 41,
+    "BookId": 19,
+    "RentalDate": "2024-06-26T00:00:00",
+    "ReturnDate": "2024-10-29T18:40:49.5981678+01:00"
+  },
+  {
+    "Id": 364,
+    "ClientId": 34,
+    "BookId": 45,
+    "RentalDate": "2024-10-15T00:00:00",
+    "ReturnDate": "2024-10-30T00:00:00"
+  },
+  {
+    "Id": 365,
+    "ClientId": 43,
+    "BookId": 36,
+    "RentalDate": "2024-08-20T00:00:00",
+    "ReturnDate": "2024-09-08T00:00:00"
+  },
+  {
+    "Id": 366,
+    "ClientId": 6,
+    "BookId": 9,
+    "RentalDate": "2024-07-29T00:00:00",
+    "ReturnDate": null
+  },
+  {
+    "Id": 367,
+    "ClientId": 23,
+    "BookId": 34,
+    "RentalDate": "2024-08-14T00:00:00",
+    "ReturnDate": "2024-09-03T00:00:00"
+  },
+  {
+    "Id": 368,
+    "ClientId": 21,
+    "BookId": 8,
+    "RentalDate": "2024-10-18T00:00:00",
+    "ReturnDate": "2024-10-28T00:00:00"
+  },
+  {
+    "Id": 369,
+    "ClientId": 12,
+    "BookId": 34,
+    "RentalDate": "2024-07-16T00:00:00",
+    "ReturnDate": "2024-08-02T00:00:00"
+  },
+  {
+    "Id": 370,
+    "ClientId": 13,
+    "BookId": 19,
+    "RentalDate": "2024-10-19T00:00:00",
+    "ReturnDate": "2024-10-25T00:00:00"
+  },
+  {
+    "Id": 371,
+    "ClientId": 4,
+    "BookId": 36,
+    "RentalDate": "2024-09-06T00:00:00",
+    "ReturnDate": "2024-09-22T00:00:00"
+  },
+  {
+    "Id": 372,
+    "ClientId": 14,
+    "BookId": 37,
+    "RentalDate": "2024-08-03T00:00:00",
+    "ReturnDate": "2024-08-09T00:00:00"
+  },
+  {
+    "Id": 373,
+    "ClientId": 6,
+    "BookId": 25,
+    "RentalDate": "2024-06-21T00:00:00",
+    "ReturnDate": "2024-07-03T00:00:00"
+  },
+  {
+    "Id": 375,
+    "ClientId": 4,
+    "BookId": 41,
+    "RentalDate": "2024-06-07T00:00:00",
+    "ReturnDate": "2024-06-15T00:00:00"
+  },
+  {
+    "Id": 376,
+    "ClientId": 48,
+    "BookId": 9,
+    "RentalDate": "2024-08-10T00:00:00",
+    "ReturnDate": "2024-08-19T00:00:00"
+  },
+  {
+    "Id": 377,
+    "ClientId": 21,
+    "BookId": 25,
+    "RentalDate": "2024-06-07T00:00:00",
+    "ReturnDate": "2024-06-14T00:00:00"
+  },
+  {
+    "Id": 378,
+    "ClientId": 7,
+    "BookId": 34,
+    "RentalDate": "2024-10-04T00:00:00",
+    "ReturnDate": "2024-10-11T00:00:00"
+  },
+  {
+    "Id": 379,
+    "ClientId": 41,
+    "BookId": 9,
+    "RentalDate": "2024-08-05T00:00:00",
+    "ReturnDate": "2024-08-19T00:00:00"
+  },
+  {
+    "Id": 380,
+    "ClientId": 50,
+    "BookId": 41,
+    "RentalDate": "2024-10-09T00:00:00",
+    "ReturnDate": "2024-10-17T00:00:00"
+  },
+  {
+    "Id": 381,
+    "ClientId": 29,
+    "BookId": 25,
+    "RentalDate": "2024-10-01T00:00:00",
+    "ReturnDate": "2024-10-11T00:00:00"
+  },
+  {
+    "Id": 382,
+    "ClientId": 25,
+    "BookId": 36,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-06-30T00:00:00"
+  },
+  {
+    "Id": 383,
+    "ClientId": 26,
+    "BookId": 37,
+    "RentalDate": "2024-08-05T00:00:00",
+    "ReturnDate": "2024-08-24T00:00:00"
+  },
+  {
+    "Id": 384,
+    "ClientId": 12,
+    "BookId": 9,
+    "RentalDate": "2024-10-06T00:00:00",
+    "ReturnDate": "2024-10-15T00:00:00"
+  },
+  {
+    "Id": 386,
+    "ClientId": 44,
+    "BookId": 36,
+    "RentalDate": "2024-10-18T00:00:00",
+    "ReturnDate": "2024-10-25T00:00:00"
+  },
+  {
+    "Id": 387,
+    "ClientId": 1,
+    "BookId": 37,
+    "RentalDate": "2024-09-28T00:00:00",
+    "ReturnDate": "2024-10-15T00:00:00"
+  },
+  {
+    "Id": 388,
+    "ClientId": 10,
+    "BookId": 41,
+    "RentalDate": "2024-06-15T00:00:00",
+    "ReturnDate": "2024-06-25T00:00:00"
+  },
+  {
+    "Id": 389,
+    "ClientId": 28,
+    "BookId": 34,
+    "RentalDate": "2024-09-09T00:00:00",
+    "ReturnDate": "2024-09-28T00:00:00"
+  },
+  {
+    "Id": 390,
+    "ClientId": 46,
+    "BookId": 29,
+    "RentalDate": "2024-07-31T00:00:00",
+    "ReturnDate": "2024-08-09T00:00:00"
+  },
+  {
+    "Id": 391,
+    "ClientId": 6,
+    "BookId": 9,
+    "RentalDate": "2024-08-21T00:00:00",
+    "ReturnDate": "2024-09-10T00:00:00"
+  },
+  {
+    "Id": 392,
+    "ClientId": 46,
+    "BookId": 41,
+    "RentalDate": "2024-08-01T00:00:00",
+    "ReturnDate": "2024-08-11T00:00:00"
+  },
+  {
+    "Id": 393,
+    "ClientId": 19,
+    "BookId": 25,
+    "RentalDate": "2024-07-07T00:00:00",
+    "ReturnDate": "2024-07-14T00:00:00"
+  },
+  {
+    "Id": 394,
+    "ClientId": 14,
+    "BookId": 29,
+    "RentalDate": "2024-06-21T00:00:00",
+    "ReturnDate": "2024-07-08T00:00:00"
+  }
+]

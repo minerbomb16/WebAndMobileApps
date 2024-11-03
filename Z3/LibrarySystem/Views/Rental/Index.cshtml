@@ -1,0 +1,237 @@
+﻿    @model IEnumerable<LibrarySystem.Models.RentalViewModel>
+
+    @{
+        ViewData["Title"] = "Rentals";
+
+        // Determine sorting states for each column
+        string GetNextSortOrder(string currentSortOrder) =>
+            currentSortOrder == "asc" ? "desc" : currentSortOrder == "desc" ? null : "asc";
+
+        // Set the next sort order for each column based on the current sorting state
+        string clientNameSortOrder = ViewBag.SortColumn == "ClientName" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+        string bookTitleSortOrder = ViewBag.SortColumn == "BookTitle" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+        string rentalDateSortOrder = ViewBag.SortColumn == "RentalDate" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+        string returnDateSortOrder = ViewBag.SortColumn == "ReturnDate" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+
+        // Icon rendering helper - only display the icon for the active sorted column
+        Func<string, string, string> renderSortIcon = (column, sortOrder) =>
+        {
+            if (ViewBag.SortColumn == column)
+            {
+                return sortOrder == "asc" ? "&#9650;" : sortOrder == "desc" ? "&#9660;" : "";
+            }
+            return "";
+        };
+    }
+
+    <h1>Rentals</h1>
+    <a class="btn btn-primary" href="/Rental/Create">Add New Rental</a>
+    <br />
+    <br />
+
+    <!-- Filters and Search section -->
+    <div class="form-inline">
+        <!-- Filter by Rental Date -->
+        <label for="rentalDateFilter" class="ml-2">Filter by Rental Date:</label>
+        <input type="date" id="rentalDateFilter" class="form-control mx-2" value="@ViewBag.FilterRentalDate?.ToString("yyyy-MM-dd")" />
+
+        <!-- Filter by Return Date -->
+        <label for="returnDateFilter" class="ml-2">Filter by Return Date:</label>
+        <input type="date" id="returnDateFilter" class="form-control mx-2" value="@ViewBag.FilterReturnDate?.ToString("yyyy-MM-dd")" />
+
+        <!-- Filter by Client Name -->
+        <label for="clientNameFilter" class="ml-2">Filter by Client Name:</label>
+        <input type="text" id="clientNameFilter" class="form-control mx-2" value="@ViewBag.FilterClientName" placeholder="Client Name" />
+
+        <!-- Filter by Book Title -->
+        <label for="bookTitleFilter" class="ml-2">Filter by Book Title:</label>
+        <input type="text" id="bookTitleFilter" class="form-control mx-2" value="@ViewBag.FilterBookTitle" placeholder="Book Title" />
+
+        <!-- Filter by Return Status -->
+        <label for="returnStatusFilter" class="ml-2">Filter by Return Status:</label>
+        <select id="returnStatusFilter" class="form-control mx-2">
+            <option value="">All</option>
+            <option value="Returned" @(ViewBag.FilterReturnStatus == "Returned" ? "selected" : "")>Returned</option>
+            <option value="Not Returned" @(ViewBag.FilterReturnStatus == "Not Returned" ? "selected" : "")>Not Returned</option>
+        </select>
+    </div>
+    <br />
+
+    <!-- Styles to prevent shifting and handle arrows -->
+    <style>
+        th.sortable {
+            padding-right: 20px;
+            white-space: nowrap;
+        }
+
+        .sort-icon {
+            display: inline-block;
+            width: 15px;
+            text-align: center;
+            margin-left: 5px;
+        }
+    </style>
+
+    <!-- Table with a message if there are no results -->
+    <div id="no-results-message" style="display: none;">
+        <p>No rentals match the selected criteria.</p>
+    </div>
+
+    <table class="table" id="rental-table">
+        <thead>
+            <tr>
+                <th class="sortable">
+                    <a href="javascript:void(0);" class="sort-link" data-column="ClientName" data-order="@clientNameSortOrder">
+                        Client Name<span class="sort-icon">@Html.Raw(renderSortIcon("ClientName", ViewBag.SortOrder))</span>
+                    </a>
+                </th>
+                <th class="sortable">
+                    <a href="javascript:void(0);" class="sort-link" data-column="BookTitle" data-order="@bookTitleSortOrder">
+                        Book Title<span class="sort-icon">@Html.Raw(renderSortIcon("BookTitle", ViewBag.SortOrder))</span>
+                    </a>
+                </th>
+                <th class="sortable">
+                    <a href="javascript:void(0);" class="sort-link" data-column="RentalDate" data-order="@rentalDateSortOrder">
+                        Rental Date<span class="sort-icon">@Html.Raw(renderSortIcon("RentalDate", ViewBag.SortOrder))</span>
+                    </a>
+                </th>
+                <th class="sortable">
+                    <a href="javascript:void(0);" class="sort-link" data-column="ReturnDate" data-order="@returnDateSortOrder">
+                        Return Date<span class="sort-icon">@Html.Raw(renderSortIcon("ReturnDate", ViewBag.SortOrder))</span>
+                    </a>
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="rental-table-body">
+            @foreach (var rental in Model)
+            {
+                <tr>
+                    <td>
+                        <!-- Use the correct rental.ClientId to generate the URL -->
+                        <a href="@Url.Action("Profile", "Client", new { id = rental.ClientId })">@rental.ClientName</a>
+                    </td>
+                    <td>
+                        <!-- Use the correct rental.BookId to generate the URL -->
+                        <a href="@Url.Action("Profile", "Book", new { id = rental.BookId })">@rental.BookTitle</a>
+                    </td>
+                    <td>@rental.RentalDate.ToString("yyyy-MM-dd")</td>
+                    <td>@(rental.ReturnDate.HasValue ? rental.ReturnDate.Value.ToString("yyyy-MM-dd") : "Not Returned")</td>
+                    <td>
+                        <a class="btn btn-secondary" href="@Url.Action("Edit", "Rental", new { id = rental.RentalId })">Edit</a>
+                        <a class="btn btn-danger" href="@Url.Action("Delete", "Rental", new { id = rental.RentalId })">Delete</a>
+                        @if (!rental.ReturnDate.HasValue)
+                        {
+                            <a class="btn btn-warning return-btn" href="@Url.Action("Return", "Rental", new
+                            {
+                                id = rental.RentalId,
+                                sortColumn = ViewBag.SortColumn,
+                                sortOrder = ViewBag.SortOrder,
+                                filterRentalDate = ViewBag.FilterRentalDate,
+                                filterReturnDate = ViewBag.FilterReturnDate,
+                                filterClientName = ViewBag.FilterClientName,
+                                filterBookTitle = ViewBag.FilterBookTitle,
+                                filterReturnStatus = ViewBag.FilterReturnStatus
+                            })">Return</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    @section Scripts {
+        <script>
+            $(document).ready(function () {
+                // Store the current sorting column and order
+                let currentSortColumn = '@ViewBag.SortColumn';
+                let currentSortOrder = '@ViewBag.SortOrder';
+
+                // Handle click on sortable headers
+                $('.sort-link').click(function () {
+                    currentSortColumn = $(this).data('column');
+                    currentSortOrder = $(this).data('order');
+                    fetchRentals();
+                });
+
+                // Handle filtering inputs
+                $('#rentalDateFilter').change(fetchRentals);
+                $('#returnDateFilter').change(fetchRentals);
+                $('#clientNameFilter').on('input', fetchRentals);
+                $('#bookTitleFilter').on('input', fetchRentals);
+                $('#returnStatusFilter').change(fetchRentals);
+
+                // Function to fetch rentals with current sort, filter, and search criteria
+                function fetchRentals() {
+                    // AJAX request to fetch sorted, filtered, and searched data
+                    $.ajax({
+                        url: '@Url.Action("GetSortedRentals", "Rental")',
+                        type: 'GET',
+                        data: {
+                            sortColumn: currentSortColumn,
+                            sortOrder: currentSortOrder,
+                            filterRentalDate: $('#rentalDateFilter').val(),
+                            filterReturnDate: $('#returnDateFilter').val(),
+                            filterClientName: $('#clientNameFilter').val(),
+                            filterBookTitle: $('#bookTitleFilter').val(),
+                            filterReturnStatus: $('#returnStatusFilter').val()
+                        },
+                        success: function (data) {
+                            if (data.length === 0) {
+                                $('#rental-table').hide();
+                                $('#no-results-message').show();
+                            } else {
+                                $('#no-results-message').hide();
+                                $('#rental-table').show();
+
+                                // Update table body with filtered, searched, and sorted data
+                                let rows = '';
+                                data.forEach(function (rental) {
+                                    let returnDate = rental.returnDate ? rental.returnDate : 'Not Returned';
+
+                                    // Links for client and book profiles, using rental.bookId for the book link
+                                    let clientLink = `<a href="/Client/Profile/${rental.clientId}">${rental.clientName}</a>`;
+                                    let bookLink = `<a href="/Book/Profile/${rental.bookId}">${rental.bookTitle}</a>`;
+
+                                    // Check if the rental has a return date to conditionally display the return button
+                                    let returnButton = rental.isReturned ? '' :
+                                        `<a class="btn btn-warning" href="/Rental/Return/${rental.rentalId}?sortColumn=${currentSortColumn}&sortOrder=${currentSortOrder}&filterRentalDate=${$('#rentalDateFilter').val()}&filterReturnDate=${$('#returnDateFilter').val()}&filterClientName=${$('#clientNameFilter').val()}&filterBookTitle=${$('#bookTitleFilter').val()}&filterReturnStatus=${$('#returnStatusFilter').val()}">Return</a>`;
+
+                                    rows += `
+                    <tr>
+                        <td>${clientLink}</td>
+                        <td>${bookLink}</td>
+                        <td>${rental.rentalDate}</td>
+                        <td>${returnDate}</td>
+                        <td>
+                            <a class="btn btn-secondary" href="/Rental/Edit/${rental.rentalId}">Edit</a>
+                            <a class="btn btn-danger" href="/Rental/Delete/${rental.rentalId}">Delete</a>
+                            ${returnButton}
+                        </td>
+                    </tr>
+                `;
+                                });
+
+
+                                $('#rental-table-body').html(rows);
+
+                                // Update the sort icons dynamically
+                                $('.sort-link').each(function () {
+                                    const column = $(this).data('column');
+                                    const icon = $(this).find('.sort-icon');
+                                    if (column === currentSortColumn) {
+                                        icon.html(currentSortOrder === 'asc' ? '&#9650;' : '&#9660;');
+                                        $(this).data('order', currentSortOrder === 'asc' ? 'desc' : 'asc');
+                                    } else {
+                                        icon.html('');
+                                        $(this).data('order', 'asc');
+                                    }
+                                });
+                            }
+                        }
+
+                    });
+                }
+            });
+        </script>
+    }

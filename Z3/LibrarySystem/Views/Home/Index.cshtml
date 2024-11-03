@@ -1,0 +1,203 @@
+﻿@model LibrarySystem.Models.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Library Dashboard</h1>
+<div class="container">
+    <div class="row">
+        <!-- Total Rentals, Total Books, Total Clients -->
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Rentals</h5>
+                    <p class="card-text">@Model.TotalRentals</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Books</h5>
+                    <p class="card-text">@Model.TotalBooks</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Clients</h5>
+                    <p class="card-text">@Model.TotalClients</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr />
+
+    <!-- Rentals Over Time Chart and Date Filter -->
+    <div class="row">
+        <div class="col-md-9">
+            <h3>Rentals Over Time</h3>
+            <canvas id="rentalsOverTimeChart"></canvas>
+        </div>
+        <div class="col-md-3" style="margin-top: 40px;">
+            <!-- Filter Rentals by Date (only one instance) -->
+            <h4>Filter Rentals by Date</h4>
+            <div class="form-group">
+                <label for="startDate">Start Date:</label>
+                <input type="date" id="startDate" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="endDate">End Date:</label>
+                <input type="date" id="endDate" class="form-control">
+            </div>
+            <button class="btn btn-primary mt-3" onclick="filterRentals()">Apply Filter</button>
+        </div>
+    </div>
+
+    <hr />
+
+    <!-- Most Rented Books Chart -->
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Most Rented Books</h3>
+            <canvas id="mostRentedBooksChart"></canvas>
+        </div>
+    </div>
+
+    <hr />
+
+    <!-- Monthly Rentals Chart -->
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Monthly Rentals</h3>
+            <canvas id="monthlyRentalsChart"></canvas>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <!-- Chart.js Library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const rentalDates = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.RentalDates));
+        const rentalCounts = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.RentalCounts));
+
+        // Function to filter rentals based on selected dates
+        function filterRentals() {
+            const startDate = document.getElementById('startDate').value;
+            const endDate = document.getElementById('endDate').value;
+
+            // Filter data based on date range
+            const filteredDates = [];
+            const filteredCounts = [];
+
+            rentalDates.forEach((date, index) => {
+                if ((!startDate || date >= startDate) && (!endDate || date <= endDate)) {
+                    filteredDates.push(date);
+                    filteredCounts.push(rentalCounts[index]);
+                }
+            });
+
+            // Update chart with filtered data
+            rentalsOverTimeChart.data.labels = filteredDates;
+            rentalsOverTimeChart.data.datasets[0].data = filteredCounts;
+            rentalsOverTimeChart.update();
+        }
+
+        // Rentals Over Time Chart Configuration
+        const rentalsOverTimeData = {
+            labels: rentalDates,
+            datasets: [{
+                label: 'Rentals',
+                data: rentalCounts,
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        const rentalsOverTimeConfig = {
+            type: 'line',
+            data: rentalsOverTimeData,
+            options: {
+                scales: {
+                    x: {
+                        type: 'category',
+                        time: {
+                            unit: 'day'
+                        }
+                    },
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        const rentalsOverTimeChart = new Chart(
+            document.getElementById('rentalsOverTimeChart'),
+            rentalsOverTimeConfig
+        );
+
+        // Most Rented Books Chart
+        const mostRentedBooksData = {
+            labels: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.MostRentedBookTitles)),
+            datasets: [{
+                label: 'Number of Rentals',
+                data: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.MostRentedBookCounts)),
+                backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                borderColor: 'rgba(153, 102, 255, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        const mostRentedBooksConfig = {
+            type: 'bar',
+            data: mostRentedBooksData,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        const mostRentedBooksChart = new Chart(
+            document.getElementById('mostRentedBooksChart'),
+            mostRentedBooksConfig
+        );
+
+        // Monthly Rentals Chart
+        const monthlyRentalsData = {
+            labels: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.MonthlyRentals.Select(m => m.YearMonth))),
+            datasets: [{
+                label: 'Monthly Rentals',
+                data: @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.MonthlyRentals.Select(m => m.Count))),
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        const monthlyRentalsConfig = {
+            type: 'line',
+            data: monthlyRentalsData,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        const monthlyRentalsChart = new Chart(
+            document.getElementById('monthlyRentalsChart'),
+            monthlyRentalsConfig
+        );
+    </script>
+}

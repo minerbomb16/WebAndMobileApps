@@ -1,0 +1,191 @@
+﻿@model IEnumerable<LibrarySystem.Models.Book>
+
+@{
+    ViewData["Title"] = "Books";
+
+    // Determine sorting states for each column
+    string GetNextSortOrder(string currentSortOrder) =>
+        currentSortOrder == "asc" ? "desc" : currentSortOrder == "desc" ? null : "asc";
+
+    // Set the next sort order for each column based on the current sorting state
+    string titleSortOrder = ViewBag.SortColumn == "Title" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string authorSortOrder = ViewBag.SortColumn == "Author" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string genreSortOrder = ViewBag.SortColumn == "Genre" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string yearSortOrder = ViewBag.SortColumn == "Year" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+    string rentedSortOrder = ViewBag.SortColumn == "IsRented" ? GetNextSortOrder(ViewBag.SortOrder) : "asc";
+
+    // Icon rendering helper - only display the icon for the active sorted column
+    Func<string, string, string> renderSortIcon = (column, sortOrder) =>
+    {
+        if (ViewBag.SortColumn == column)
+        {
+            return sortOrder == "asc" ? "&#9650;" : sortOrder == "desc" ? "&#9660;" : "";
+        }
+        return "";
+    };
+}
+
+<h1>Books</h1>
+<a class="btn btn-primary" href="/Book/Create">Add New Book</a>
+<br />
+<br />
+
+<!-- Filters and Search section -->
+<div class="form-inline">
+    <!-- Filter by Genre -->
+    <label for="genreFilter">Filter by Genre:</label>
+    <select id="genreFilter" class="form-control mx-2" style="width: 200px;">
+        <option value="">All Genres</option>
+        @foreach (var genre in Model.Select(b => b.Genre).Distinct().OrderBy(g => g))
+        {
+            <option value="@genre" @(ViewBag.FilterGenre == genre ? "selected" : "")>@genre</option>
+        }
+    </select>
+
+    <!-- Filter by Year using a numeric input -->
+    <label for="yearFilter" class="ml-2">Filter by Year:</label>
+    <input type="number" id="yearFilter" class="form-control mx-2" value="@ViewBag.FilterYear" style="width: 150px;" placeholder="Year" />
+
+    <!-- Filter by Rental Status -->
+    <label for="rentedFilter" class="ml-2">Filter by Rental Status:</label>
+    <select id="rentedFilter" class="form-control mx-2" style="width: 150px;">
+        <option value="">All</option>
+        <option value="true" @(ViewBag.FilterIsRented == true ? "selected" : "")>Rented</option>
+        <option value="false" @(ViewBag.FilterIsRented == false ? "selected" : "")>Available</option>
+    </select>
+
+    <!-- Search box for Title/Author -->
+    <label for="searchBox" class="ml-2">Search:</label>
+    <input type="text" id="searchBox" class="form-control mx-2" value="@ViewBag.SearchQuery" style="width: 300px;" placeholder="Search by Title or Author..." />
+</div>
+<br />
+
+<table class="table" id="book-table">
+    <thead>
+        <tr>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Title" data-order="@titleSortOrder">
+                    Title<span class="sort-icon">@Html.Raw(renderSortIcon("Title", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Author" data-order="@authorSortOrder">
+                    Author<span class="sort-icon">@Html.Raw(renderSortIcon("Author", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Genre" data-order="@genreSortOrder">
+                    Genre<span class="sort-icon">@Html.Raw(renderSortIcon("Genre", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="Year" data-order="@yearSortOrder">
+                    Year<span class="sort-icon">@Html.Raw(renderSortIcon("Year", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th class="sortable">
+                <a href="javascript:void(0);" class="sort-link" data-column="IsRented" data-order="@rentedSortOrder">
+                    Rented<span class="sort-icon">@Html.Raw(renderSortIcon("IsRented", ViewBag.SortOrder))</span>
+                </a>
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="book-table-body">
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>
+                    <a href="@Url.Action("Profile", "Book", new { id = book.Id })">@book.Title</a>
+                </td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>@book.Year</td>
+                <td>@(book.IsRented ? "Yes" : "No")</td>
+                <td>
+                    <a class="btn btn-secondary" href="@Url.Action("Edit", "Book", new { id = book.Id })">Edit</a>
+                    <a class="btn btn-danger" href="@Url.Action("Delete", "Book", new { id = book.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            let currentSortColumn = '@ViewBag.SortColumn';
+            let currentSortOrder = '@ViewBag.SortOrder';
+
+            $('.sort-link').click(function () {
+                currentSortColumn = $(this).data('column');
+                currentSortOrder = $(this).data('order');
+                fetchBooks();
+            });
+
+            $('#genreFilter').change(fetchBooks);
+            $('#yearFilter').on('input', fetchBooks);
+            $('#rentedFilter').change(fetchBooks);
+            $('#searchBox').on('input', fetchBooks);
+
+            function fetchBooks() {
+                $.ajax({
+                    url: '@Url.Action("GetSortedBooks", "Book")',
+                    type: 'GET',
+                    data: {
+                        sortColumn: currentSortColumn,
+                        sortOrder: currentSortOrder,
+                        filterGenre: $('#genreFilter').val(),
+                        filterYear: $('#yearFilter').val(),
+                        filterIsRented: $('#rentedFilter').val(),
+                        searchQuery: $('#searchBox').val()
+                    },
+                    success: function (data) {
+                        if (data.length === 0) {
+                            $('#book-table').hide();
+                            $('#no-results-message').show();
+                        } else {
+                            $('#no-results-message').hide();
+                            $('#book-table').show();
+
+                            let rows = '';
+                            data.forEach(function (book) {
+                                rows += `
+                                        <tr>
+                                            <td><a href="/Book/Profile/${book.id}">${book.title}</a></td>
+                                            <td>${book.author}</td>
+                                            <td>${book.genre}</td>
+                                            <td>${book.year}</td>
+                                            <td>${book.isRented ? "Yes" : "No"}</td>
+                                            <td>
+                                                <a class="btn btn-secondary" href="/Book/Edit/${book.id}">Edit</a>
+                                                <a class="btn btn-danger" href="/Book/Delete/${book.id}">Delete</a>
+                                            </td>
+                                        </tr>
+                                    `;
+                            });
+                            $('#book-table-body').html(rows);
+
+                            $('.sort-link').each(function () {
+                                const column = $(this).data('column');
+                                const icon = $(this).find('.sort-icon');
+                                if (column === currentSortColumn) {
+                                    icon.html(currentSortOrder === 'asc' ? '&#9650;' : '&#9660;');
+                                    $(this).data('order', currentSortOrder === 'asc' ? 'desc' : 'asc');
+                                } else {
+                                    icon.html('');
+                                    $(this).data('order', 'asc');
+                                }
+                            });
+                        }
+                    },
+                    error: function () {
+                        alert("An error occurred while retrieving data.");
+                    }
+                });
+            }
+        });
+    </script>
+
+}

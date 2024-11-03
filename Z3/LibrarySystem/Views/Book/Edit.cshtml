@@ -1,0 +1,74 @@
+﻿@model LibrarySystem.Models.Book
+
+@{
+    ViewData["Title"] = "Edit Book (Simplified Test)";
+}
+
+<h1>Edit Book (Test)</h1>
+
+<!-- Use the Html helper to automatically generate the anti-forgery token -->
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken() <!-- This handles the CSRF token automatically -->
+    <!-- Simplified form inputs without ASP.NET Tag Helpers -->
+    <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+
+    <div class="form-group">
+        <label for="Title">Book Title</label>
+        <input type="text" id="Title" name="Title" class="form-control" value="@Model.Title" />
+    </div>
+
+    <div class="form-group">
+        <label for="Author">Author Name</label>
+        <input type="text" id="Author" name="Author" class="form-control" value="@Model.Author" />
+    </div>
+
+    <!-- Genre dropdown list with search functionality -->
+    <div class="form-group">
+        <label for="Genre">Genre</label>
+        <select id="Genre" name="Genre" class="form-control" style="width: 100%;">
+            <option value="">Select a genre</option>
+            <option value="Fiction" @(Model.Genre == "Fiction" ? "selected" : "")>Fiction</option>
+            <option value="Non-fiction" @(Model.Genre == "Non-fiction" ? "selected" : "")>Non-fiction</option>
+            <option value="Mystery" @(Model.Genre == "Mystery" ? "selected" : "")>Mystery</option>
+            <option value="Fantasy" @(Model.Genre == "Fantasy" ? "selected" : "")>Fantasy</option>
+            <option value="Science Fiction" @(Model.Genre == "Science Fiction" ? "selected" : "")>Science Fiction</option>
+            <option value="Biography" @(Model.Genre == "Biography" ? "selected" : "")>Biography</option>
+            <option value="Romance" @(Model.Genre == "Romance" ? "selected" : "")>Romance</option>
+            <option value="Horror" @(Model.Genre == "Horror" ? "selected" : "")>Horror</option>
+            <option value="Thriller" @(Model.Genre == "Thriller" ? "selected" : "")>Thriller</option>
+            <option value="Historical" @(Model.Genre == "Historical" ? "selected" : "")>Historical</option>
+            <option value="Young Adult" @(Model.Genre == "Young Adult" ? "selected" : "")>Young Adult</option>
+            <option value="Children's" @(Model.Genre == "Children's" ? "selected" : "")>Children's</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Year">Publication Year</label>
+        <input type="number"
+               id="Year"
+               name="Year"
+               class="form-control"
+               min="0"
+               max="2024"
+               step="1"
+               value="@Model.Year"
+               oninput="this.value = this.value.replace(/[^0-9]/g, '').trim()" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
+
+@section Scripts {
+    <!-- Initialize Select2 for Genre Dropdown -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#Genre').select2({
+                placeholder: 'Search or select a genre',
+                allowClear: true,
+                width: 'resolve'
+            });
+        });
+    </script>
+
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

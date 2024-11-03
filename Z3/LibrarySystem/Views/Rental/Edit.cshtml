@@ -1,0 +1,51 @@
+﻿@model LibrarySystem.Models.Rental
+
+@{
+    ViewData["Title"] = "Edit Rental";
+}
+
+<h1>Edit Rental</h1>
+
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+
+    <div class="form-group">
+        <label for="ClientId">Client</label>
+        <select id="ClientId" name="ClientId" class="form-control" required>
+            <option value="">Select a client</option>
+            @foreach (var client in ViewBag.Clients)
+            {
+                <option value="@client.Id" @(client.Id == Model.ClientId ? "selected" : "")>@client.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="BookId">Book</label>
+        <select id="BookId" name="BookId" class="form-control" required>
+            <option value="">Select a book</option>
+            @foreach (var book in ViewBag.Books)
+            {
+                <option value="@book.Id" @(book.Id == Model.BookId ? "selected" : "")>@book.Title</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="RentalDate">Rental Date</label>
+        <input type="datetime-local" id="RentalDate" name="RentalDate" class="form-control" value="@Model.RentalDate.ToString("yyyy-MM-ddTHH:mm")" />
+    </div>
+
+    <div class="form-group">
+        <label for="ReturnDate">Return Date</label>
+        <input type="datetime-local" id="ReturnDate" name="ReturnDate" class="form-control" value="@(Model.ReturnDate.HasValue ? Model.ReturnDate.Value.ToString("yyyy-MM-ddTHH:mm") : "")" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a href="@Url.Action("Index", "Rental")" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

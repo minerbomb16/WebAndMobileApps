@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:aplikacjaMobilna.ViewModels"
+             x:Class="aplikacjaMobilna.Views.TasksPage"
+             Title="Tasks">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+
+            <!-- Entry for adding a new task, hidden when editing -->
+            <Entry Placeholder="Enter new task"
+                   Text="{Binding NewTaskTitle}"
+                   IsVisible="{Binding IsAdding}" />
+
+            <!-- Button to add task, hidden when editing -->
+            <Button Text="Add Task"
+                    Command="{Binding AddTaskCommand}"
+                    IsVisible="{Binding IsAdding}" />
+
+            <!-- ListView for displaying tasks -->
+            <ListView ItemsSource="{Binding Tasks}"
+                      SelectionMode="None"
+                      HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="5" ColumnDefinitions="Auto, *, Auto, Auto" RowDefinitions="Auto">
+
+                                <!-- Completion Checkbox -->
+                                <CheckBox IsChecked="{Binding IsCompleted, Mode=TwoWay}"
+                                          VerticalOptions="Center"
+                                          Margin="0,0,10,0" />
+
+                                <!-- Task Title with text wrapping -->
+                                <Label Text="{Binding Title}"
+                                       Grid.Column="1"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"
+                                       LineBreakMode="WordWrap"
+                                       Margin="0,0,10,0" />
+
+                                <!-- Edit Button, hidden when editing -->
+                                <Button Text="Edit"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:TasksViewModel}}, Path=EditTaskCommand}"
+                                        CommandParameter="{Binding .}"
+                                        IsVisible="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:TasksViewModel}}, Path=IsAdding}"
+                                        Grid.Column="2"
+                                        VerticalOptions="Center"
+                                        Margin="5,0" />
+
+                                <!-- Delete Button, hidden when editing -->
+                                <Button Text="Delete"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:TasksViewModel}}, Path=DeleteTaskCommand}"
+                                        CommandParameter="{Binding .}"
+                                        IsVisible="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:TasksViewModel}}, Path=IsAdding}"
+                                        Grid.Column="3"
+                                        VerticalOptions="Center"
+                                        Margin="5,0" />
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!-- Entry and button for editing task, only visible when editing -->
+            <Entry Placeholder="Edit task"
+                   Text="{Binding EditingTask.Title}"
+                   IsVisible="{Binding IsEditing}" />
+            <Button Text="Save"
+                    Command="{Binding SaveEditCommand}"
+                    IsVisible="{Binding IsEditing}" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

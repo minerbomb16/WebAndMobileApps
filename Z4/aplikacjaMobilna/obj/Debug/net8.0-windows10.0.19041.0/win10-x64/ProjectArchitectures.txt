@@ -1,0 +1,1 @@
+C:\Users\micha\Desktop\aplikacjaMobilna\aplikacjaMobilna.csproj;x64

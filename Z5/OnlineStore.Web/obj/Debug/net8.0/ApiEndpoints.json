@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "MobileCategoriesController",
+    "Method": "GetCategories",
+    "RelativePath": "api/mobile/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MobileOrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "api/mobile/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MobileProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "api/mobile/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

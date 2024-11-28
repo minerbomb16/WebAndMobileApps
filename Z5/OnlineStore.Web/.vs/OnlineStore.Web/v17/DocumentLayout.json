@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CB67DCD-E192-46F7-9E7A-0BA989C6DE31}|OnlineStore.Web.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\views\\categoriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\views\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\views\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7D2990-4F4C-4005-918B-999B6D5E4729}|..\\OnlineStore.Mobile\\OnlineStore.Mobile.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z5-b\\onlinestore.mobile\\views\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:40:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:39:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:39:24.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:39:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:38:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T23:38:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\CategoriesPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\Views\\CategoriesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\CategoriesPage.xaml.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\Views\\CategoriesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:11:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\Views\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\Views\\OrdersPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:10:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\App.xaml.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:05:39.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\App.xaml",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\App.xaml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\App.xaml",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T23:05:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\MauiProgram.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\MauiProgram.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:03:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\Views\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\ProductsPage.xaml",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\Views\\ProductsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T22:57:45.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\Views\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\Views\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\Views\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:57:31.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\AppShell.xaml.cs",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\AppShell.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:51:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "..\\OnlineStore.Mobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Mobile\\AppShell.xaml",
+              "RelativeToolTip": "..\\OnlineStore.Mobile\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T22:44:54.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

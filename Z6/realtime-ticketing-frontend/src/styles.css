@@ -1,0 +1,73 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table.td {
+  border: 1px solid #ffffff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 400px;
+}
+
+td {
+  height: 40px;
+  width: 100px;
+}
+
+td.left {
+  border-right: 1px dashed #ffffff;
+  border-left: 0.5px dashed #0000ff;
+}
+
+td.right {
+  border-right: 0.5px dashed #ff0000;
+}
+
+td.top-left {
+  border-left: 1px solid #ffffff;
+  border-top: 1px solid #ffffff;
+  border-right: 1px dashed #ffffff;
+}
+
+td.top-right {
+  border-right: 1px solid #ffffff;
+  border-top: 1px solid #ffffff;
+}
+td.bottom-left {
+  border-left: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  border-right: 1px dashed #ffffff;
+}
+td.bottom-right {
+  border-right: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
+
+button {
+  background-color: #000000;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 5px 12px;
+  font-size: smaller;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+}

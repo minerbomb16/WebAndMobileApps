@@ -1,0 +1,23 @@
+<ContentPage
+    x:Class="TodoListSolution.Mobile.Views.EditTaskPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Edit Task">
+
+    <StackLayout Padding="20">
+
+        <Label Text="Edit Task" FontSize="24" HorizontalOptions="Center" />
+
+        <Entry Text="{Binding Title}" Placeholder="Task Title" />
+        <Entry Text="{Binding Description}" Placeholder="Task Description" />
+
+        <Button Text="Save"
+                Command="{Binding SaveCommand}"
+                BackgroundColor="LightGreen" 
+                Clicked="OnRefreshClicked" />
+        <Button Text="Cancel"
+                Command="{Binding CancelCommand}"
+                BackgroundColor="LightCoral" />
+
+    </StackLayout>
+</ContentPage>

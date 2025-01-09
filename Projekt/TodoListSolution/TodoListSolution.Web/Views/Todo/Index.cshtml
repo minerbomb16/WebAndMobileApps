@@ -1,0 +1,134 @@
+﻿@model TodoListSolution.Web.Models.TodoPageViewModel
+
+@{
+    ViewData["Title"] = "Todo List";
+    var undoneTasks = Model.Tasks.Where(t => !t.IsCompleted).ToList();
+    var doneTasks = Model.Tasks.Where(t => t.IsCompleted).ToList();
+}
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-12 col-lg-8 offset-lg-2">
+            <h1 class="mb-4 text-center">My Tasks</h1>
+
+            <!-- Add New Task -->
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <h4 class="card-title mb-3">Add New Task</h4>
+                    <form method="post">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="NewTitle" class="form-label">Title</label>
+                                <input type="text" name="NewTitle" id="NewTitle" class="form-control" placeholder="Task title..." />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="NewDescription" class="form-label">Description</label>
+                                <input type="text" name="NewDescription" id="NewDescription" class="form-control" placeholder="Task description..." />
+                            </div>
+                            <div class="col-12 text-end">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="bi bi-plus-circle"></i> Add
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- To-Do Tasks -->
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <h4 class="card-title mb-3 text-warning">To Do</h4>
+                    @if (!undoneTasks.Any())
+                    {
+                        <p class="text-muted">No tasks to do! Add some above.</p>
+                    }
+                    else
+                    {
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Done?</th>
+                                    <th>Title</th>
+                                    <th>Description</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var task in undoneTasks)
+                                {
+                                    <tr>
+                                        <td>
+                                            <form method="post">
+                                                <input type="hidden" name="MarkDoneId" value="@task.Id" />
+                                                <input type="checkbox" onChange="this.form.submit()" />
+                                            </form>
+                                        </td>
+                                        <td>@task.Title</td>
+                                        <td>@task.Description</td>
+                                        <td>
+                                            <!-- Edit Button -->
+                                            <a href="/Todo/Edit/@task.Id" class="btn btn-sm btn-outline-primary">
+                                                <i class="bi bi-pencil"></i> Edit
+                                            </a>
+                                            <!-- Delete Button -->
+                                            <form method="post" style="display:inline;">
+                                                <input type="hidden" name="DeleteId" value="@task.Id" />
+                                                <button type="submit" class="btn btn-sm btn-outline-danger">
+                                                    <i class="bi bi-trash"></i> Delete
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+
+            <!-- Completed Tasks -->
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <h4 class="card-title mb-3 text-success">Completed</h4>
+                    @if (!doneTasks.Any())
+                    {
+                        <p class="text-muted">No completed tasks yet.</p>
+                    }
+                    else
+                    {
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Done?</th>
+                                    <th>Title</th>
+                                    <th>Description</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var task in doneTasks)
+                                {
+                                    <tr class="text-muted">
+                                        <td><input type="checkbox" checked disabled /></td>
+                                        <td>@task.Title</td>
+                                        <td>@task.Description</td>
+                                        <td>
+                                            <!-- Delete Button -->
+                                            <form method="post" style="display:inline;">
+                                                <input type="hidden" name="DeleteId" value="@task.Id" />
+                                                <button type="submit" class="btn btn-sm btn-outline-danger">
+                                                    <i class="bi bi-trash"></i> Delete
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

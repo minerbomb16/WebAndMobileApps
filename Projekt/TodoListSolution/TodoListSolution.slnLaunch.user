@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Run Web + Mobile",
+    "Projects": [
+      {
+        "Path": "TodoListSolution.API\\TodoListSolution.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TodoListSolution.Web\\TodoListSolution.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TodoListSolution.Mobile\\TodoListSolution.Mobile.csproj",
+        "Action": "Start",
+        "DebugTarget": "Pixel 5 - API 34 (Android 14.0 — API 34)"
+      }
+    ]
+  }
+]

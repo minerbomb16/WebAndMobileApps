@@ -1,0 +1,34 @@
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.deps.json
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.runtimeconfig.json
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.dll
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.pdb
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Domain.dll
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Domain.pdb
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.csproj.AssemblyReference.cache
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.AssemblyInfoInputs.cache
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.AssemblyInfo.cs
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoList.1D98138E.Up2Date
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.dll
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\refint\TodoListSolution.Infrastructure.dll
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.pdb
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.genruntimeconfig.cache
+F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\ref\TodoListSolution.Infrastructure.dll
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.deps.json
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.runtimeconfig.json
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.dll
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Infrastructure.pdb
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Domain.dll
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\bin\Debug\net8.0\TodoListSolution.Domain.pdb
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.AssemblyInfo.cs
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoList.1D98138E.Up2Date
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.dll
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\refint\TodoListSolution.Infrastructure.dll
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.pdb
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\TodoListSolution.Infrastructure.genruntimeconfig.cache
+C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net8.0\ref\TodoListSolution.Infrastructure.dll

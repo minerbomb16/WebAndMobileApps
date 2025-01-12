@@ -1,132 +1,86 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage 
-    x:Class="TodoListSolution.Mobile.Views.MainPage"
-    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:vm="clr-namespace:TodoListSolution.Mobile.ViewModels"
-    xmlns:models="clr-namespace:TodoListSolution.Mobile.Models"
-    x:Name="name_test">
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:TodoListSolution.Mobile.ViewModels"
+             x:Class="TodoListSolution.Mobile.Views.MainPage">
 
     <ContentPage.BindingContext>
-        <vm:MainViewModel />
+        <viewModels:MainViewModel />
     </ContentPage.BindingContext>
 
     <ScrollView>
-        <VerticalStackLayout Spacing="20" Padding="20">
+        <VerticalStackLayout Padding="15" Spacing="15" HorizontalOptions="Center">
+            <!-- Header Section -->
+            <HorizontalStackLayout VerticalOptions="Start" HorizontalOptions="Center">
+                <Label Text="Todo List" FontSize="Large" VerticalOptions="Center" Margin="80,0,0,0" />
+                <Button Text="Refresh" BackgroundColor="Purple" Command="{Binding RefreshCommand}" Margin="92,0,0,0"/>
+            </HorizontalStackLayout>
 
-            <Label Text="My Tasks"
-                   FontSize="24"
-                   HorizontalOptions="Center" />
+            <!-- Current Owner Section -->
+            <HorizontalStackLayout VerticalOptions="Start" HorizontalOptions="Fill" Margin="5,2,0,0">
+                <Entry Placeholder="Enter Owner" Text="{Binding NewOwner}" WidthRequest="210" />
+                <Button Text="Update Owner" BackgroundColor="Purple" Command="{Binding UpdateOwnerCommand}" WidthRequest="130" Margin="10,0,0,0" />
+            </HorizontalStackLayout>
 
-            <!-- NEW REFRESH BUTTON -->
-            <Button Text="Refresh"
-                    FontAttributes="Bold"
-                    BackgroundColor="LightGreen"
-                    Clicked="OnRefreshClicked" />
-
-            <!-- Section: Add New Task -->
-            <Frame BorderColor="LightGray" Padding="10" CornerRadius="8">
-                <VerticalStackLayout Spacing="10">
-                    <Label Text="Add New Task" FontSize="18" FontAttributes="Bold"/>
-
-                    <Entry Text="{Binding NewTitle}" 
-                           Placeholder="Title..." />
-                    <Entry Text="{Binding NewDescription}" 
-                           Placeholder="Description..." />
-
-                    <Button Text="Add"
-                        FontAttributes="Bold"
-                        BackgroundColor="LightBlue"
-                        Command="{Binding AddTodoCommand}" />
+            <!-- Add New Task Section -->
+            <Label Text="Add New Task" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,4,0,0" />
+            <Grid ColumnDefinitions="*,Auto" HorizontalOptions="Center" >
+                <VerticalStackLayout Grid.Column="0" Spacing="5" Margin="0,0,15,0">
+                    <Entry Placeholder="Title" Text="{Binding NewTitle}" WidthRequest="250" />
+                    <Entry Placeholder="Description" Text="{Binding NewDescription}" WidthRequest="250" />
                 </VerticalStackLayout>
-            </Frame>
+                <Button Grid.Column="1" Text="Add" Command="{Binding AddTodoCommand}" 
+                        BackgroundColor="Purple" TextColor="White" WidthRequest="80" HeightRequest="100" 
+                        VerticalOptions="Start" />
+            </Grid>
 
-            <!-- To Do section -->
-            <Frame BorderColor="LightGray" Padding="10" CornerRadius="8">
-                <VerticalStackLayout Spacing="10">
-                    <Label Text="To Do"
-                           TextColor="Orange"
-                           FontSize="18"
-                           FontAttributes="Bold" />
+            <!-- Undone Tasks Section -->
+            <Label Text="Pending Tasks" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" />
+            <CollectionView ItemsSource="{Binding UndoneTasks}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid ColumnDefinitions="*,Auto" Padding="10" Margin="0,0,0,15">
+                            <!-- Task Title and Description -->
+                            <StackLayout Grid.Column="0" Spacing="5" Margin="0,0,10,5">
+                                <Label Text="{Binding Title}" FontAttributes="Bold" MaxLines="2" LineBreakMode="WordWrap" />
+                                <Label Text="{Binding Description}" FontSize="Small" TextColor="Gray" MaxLines="3" LineBreakMode="WordWrap" />
+                            </StackLayout>
 
-                    <CollectionView ItemsSource="{Binding UndoneTasks}">
-                        <CollectionView.ItemTemplate>
-                            <DataTemplate x:DataType="models:TodoItemDTO">
-                                <Grid ColumnDefinitions="Auto, *, Auto, Auto" Padding="5">
-                                    <CheckBox
-                                        Grid.Column="0"
-                                        HorizontalOptions="Start"
-                                        VerticalOptions="Center"
-                                        IsChecked="{Binding IsCompleted}"
-                                        CheckedChanged="OnCheckBoxCheckedChanged" />
+                            <!-- Action Buttons -->
+                            <StackLayout Grid.Column="1" Orientation="Horizontal" Spacing="3" VerticalOptions="Center">
+                                <Button Text="D" BackgroundColor="Green" WidthRequest="40" HeightRequest="40"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:MainViewModel}}, Path=MarkDoneCommand}" CommandParameter="{Binding}" />
+                                <Button Text="E" BackgroundColor="Blue" WidthRequest="40" HeightRequest="40"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:MainViewModel}}, Path=EditTodoCommand}" CommandParameter="{Binding}" />
+                                <Button Text="X" BackgroundColor="Red" WidthRequest="40" HeightRequest="40"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:MainViewModel}}, Path=DeleteCommand}" CommandParameter="{Binding}" />
+                            </StackLayout>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
 
-                                    <VerticalStackLayout Grid.Column="1">
-                                        <Label Text="{Binding Title}"
-                                               FontAttributes="Bold"
-                                               FontSize="15" />
-                                        <Label Text="{Binding Description}"
-                                               FontSize="12"
-                                               TextColor="Gray" />
-                                    </VerticalStackLayout>
-                                    <Button Grid.Column="2"
-                                            Text="Edit"
-                                            BackgroundColor="LightBlue"
-                                            HorizontalOptions="End"
-                                            VerticalOptions="Center"
-                                            Command="{Binding BindingContext.EditTodoCommand, Source={x:Reference name_test}}"
-                                            CommandParameter="{Binding .}" />
-                                    <Button Grid.Column="3"
-                                        Text="x"
-                                        BackgroundColor="LightCoral"
-                                        HorizontalOptions="End"
-                                        VerticalOptions="Center"
-                                        Command="{Binding BindingContext.DeleteCommand, Source={x:Reference name_test}}"
-                                        CommandParameter="{Binding .}" />
+            <!-- Done Tasks Section -->
+            <Label Text="Completed Tasks" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" />
+            <CollectionView ItemsSource="{Binding DoneTasks}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid ColumnDefinitions="*,Auto" Padding="10" Margin="0,0,0,15">
+                            <!-- Task Title and Description -->
+                            <StackLayout Grid.Column="0" Spacing="5" Margin="0,0,10,5">
+                                <Label Text="{Binding Title}" FontAttributes="Bold" TextDecorations="Strikethrough" MaxLines="2" LineBreakMode="WordWrap" />
+                                <Label Text="{Binding Description}" FontSize="Small" TextColor="LightGray" MaxLines="3" LineBreakMode="WordWrap" />
+                            </StackLayout>
 
-                                </Grid>
-                            </DataTemplate>
-                        </CollectionView.ItemTemplate>
-                    </CollectionView>
-                </VerticalStackLayout>
-            </Frame>
-
-            <!-- Completed section -->
-            <Frame BorderColor="LightGray" Padding="10" CornerRadius="8">
-                <VerticalStackLayout Spacing="10">
-                    <Label Text="Completed"
-                           TextColor="Green"
-                           FontSize="18"
-                           FontAttributes="Bold" />
-
-                    <CollectionView ItemsSource="{Binding DoneTasks}">
-                        <CollectionView.ItemTemplate>
-                            <DataTemplate x:DataType="models:TodoItemDTO">
-                                <Grid ColumnDefinitions="Auto, *, Auto" Padding="5">
-                                    <CheckBox IsChecked="True"
-                                              IsEnabled="False"
-                                              VerticalOptions="Center" />
-                                    <VerticalStackLayout Grid.Column="1">
-                                        <Label Text="{Binding Title}"
-                                               FontSize="15"
-                                               TextColor="Gray"
-                                               TextDecorations="Strikethrough" />
-                                        <Label Text="{Binding Description}"
-                                               FontSize="12"
-                                               TextColor="LightGray"
-                                               TextDecorations="Strikethrough" />
-                                    </VerticalStackLayout>
-                                    <Button Grid.Column="2"
-                                            Text="x"
-                                            BackgroundColor="LightCoral"
-                                            HorizontalOptions="End"
-                                            VerticalOptions="Center"
-                                            Clicked="OnDeleteButtonClicked" />
-                                </Grid>
-                            </DataTemplate>
-                        </CollectionView.ItemTemplate>
-                    </CollectionView>
-                </VerticalStackLayout>
-            </Frame>
+                            <!-- Delete Button -->
+                            <StackLayout Grid.Column="1" Orientation="Horizontal" Spacing="6" VerticalOptions="Center">
+                                <Button Text="X" BackgroundColor="Red" WidthRequest="40" HeightRequest="40"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:MainViewModel}}, Path=DeleteCommand}" CommandParameter="{Binding}" />
+                            </StackLayout>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

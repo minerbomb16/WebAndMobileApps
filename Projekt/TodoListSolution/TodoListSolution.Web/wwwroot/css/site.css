@@ -1,22 +1,241 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.main-container {
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+}
+
+.left-column {
+    flex: 0 0 35%;
+}
+
+.right-column {
+    flex: 1;
+    overflow-y: auto;
+    padding-right: 5px;
+    max-height: 85vh;
+}
+
+@media (max-width: 1000px) {
+    .main-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .left-column,
+    .right-column {
+        width: 100%;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+
+        .left-column input[type="text"],
+        .left-column textarea {
+            max-width: 100%;
+        }
+}
+
+form {
+    margin-bottom: 1.5rem;
+}
+
+label {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+    font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+    padding: 0.4rem;
+    margin-bottom: 0.8rem;
+}
+
+.btn-common {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.5rem 0.8rem;
+    line-height: 1.2;
+    font-size: 1rem;
+    min-width: 68px;
+    color: white;
+}
+
+.btn-purple {
+    background-color: purple;
+}
+
+    .btn-purple:hover {
+        background-color: darkmagenta;
+    }
+
+.btn-green {
+    background-color: green;
+}
+
+    .btn-green:hover {
+        background-color: darkgreen;
+    }
+
+.btn-red {
+    background-color: red;
+}
+
+    .btn-red:hover {
+        background-color: darkred;
+    }
+
+.btn-edit {
+    display: inline-block;
+    width: 68px;
+    height: 36px;
+    line-height: 36px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    border-radius: 0.3rem;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+    .btn-edit:hover {
+        background-color: darkblue;
+        color: white;
+    }
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    position: relative;
+    background-color: #f8f8f8;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    min-height: 50px;
+}
+
+.task-info {
+    margin-right: 220px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.buttons-group {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    display: flex;
+    gap: 4px;
+    white-space: nowrap;
+}
+
+.section-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 1rem 0 0.5rem 0;
+}
+
+.section-container {
+    margin-bottom: 1.5rem;
+}
+
+.completed {
+    color: lightgray;
+    text-decoration: line-through;
+}
+
+.no-tasks-message {
+    text-align: center;
+    margin-top: 0.5rem;
+    color: #555;
+}
+
+.container-edit {
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+    /* Nowe regu³y – formularz w kontenerze edycji wyœrodkowany i pola dwukrotnie szersze */
+    .container-edit form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .container-edit form input[type="text"],
+        .container-edit form textarea {
+            width: 80%;
+            max-width: 800px;
+            margin-bottom: 1rem;
+        }
+
+.buttons-container {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    color: white;
+    line-height: 1.2;
+    border-radius: 0.3rem;
+}
+
+    button:hover {
+        filter: brightness(85%);
+    }
+
+.btn-cancel {
+    background-color: red;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.3rem;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 1.2;
+    margin-left: 1rem;
+}
+
+    .btn-cancel:hover {
+        background-color: darkred;
+        color: white;
+    }
+
+.refresh-container,
+.owner-button-container,
+.add-button-container {
+    text-align: center;
 }

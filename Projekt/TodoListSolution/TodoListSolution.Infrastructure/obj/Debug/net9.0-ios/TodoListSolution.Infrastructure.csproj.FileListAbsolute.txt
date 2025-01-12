@@ -1,0 +1,11 @@
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\actool\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\actool\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\actool\_ProcessedImageAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\collada\_ProcessedColladaAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\atlas\_ProcessedTextureAtlasesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\coremlc\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\coremlc\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\_ProcessedBundleResourcesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Infrastructure\obj\Debug\net9.0-ios\_ProcessedContentPath.items

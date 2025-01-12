@@ -7,39 +7,21 @@ namespace TodoListSolution.Mobile.Views
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        private readonly MainViewModel _viewModel;
+
+        // Inject MainViewModel through constructor
+        public MainPage(MainViewModel viewModel)
         {
             InitializeComponent();
-            BindingContext = new MainViewModel();
+            _viewModel = viewModel;
+            BindingContext = _viewModel;
         }
 
         private void OnRefreshClicked(object sender, EventArgs e)
         {
             if (BindingContext is MainViewModel vm)
             {
-                vm.ReloadData();
-            }
-        }
-
-        private void OnCheckBoxCheckedChanged(object sender, CheckedChangedEventArgs e)
-        {
-            var checkBox = (CheckBox)sender;
-            var item = (TodoItemDTO)checkBox.BindingContext;
-
-            if (e.Value && BindingContext is MainViewModel vm)
-            {
-                vm.MarkDoneCommand?.Execute(item);
-            }
-        }
-
-        private void OnDeleteButtonClicked(object sender, EventArgs e)
-        {
-            var button = (Button)sender;
-            var item = (TodoItemDTO)button.BindingContext;
-
-            if (BindingContext is MainViewModel vm)
-            {
-                vm.DeleteCommand?.Execute(item);
+                vm.LoadData();
             }
         }
     }

@@ -1,23 +1,31 @@
-<ContentPage
-    x:Class="TodoListSolution.Mobile.Views.EditTaskPage"
-    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="Edit Task">
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:TodoListSolution.Mobile.ViewModels"
+             x:Class="TodoListSolution.Mobile.Views.EditTaskPage"
+             Title="Edit Task">
 
-    <StackLayout Padding="20">
+    <ContentPage.BindingContext>
+        <vm:EditTaskViewModel />
+    </ContentPage.BindingContext>
 
-        <Label Text="Edit Task" FontSize="24" HorizontalOptions="Center" />
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <Label Text="Edit Task" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
 
-        <Entry Text="{Binding Title}" Placeholder="Task Title" />
-        <Entry Text="{Binding Description}" Placeholder="Task Description" />
+            <Entry Placeholder="Task Title"
+                   Text="{Binding TaskTitle}" />
 
-        <Button Text="Save"
-                Command="{Binding SaveCommand}"
-                BackgroundColor="LightGreen" 
-                Clicked="OnRefreshClicked" />
-        <Button Text="Cancel"
-                Command="{Binding CancelCommand}"
-                BackgroundColor="LightCoral" />
+            <Editor Placeholder="Task Description"
+                    Text="{Binding TaskDescription}" />
 
-    </StackLayout>
+            <HorizontalStackLayout Spacing="15" HorizontalOptions="Center">
+                <Button Text="Save" BackgroundColor="Green"
+                        Command="{Binding SaveCommand}" />
+
+                <Button Text="Cancel" BackgroundColor="Red"
+                        Command="{Binding CancelCommand}" />
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

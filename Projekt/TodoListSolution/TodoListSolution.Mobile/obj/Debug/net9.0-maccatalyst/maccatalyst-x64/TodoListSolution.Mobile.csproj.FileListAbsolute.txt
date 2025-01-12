@@ -1,613 +1,616 @@
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.inputs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.stamp
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\FluentUI.cs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\collada\_ProcessedColladaAssetsPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\atlas\_ProcessedTextureAtlasesPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.AssemblyReference.cache
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.GeneratedMSBuildEditorConfig.editorconfig
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfoInputs.cache
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfo.cs
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.CoreCompileInputs.cache
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.runtimeconfig.json
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.Core.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Console.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Core.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Memory.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Windows.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\mscorlib.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\netstandard.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoList.EE836AB6.Up2Date
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\refint\TodoListSolution.Mobile.dll
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.genruntimeconfig.cache
-F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TodoListSolution.Mobile.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.runtimeconfig.json
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.Core.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Console.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Core.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Memory.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Windows.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\mscorlib.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\netstandard.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.inputs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.stamp
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\FluentUI.cs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\collada\_ProcessedColladaAssetsPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\atlas\_ProcessedTextureAtlasesPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.AssemblyReference.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfoInputs.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfo.cs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.CoreCompileInputs.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoList.EE836AB6.Up2Date
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\refint\TodoListSolution.Mobile.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.genruntimeconfig.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TodoListSolution.Mobile.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\FluentUI.cs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\collada\_ProcessedColladaAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\atlas\_ProcessedTextureAtlasesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.AssemblyReference.cache
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfoInputs.cache
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfo.cs
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.CoreCompileInputs.cache
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.runtimeconfig.json
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.Core.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoList.EE836AB6.Up2Date
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\refint\TodoListSolution.Mobile.dll
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.genruntimeconfig.cache
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TodoListSolution.Mobile.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.runtimeconfig.json
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Console.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Core.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.IO.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Net.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Security.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Web.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\netstandard.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\FluentUI.cs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\collada\_ProcessedColladaAssetsPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\atlas\_ProcessedTextureAtlasesPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.AssemblyInfo.cs
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoList.EE836AB6.Up2Date
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\refint\TodoListSolution.Mobile.dll
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.pdb
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TodoListSolution.Mobile.genruntimeconfig.cache
+C:\Users\micha\Desktop\TodoListSolution\TodoListSolution.Mobile\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TodoListSolution.Mobile.dll

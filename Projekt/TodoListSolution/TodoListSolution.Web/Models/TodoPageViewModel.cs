@@ -8,6 +8,7 @@ namespace TodoListSolution.Web.Models
         public string Title { get; set; }
         public string? Description { get; set; }
         public bool IsCompleted { get; set; }
+        public string Owner { get; set; }
     }
 
     public class TodoPageViewModel
@@ -29,6 +30,10 @@ namespace TodoListSolution.Web.Models
         public string? EditTitle { get; set; }
         public string? EditDescription { get; set; }
         public bool? EditIsCompleted { get; set; }
+
+        public string? CurrentOwner { get; set; }
+        public string? NewOwner { get; set; }
+
     }
 
 }

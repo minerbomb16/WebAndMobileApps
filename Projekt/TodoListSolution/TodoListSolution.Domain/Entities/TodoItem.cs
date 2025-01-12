@@ -13,12 +13,15 @@ namespace TodoListSolution.Domain.Entities
         public string Title { get; private set; }
         public string? Description { get; private set; }
         public bool IsCompleted { get; private set; }
+        public string Owner { get; private set; }
+
 
         // Konstruktor
-        public TodoItem(string title, string? description = null)
+        public TodoItem(string title, string owner, string? description = null)
         {
             Title = title;
             Description = description;
+            Owner = owner;
             IsCompleted = false;
         }
 

@@ -9,7 +9,7 @@ namespace TodoListSolution.Mobile
     public App()
     {
         InitializeComponent();
-        HttpClient = new HttpClient { BaseAddress = new Uri("https://localhost:7034") };
+        HttpClient = new HttpClient { BaseAddress = new Uri("https://10.0.2.2:7034") };
         MainPage = new AppShell();
     }
     }

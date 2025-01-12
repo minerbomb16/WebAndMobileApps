@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Net;
 using System.Net.Http.Json;
 using TodoListSolution.Web.Models;
 
@@ -17,13 +16,17 @@ namespace TodoListSolution.Web.Controllers
 
         // GET: /Todo/Index
         [HttpGet]
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? owner)
         {
-            // Always fetch tasks from API and show them
-            var tasks = await GetTasksFromApi();
+            // Fetch tasks for the provided owner
+            var tasks = string.IsNullOrWhiteSpace(owner)
+                ? new List<TodoItemDTO>() // Show empty list if no owner is set
+                : await GetTasksFromApi(owner);
+
             var vm = new TodoPageViewModel
             {
-                Tasks = tasks
+                Tasks = tasks,
+                CurrentOwner = owner
             };
 
             return View(vm);
@@ -33,15 +36,30 @@ namespace TodoListSolution.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Index(TodoPageViewModel model)
         {
+            // Handle Updating the Current Owner
+            if (!string.IsNullOrWhiteSpace(model.NewOwner))
+            {
+                return RedirectToAction(nameof(Index), new { owner = model.NewOwner });
+            }
+
             // Handle Adding a New Task
             if (!string.IsNullOrWhiteSpace(model.NewTitle))
             {
+                if (string.IsNullOrWhiteSpace(model.CurrentOwner))
+                {
+                    ModelState.AddModelError("", "Owner is required to add a task.");
+                    return RedirectToAction(nameof(Index), new { owner = model.CurrentOwner });
+                }
+
                 var createResponse = await _httpClient.PostAsJsonAsync("api/todo", new
                 {
                     Title = model.NewTitle,
-                    Description = model.NewDescription
+                    Description = model.NewDescription,
+                    Owner = model.CurrentOwner
                 });
+
                 createResponse.EnsureSuccessStatusCode();
+                return RedirectToAction(nameof(Index), new { owner = model.CurrentOwner });
             }
 
             // Handle Marking as Done
@@ -58,13 +76,16 @@ namespace TodoListSolution.Web.Controllers
                         {
                             Title = oldTask.Title,
                             Description = oldTask.Description,
-                            IsCompleted = true
+                            IsCompleted = true,
+                            Owner = oldTask.Owner
                         };
 
                         var putResponse = await _httpClient.PutAsJsonAsync($"api/todo/{taskId}", updatedDto);
                         putResponse.EnsureSuccessStatusCode();
                     }
                 }
+
+                return RedirectToAction(nameof(Index), new { owner = model.CurrentOwner });
             }
 
             // Handle Deleting a Task
@@ -73,66 +94,44 @@ namespace TodoListSolution.Web.Controllers
                 var taskId = model.DeleteId.Value;
                 var deleteResponse = await _httpClient.DeleteAsync($"api/todo/{taskId}");
                 deleteResponse.EnsureSuccessStatusCode();
+
+                return RedirectToAction(nameof(Index), new { owner = model.CurrentOwner });
             }
 
-            // Handle Editing a Task
-            if (model.EditId.HasValue)
-            {
-                if (string.IsNullOrWhiteSpace(model.EditTitle) || string.IsNullOrWhiteSpace(model.EditDescription))
-                {
-                    ModelState.AddModelError("", "Title and Description are required for editing a task.");
-                    return View(model); // Return the same view with errors displayed
-                }
-
-                var taskId = model.EditId.Value;
-                var updatedDto = new UpdateTodoItemDTO
-                {
-                    Title = model.EditTitle,
-                    Description = model.EditDescription,
-                    IsCompleted = false // Example value, adjust as needed
-                };
-
-                var putResponse = await _httpClient.PutAsJsonAsync($"api/todo/{taskId}", updatedDto);
-                putResponse.EnsureSuccessStatusCode();
-            }
-
-            // Redirect to avoid reposting on refresh
-            return RedirectToAction(nameof(Index));
+            // Redirect to avoid resubmitting data on refresh
+            return RedirectToAction(nameof(Index), new { owner = model.CurrentOwner });
         }
 
-        private async Task<List<TodoItemDTO>> GetTasksFromApi()
+        private async Task<List<TodoItemDTO>> GetTasksFromApi(string owner)
         {
-            var response = await _httpClient.GetAsync("api/todo");
+            var response = await _httpClient.GetAsync($"api/todo?owner={Uri.EscapeDataString(owner)}");
             response.EnsureSuccessStatusCode();
 
             var tasks = await response.Content.ReadFromJsonAsync<List<TodoItemDTO>>();
             return tasks ?? new List<TodoItemDTO>();
         }
 
-        // GET: /Todo/Edit/{id}
         [HttpGet]
-        public async Task<IActionResult> Edit(Guid id)
+        public async Task<IActionResult> Edit(Guid id, string owner)
         {
-            // Fetch the task details using the ID
+            // Fetch the task details by ID
             var response = await _httpClient.GetAsync($"api/todo/{id}");
             if (!response.IsSuccessStatusCode) return NotFound();
 
             var task = await response.Content.ReadFromJsonAsync<TodoItemDTO>();
-
             if (task == null) return NotFound();
 
-            // Pass the task to the view
+            // Pass the task and current owner to the view
             var editModel = new EditTodoViewModel
             {
                 Id = task.Id,
                 Title = task.Title,
-                Description = task.Description
+                Description = task.Description,
+                CurrentOwner = owner
             };
 
             return View(editModel);
         }
-
-        // POST: /Todo/Edit
         [HttpPost]
         public async Task<IActionResult> Edit(EditTodoViewModel model)
         {
@@ -141,17 +140,26 @@ namespace TodoListSolution.Web.Controllers
                 return View(model); // Return view with validation errors
             }
 
+            // Prepare the UpdateTodoItemDTO
             var updateDto = new UpdateTodoItemDTO
             {
                 Title = model.Title,
                 Description = model.Description,
-                IsCompleted = false // Keep as is
+                IsCompleted = false, // Keep the task as not completed
+                Owner = model.CurrentOwner // Include the Owner
             };
 
+            // Send the PUT request to the API
             var response = await _httpClient.PutAsJsonAsync($"api/todo/{model.Id}", updateDto);
-            if (!response.IsSuccessStatusCode) return StatusCode((int)response.StatusCode);
+            if (!response.IsSuccessStatusCode)
+            {
+                ModelState.AddModelError("", "Failed to update the task. Please try again.");
+                return View(model);
+            }
 
-            return RedirectToAction("Index");
+            // Redirect back to the main page with the current owner
+            return RedirectToAction("Index", new { owner = model.CurrentOwner });
         }
+
     }
 }

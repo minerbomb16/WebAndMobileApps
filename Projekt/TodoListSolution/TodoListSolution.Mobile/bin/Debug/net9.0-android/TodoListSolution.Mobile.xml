@@ -7,23 +7,35 @@
         <member name="T:TodoListSolution.Mobile.ViewModels.EditTaskViewModel">
             <inheritdoc/>
         </member>
-        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.Title">
-            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.title"/>
+        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.TaskId">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.taskId"/>
         </member>
-        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.Description">
-            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.description"/>
+        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.TaskTitle">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.taskTitle"/>
+        </member>
+        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.TaskDescription">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.taskDescription"/>
+        </member>
+        <member name="P:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.CurrentOwner">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.EditTaskViewModel.currentOwner"/>
         </member>
         <member name="T:TodoListSolution.Mobile.ViewModels.MainViewModel">
             <inheritdoc/>
+        </member>
+        <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.CurrentOwner">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.currentOwner"/>
+        </member>
+        <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.NewOwner">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.newOwner"/>
+        </member>
+        <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.TodoItems">
+            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.todoItems"/>
         </member>
         <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.NewTitle">
             <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.newTitle"/>
         </member>
         <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.NewDescription">
             <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.newDescription"/>
-        </member>
-        <member name="P:TodoListSolution.Mobile.ViewModels.MainViewModel.TodoItems">
-            <inheritdoc cref="F:TodoListSolution.Mobile.ViewModels.MainViewModel.todoItems"/>
         </member>
         <member name="T:TodoListSolution.Mobile.Resource">
             <summary>
@@ -157,11 +169,23 @@
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TaskId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TaskId" generated properties.</summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Description">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Description" generated properties.</summary>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TaskTitle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TaskTitle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TaskDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TaskDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentOwner">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentOwner" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewOwner">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewOwner" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TodoItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TodoItems" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewTitle">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewTitle" generated properties.</summary>
@@ -169,29 +193,35 @@
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewDescription">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewDescription" generated properties.</summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TodoItems">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TodoItems" generated properties.</summary>
-        </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
             <summary>
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TaskId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TaskId" generated properties.</summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Description">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Description" generated properties.</summary>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TaskTitle">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TaskTitle" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TaskDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TaskDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentOwner">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentOwner" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewOwner">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewOwner" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TodoItems">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TodoItems" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewTitle">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewTitle" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewDescription">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewDescription" generated properties.</summary>
-        </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TodoItems">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TodoItems" generated properties.</summary>
         </member>
     </members>
 </doc>

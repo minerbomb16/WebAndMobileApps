@@ -11,16 +11,3 @@ F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Domain\o
 F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.pdb
 F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.genruntimeconfig.cache
 F:\Webowe old\projekt_les\projekt_les\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\ref\TodoListSolution.Domain.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\bin\Debug\net8.0\TodoListSolution.Domain.deps.json
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\bin\Debug\net8.0\TodoListSolution.Domain.runtimeconfig.json
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\bin\Debug\net8.0\TodoListSolution.Domain.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\bin\Debug\net8.0\TodoListSolution.Domain.pdb
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.AssemblyInfoInputs.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.AssemblyInfo.cs
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.csproj.CoreCompileInputs.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\refint\TodoListSolution.Domain.dll
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.pdb
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\TodoListSolution.Domain.genruntimeconfig.cache
-C:\Users\micha\Downloads\TodoListSolution\TodoListSolution.Domain\obj\Debug\net8.0\ref\TodoListSolution.Domain.dll

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListSolution.Domain", "TodoListSolution.Domain\TodoListSolution.Domain.csproj", "{415E83B6-7553-4D6E-9366-7A4E0892A167}"
 EndProject
@@ -37,6 +37,7 @@ Global
 		{3A8717F0-ECBF-4569-BBEB-F4A36EBC446E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BFC183D8-A81C-47D4-8560-70EE5CBB2E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BFC183D8-A81C-47D4-8560-70EE5CBB2E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC183D8-A81C-47D4-8560-70EE5CBB2E25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{BFC183D8-A81C-47D4-8560-70EE5CBB2E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFC183D8-A81C-47D4-8560-70EE5CBB2E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

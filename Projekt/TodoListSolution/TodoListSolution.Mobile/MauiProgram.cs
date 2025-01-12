@@ -1,5 +1,6 @@
-﻿using CommunityToolkit.Maui; // <-- do UseMauiCommunityToolkit()
-using Microsoft.Extensions.DependencyInjection; // <-- by AddHttpClient działało
+﻿using CommunityToolkit.Maui;
+using Microsoft.Extensions.DependencyInjection;
+using TodoListSolution.Mobile.ViewModels;
 
 namespace TodoListSolution.Mobile;
 
@@ -11,18 +12,19 @@ public static class MauiProgram
 
         builder
             .UseMauiApp<App>()
-            // kluczowe:
             .UseMauiCommunityToolkit()
             .ConfigureFonts(fonts =>
             {
                 fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
             });
 
-        // wstrzykiwanie HttpClient
+        // Configure HttpClient with BaseAddress
         builder.Services.AddHttpClient("ApiClient", client =>
         {
-            client.BaseAddress = new Uri("https://10.0.2.2:7034");
+            client.BaseAddress = new Uri("https://10.0.2.2:7034/"); // Ensure this matches your API's URL
         });
+
+        builder.Services.AddSingleton<MainViewModel>();
 
         return builder.Build();
     }

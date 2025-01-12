@@ -1,28 +1,30 @@
-﻿using Microsoft.EntityFrameworkCore;
-using TodoListSolution.Domain.Entities;
+﻿    using Microsoft.EntityFrameworkCore;
+    using TodoListSolution.Domain.Entities;
 
-namespace TodoListSolution.Infrastructure.Data
-{
-    public class AppDbContext : DbContext
+    namespace TodoListSolution.Infrastructure.Data
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options)
-            : base(options)
+        public class AppDbContext : DbContext
         {
-        }
-
-        public DbSet<TodoItem> TodoItems { get; set; }
-
-        // Metoda konfiguracyjna
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-
-            // Przykład konfiguracji encji
-            modelBuilder.Entity<TodoItem>(entity =>
+            public AppDbContext(DbContextOptions<AppDbContext> options)
+                : base(options)
             {
-                entity.HasKey(e => e.Id);
-                entity.Property(e => e.Title).IsRequired().HasMaxLength(200);
-            });
+            }
+
+            public DbSet<TodoItem> TodoItems { get; set; }
+
+            // Metoda konfiguracyjna
+            protected override void OnModelCreating(ModelBuilder modelBuilder)
+            {
+                base.OnModelCreating(modelBuilder);
+
+                // Przykład konfiguracji encji
+                modelBuilder.Entity<TodoItem>(entity =>
+                {
+                    entity.HasKey(e => e.Id);
+                    entity.Property(e => e.Title).IsRequired().HasMaxLength(200);
+                    entity.Property(e => e.Owner).HasMaxLength(100); // Optional constraint
+                });
+
+            }
         }
     }
-}

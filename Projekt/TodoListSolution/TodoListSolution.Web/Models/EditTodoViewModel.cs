@@ -11,6 +11,7 @@ namespace TodoListSolution.Web.Models
 
         [Required]
         public string Description { get; set; }
-    }
 
+        public string CurrentOwner { get; set; } // To persist the owner
+    }
 }

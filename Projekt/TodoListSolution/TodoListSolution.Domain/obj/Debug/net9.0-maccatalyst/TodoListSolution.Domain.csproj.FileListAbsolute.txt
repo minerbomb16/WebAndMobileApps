@@ -1,0 +1,11 @@
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\actool\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\collada\_ProcessedColladaAssetsPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\atlas\_ProcessedTextureAtlasesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\coremlc\_PartialAppManifest.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\_ProcessedBundleResourcesPath.items
+D:\Bartek\Uczelnia\TodoListSolution\TodoListSolution\TodoListSolution.Domain\obj\Debug\net9.0-maccatalyst\_ProcessedContentPath.items

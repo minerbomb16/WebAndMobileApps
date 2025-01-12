@@ -18,10 +18,18 @@ namespace TodoListSolution.Infrastructure.Repositories
             return await _context.TodoItems.FindAsync(id);
         }
 
-        public async Task<List<TodoItem>> GetAllAsync()
+        public async Task<List<TodoItem>> GetAllAsync(string owner)
         {
-            return await _context.TodoItems.ToListAsync();
+            if (string.IsNullOrWhiteSpace(owner))
+            {
+                return new List<TodoItem>(); // Return an empty list if no owner is provided
+            }
+
+            return await _context.TodoItems
+                .Where(item => item.Owner == owner) // Filter tasks by owner
+                .ToListAsync();
         }
+
 
         public async Task AddAsync(TodoItem item)
         {

@@ -1,89 +1,119 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using System.Net.Http.Json;
+using System.Threading.Tasks;
+using System.Windows.Input;
 using TodoListSolution.Mobile.Models;
 
 namespace TodoListSolution.Mobile.ViewModels
 {
     public partial class EditTaskViewModel : ObservableObject
     {
-        private readonly HttpClient _httpClient;
 
-        [ObservableProperty] private string title;
-        [ObservableProperty] private string description;
+        private static readonly HttpClientHandler handler = new HttpClientHandler
+        {
+            ServerCertificateCustomValidationCallback = (message, cert, chain, errors) => true
+        };
 
-        public IAsyncRelayCommand SaveCommand { get; }
-        public IAsyncRelayCommand CancelCommand { get; }
+        // HttpClient z handlerem
+        private static readonly HttpClient _httpClient = new HttpClient(handler)
+        {
+            BaseAddress = new Uri("https://10.0.2.2:7034")
+        };
 
-        private TodoItemDTO _task;
 
-        public event Action TaskSaved;
+        [ObservableProperty]
+        private string taskId;
+
+        [ObservableProperty]
+        private string taskTitle;
+
+        [ObservableProperty]
+        private string taskDescription;
+
+        [ObservableProperty]
+        private string currentOwner;
+
+        public ICommand SaveCommand { get; }
+        public ICommand CancelCommand { get; }
+
+        public EditTaskViewModel()
+        {
+
+            SaveCommand = new AsyncRelayCommand(SaveTask);
+            CancelCommand = new RelayCommand(CancelEdit);
+        }
 
         public EditTaskViewModel(HttpClient httpClient)
         {
-            _httpClient = httpClient;
-            SaveCommand = new AsyncRelayCommand(OnSaveAsync);
-            CancelCommand = new AsyncRelayCommand(OnCancelAsync);
+
+            SaveCommand = new AsyncRelayCommand(SaveTask);
+            CancelCommand = new RelayCommand(CancelEdit);
         }
 
-        public void Initialize(TodoItemDTO task)
+        public async void LoadTask(string id, string owner)
         {
-            if (task == null) return;
+            TaskId = id;
+            CurrentOwner = owner;
 
-            _task = task;
-            Title = task.Title;
-            Description = task.Description;
-
-            Console.WriteLine($"ViewModel initialized with task: {task.Title}");
-        }
-
-        private async Task OnSaveAsync()
-        {
             try
             {
-                Console.WriteLine("Save button clicked");
-                _task.Title = Title;
-                _task.Description = Description;
-
-                var updatedTask = new TodoItemDTO
+                var task = await _httpClient.GetFromJsonAsync<TodoItemDTO>($"api/todo/{id}");
+                if (task != null)
                 {
-                    Id = _task.Id,
-                    Title = _task.Title,
-                    Description = _task.Description,
-                    IsCompleted = _task.IsCompleted
-                };
+                    TaskTitle = task.Title;
+                    TaskDescription = task.Description;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error loading task: {ex.Message}");
+            }
+        }
 
-                var response = await _httpClient.PutAsJsonAsync($"api/todo/{_task.Id}", updatedTask);
+        private async Task SaveTask()
+        {
+            if (string.IsNullOrWhiteSpace(TaskTitle) || string.IsNullOrWhiteSpace(TaskDescription))
+            {
+                Console.WriteLine("Title and Description are required.");
+                return;
+            }
 
+            var updatedTask = new
+            {
+                Title = TaskTitle,
+                Description = TaskDescription,
+                IsCompleted = false, // Preserve current state
+                Owner = CurrentOwner
+            };
+
+            try
+            {
+                var response = await _httpClient.PutAsJsonAsync($"api/todo/{TaskId}", updatedTask);
                 if (response.IsSuccessStatusCode)
                 {
-                    TaskSaved?.Invoke(); // Trigger the event
-                    await Shell.Current.GoToAsync(".."); // Navigate back
+                    Console.WriteLine("Task updated successfully.");
+
+                    // Send a message to refresh tasks in the main view
+                    MessagingCenter.Send(this, "TaskUpdated");
+
+                    // Navigate back to the main page
+                    await Shell.Current.GoToAsync($"..?owner={CurrentOwner}");
                 }
                 else
                 {
-                    Console.WriteLine("Failed to save the task.");
+                    Console.WriteLine($"Failed to update task: {response.StatusCode}");
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error in SaveCommand: {ex.Message}");
+                Console.WriteLine($"Error updating task: {ex.Message}");
             }
         }
 
-        private async Task OnCancelAsync()
+        private async void CancelEdit()
         {
-            try
-            {
-                Console.WriteLine("Cancel button clicked");
-
-                // Navigate back
-                await Shell.Current.GoToAsync("..");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error in CancelCommand: {ex.Message}");
-            }
+            await Shell.Current.GoToAsync($"..?owner={CurrentOwner}");
         }
     }
 }

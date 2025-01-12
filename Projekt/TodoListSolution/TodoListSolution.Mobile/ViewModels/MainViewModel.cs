@@ -4,8 +4,6 @@ using System.Collections.ObjectModel;
 using System.Net.Http.Json;
 using System.Windows.Input;
 using TodoListSolution.Mobile.Models;
-using Microsoft.Maui.Controls;
-
 
 namespace TodoListSolution.Mobile.ViewModels
 {
@@ -23,28 +21,39 @@ namespace TodoListSolution.Mobile.ViewModels
             BaseAddress = new Uri("https://10.0.2.2:7034")
         };
 
-        // Properties for new task creation
+        [ObservableProperty]
+        private string currentOwner;
+
+        [ObservableProperty]
+        private string newOwner;
+
+        [ObservableProperty]
+        private ObservableCollection<TodoItemDTO> todoItems;
+
         [ObservableProperty]
         private string newTitle;
 
         [ObservableProperty]
         private string newDescription;
 
-        // List of tasks
-        [ObservableProperty]
-        private ObservableCollection<TodoItemDTO> todoItems = new();
+        public IEnumerable<TodoItemDTO> UndoneTasks => TodoItems?.Where(t => !t.IsCompleted);
+        public IEnumerable<TodoItemDTO> DoneTasks => TodoItems?.Where(t => t.IsCompleted);
 
-        // Convenience properties for undone/done tasks
-        public IEnumerable<TodoItemDTO> UndoneTasks => TodoItems.Where(t => !t.IsCompleted);
-        public IEnumerable<TodoItemDTO> DoneTasks => TodoItems.Where(t => t.IsCompleted);
-
-        // Commands
         public ICommand AddTodoCommand { get; }
         public ICommand MarkDoneCommand { get; }
         public ICommand DeleteCommand { get; }
         public ICommand EditTodoCommand { get; }
+        public ICommand UpdateOwnerCommand { get; }
+        public ICommand RefreshCommand { get; }
 
+        // Default constructor for XAML compatibility
         public MainViewModel()
+        {
+            TodoItems = new ObservableCollection<TodoItemDTO>(); // Initialize an empty collection
+        }
+
+        // Constructor for runtime with dependency injection
+        public MainViewModel(HttpClient httpClient)
         {
 
             // Initialize commands
@@ -52,159 +61,134 @@ namespace TodoListSolution.Mobile.ViewModels
             MarkDoneCommand = new AsyncRelayCommand<TodoItemDTO>(MarkDone);
             DeleteCommand = new AsyncRelayCommand<TodoItemDTO>(DeleteItem);
             EditTodoCommand = new AsyncRelayCommand<TodoItemDTO>(OnEditTodo);
+            UpdateOwnerCommand = new RelayCommand(UpdateOwner);
+            RefreshCommand = new RelayCommand(LoadData); // Added RefreshCommand
+
+            // Subscribe to refresh tasks after an update
+            MessagingCenter.Subscribe<EditTaskViewModel>(this, "TaskUpdated", (sender) =>
+            {
+                LoadData();
+            });
 
             // Load tasks initially
             LoadData();
         }
 
-        // Reload data manually
-        public void ReloadData()
-        {
-            LoadData();
-        }
 
-        // Navigate to EditTaskPage
-        private async Task OnEditTodo(TodoItemDTO task)
+        private void UpdateOwner()
         {
-            if (task == null)
+            if (!string.IsNullOrWhiteSpace(NewOwner))
             {
-                Console.WriteLine("EditTodoCommand received a null task");
-                return;
-            }
-
-            try
-            {
-                Console.WriteLine($"Navigating to EditTaskPage with task: {task.Title}");
-                await Shell.Current.GoToAsync("EditTaskPage", new Dictionary<string, object>
-        {
-            { "Task", task }
-        });
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error navigating to EditTaskPage: {ex.Message}");
+                CurrentOwner = NewOwner;
+                LoadData();
             }
         }
 
-
-
-
-        // Load tasks from API
-        private async void LoadData()
+        public async void LoadData()
         {
             try
             {
-                var items = await _httpClient.GetFromJsonAsync<List<TodoItemDTO>>("api/todo");
+                string endpoint = string.IsNullOrWhiteSpace(CurrentOwner) ? "api/todo" : $"api/todo?owner={Uri.EscapeDataString(CurrentOwner)}";
+                string fullUrl = $"{_httpClient.BaseAddress}{endpoint}";
+                Console.WriteLine($"[LOG] API URL: {fullUrl}");
+
+                var items = await _httpClient.GetFromJsonAsync<List<TodoItemDTO>>(endpoint);
                 if (items != null)
                 {
                     TodoItems = new ObservableCollection<TodoItemDTO>(items);
                     OnPropertyChanged(nameof(UndoneTasks));
                     OnPropertyChanged(nameof(DoneTasks));
                 }
+                else
+                {
+                    TodoItems = new ObservableCollection<TodoItemDTO>(); // Empty collection if API returns null
+                }
             }
             catch (Exception ex)
             {
-                // Log or display error
                 Console.WriteLine($"Error loading tasks: {ex.Message}");
+                TodoItems = new ObservableCollection<TodoItemDTO>(); // Reset to empty collection on error
             }
         }
 
-        // Add a new task
+
         private async Task AddTodo()
         {
-            if (string.IsNullOrWhiteSpace(NewTitle)) return;
-
-            var createPayload = new { Title = NewTitle, Description = NewDescription };
-
-            try
+            if (string.IsNullOrWhiteSpace(NewTitle))
             {
-                var response = await _httpClient.PostAsJsonAsync("api/todo", createPayload);
-                if (response.IsSuccessStatusCode)
-                {
-                    LoadData();
-                    NewTitle = string.Empty;
-                    NewDescription = string.Empty;
-                }
+                Console.WriteLine("Task title is required.");
+                return;
             }
-            catch (Exception ex)
+
+            if (string.IsNullOrWhiteSpace(CurrentOwner))
             {
-                // Log or display error
-                Console.WriteLine($"Error adding task: {ex.Message}");
+                Console.WriteLine("Current owner must be set to add a task.");
+                return;
+            }
+
+            var newTask = new { Title = NewTitle, Description = NewDescription, Owner = CurrentOwner };
+            var response = await _httpClient.PostAsJsonAsync("api/todo", newTask);
+
+            if (response.IsSuccessStatusCode)
+            {
+                // Clear the fields after successfully adding the task
+                NewTitle = string.Empty;
+                NewDescription = string.Empty;
+
+                // Notify the UI about the changes
+                OnPropertyChanged(nameof(NewTitle));
+                OnPropertyChanged(nameof(NewDescription));
+
+                LoadData();
+            }
+            else
+            {
+                Console.WriteLine($"Failed to add task: {response.StatusCode}");
             }
         }
 
-        // Mark a task as done
+
         private async Task MarkDone(TodoItemDTO task)
         {
-            if (task == null) return;
+            if (task == null || task.IsCompleted) return;
 
-            var updatePayload = new UpdateTodoItemDTO
-            {
-                Title = task.Title,
-                Description = task.Description,
-                IsCompleted = true
-            };
+            task.IsCompleted = true;
 
-            try
+            var response = await _httpClient.PutAsJsonAsync($"api/todo/{task.Id}", task);
+            if (response.IsSuccessStatusCode)
             {
-                var response = await _httpClient.PutAsJsonAsync($"api/todo/{task.Id}", updatePayload);
-                if (response.IsSuccessStatusCode)
-                {
-                    LoadData();
-                }
+                LoadData();
             }
-            catch (Exception ex)
+            else
             {
-                // Log or display error
-                Console.WriteLine($"Error marking task as done: {ex.Message}");
+                Console.WriteLine($"Failed to mark task as done: {response.StatusCode}");
             }
         }
 
-        // Delete a task
+
         private async Task DeleteItem(TodoItemDTO task)
         {
             if (task == null) return;
 
-            try
+            var response = await _httpClient.DeleteAsync($"api/todo/{task.Id}");
+            if (response.IsSuccessStatusCode)
             {
-                var response = await _httpClient.DeleteAsync($"api/todo/{task.Id}");
-                if (response.IsSuccessStatusCode)
-                {
-                    LoadData();
-                }
+                TodoItems.Remove(task);
+                OnPropertyChanged(nameof(UndoneTasks));
+                OnPropertyChanged(nameof(DoneTasks));
             }
-            catch (Exception ex)
+            else
             {
-                // Log or display error
-                Console.WriteLine($"Error deleting task: {ex.Message}");
+                Console.WriteLine($"Failed to delete task: {response.StatusCode}");
             }
         }
 
-        // Update a task
-        public async Task UpdateTaskAsync(TodoItemDTO task)
+        private async Task OnEditTodo(TodoItemDTO task)
         {
             if (task == null) return;
 
-            var updatePayload = new UpdateTodoItemDTO
-            {
-                Title = task.Title,
-                Description = task.Description,
-                IsCompleted = task.IsCompleted
-            };
-
-            try
-            {
-                var response = await _httpClient.PutAsJsonAsync($"api/todo/{task.Id}", updatePayload);
-                if (response.IsSuccessStatusCode)
-                {
-                    LoadData();
-                }
-            }
-            catch (Exception ex)
-            {
-                // Log or display error
-                Console.WriteLine($"Error updating task: {ex.Message}");
-            }
+            await Shell.Current.GoToAsync($"EditTaskPage?taskId={task.Id}&owner={CurrentOwner}");
         }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9xNstNA+OY=",
+  "dgSpecHash": "IC6xrW0yuH4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Web\\OnlineStore.Web.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z5\\OnlineStore.Web\\OnlineStore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

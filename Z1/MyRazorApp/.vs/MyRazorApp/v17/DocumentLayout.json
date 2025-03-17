@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\MyRazorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\dynamicform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\dynamicform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\dynamicform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\calculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\calculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\calculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\form.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\form.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\form.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:models\\contactformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\myrazorapp\\pages\\dynamicform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z1\\myrazorapp\\pages\\dynamicform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A2CED8-9909-4417-8B20-A26A209D9B84}|MyRazorApp.csproj|solutionrelative:pages\\dynamicform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ContactFormModel.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Models\\ContactFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Models\\ContactFormModel.cs",
               "RelativeDocumentMoniker": "Models\\ContactFormModel.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Models\\ContactFormModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Models\\ContactFormModel.cs",
               "RelativeToolTip": "Models\\ContactFormModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -120,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,61 +145,57 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DynamicForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\DynamicForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\DynamicForm.cshtml",
               "RelativeDocumentMoniker": "Pages\\DynamicForm.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\DynamicForm.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\DynamicForm.cshtml",
               "RelativeToolTip": "Pages\\DynamicForm.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T14:03:13.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:03:13.974Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T19:45:41.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T19:45:41.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Calculator.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Calculator.cshtml",
               "RelativeDocumentMoniker": "Pages\\Calculator.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Calculator.cshtml",
               "RelativeToolTip": "Pages\\Calculator.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T19:47:58.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T19:47:58.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Calculator.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Calculator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Calculator.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Calculator.cshtml.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Calculator.cshtml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Calculator.cshtml.cs",
               "RelativeToolTip": "Pages\\Calculator.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T19:47:00.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T19:47:00.37Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Form.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Form.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Form.cshtml.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Form.cshtml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Form.cshtml.cs",
               "RelativeToolTip": "Pages\\Form.cshtml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -221,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Form.cshtml",
               "RelativeDocumentMoniker": "Pages\\Form.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\Form.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\Form.cshtml",
               "RelativeToolTip": "Pages\\Form.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -233,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DynamicForm.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\DynamicForm.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\DynamicForm.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\DynamicForm.cshtml.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\MyRazorApp\\Pages\\DynamicForm.cshtml.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\Pages\\DynamicForm.cshtml.cs",
               "RelativeToolTip": "Pages\\DynamicForm.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

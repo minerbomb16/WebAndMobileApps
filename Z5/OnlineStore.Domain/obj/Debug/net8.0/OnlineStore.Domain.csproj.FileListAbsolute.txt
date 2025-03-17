@@ -22,3 +22,16 @@ C:\Users\micha\Desktop\Studia\Sem5\WebAndMobile\Z5-B\OnlineStore.Domain\obj\Debu
 C:\Users\micha\Desktop\Studia\Sem5\WebAndMobile\Z5-B\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
 C:\Users\micha\Desktop\Studia\Sem5\WebAndMobile\Z5-B\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
 C:\Users\micha\Desktop\Studia\Sem5\WebAndMobile\Z5-B\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.deps.json
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfo.cs
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.sourcelink.json
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\micha\Desktop\WebAndMobileApps\Z5\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll

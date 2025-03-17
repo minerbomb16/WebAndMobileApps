@@ -104,3 +104,7 @@ C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\refint
 C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
 C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
 C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
+C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.staticwebassets.endpoints.json
+C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\staticwebassets\msbuild.LibrarySystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\micha\Desktop\WebAndMobileApps\Z3\LibrarySystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

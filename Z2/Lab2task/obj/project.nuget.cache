@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlmrG8AeAQM=",
+  "dgSpecHash": "lgLO0pRIH0I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Lab2task.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Lab2task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

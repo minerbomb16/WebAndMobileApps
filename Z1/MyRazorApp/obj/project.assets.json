@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\Desktop\\MyRazorApp\\MyRazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\MyRazorApp.csproj",
       "projectName": "MyRazorApp",
-      "projectPath": "C:\\Users\\micha\\Desktop\\MyRazorApp\\MyRazorApp.csproj",
+      "projectPath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\MyRazorApp.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\Desktop\\MyRazorApp\\obj\\",
+      "outputPath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z1\\MyRazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -75,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

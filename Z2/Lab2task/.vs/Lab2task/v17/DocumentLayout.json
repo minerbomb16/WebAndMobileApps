@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\models\\quotesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\models\\quotesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:models\\quotesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\quotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\quotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\quotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\studia\\sem5\\webandmobile\\z2\\lab2task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|c:\\users\\micha\\desktop\\webandmobileapps\\z2\\lab2task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0C6A8E-2A4C-48A6-8CE9-B4054A378F46}|Lab2task.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,35 +84,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "QuotesModel.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\QuotesModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\QuotesModel.cs",
               "RelativeDocumentMoniker": "Models\\QuotesModel.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\QuotesModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\QuotesModel.cs",
               "RelativeToolTip": "Models\\QuotesModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:16:51.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T18:16:51.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Quotes\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Quotes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Quotes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Quotes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Quotes\\Index.cshtml",
               "RelativeToolTip": "Views\\Quotes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T18:28:56.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T18:28:56.737Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuotesController.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\QuotesController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuotesController.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\QuotesController.cs",
               "RelativeToolTip": "Controllers\\QuotesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -147,61 +145,57 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\TODO\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\TODO\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TODO\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\TODO\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\TODO\\Index.cshtml",
               "RelativeToolTip": "Views\\TODO\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T07:41:08.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:41:08.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TODOModel.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\TODOModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\TODOModel.cs",
               "RelativeDocumentMoniker": "Models\\TODOModel.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\TODOModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\TODOModel.cs",
               "RelativeToolTip": "Models\\TODOModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:28:16.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:28:16.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TODOController.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\TODOController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\TODOController.cs",
               "RelativeDocumentMoniker": "Controllers\\TODOController.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\TODOController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\TODOController.cs",
               "RelativeToolTip": "Controllers\\TODOController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:25:26.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:25:26.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\CalculatorModel.cs",
               "RelativeDocumentMoniker": "Models\\CalculatorModel.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\CalculatorModel.cs",
               "RelativeToolTip": "Models\\CalculatorModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:18:32.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:18:32.379Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,48 +205,45 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "Controllers\\CalculatorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:17:12.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:17:12.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:14:58.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:14:58.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T07:22:42.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:22:42.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -262,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -274,27 +265,25 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Calculator\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Calculator\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Views\\Calculator\\Index.cshtml",
               "RelativeToolTip": "Views\\Calculator\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T07:15:50.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:15:50.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Extensions\\SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Extensions\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z2\\Lab2task\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z2\\Lab2task\\Extensions\\SessionExtensions.cs",
               "RelativeToolTip": "Extensions\\SessionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:45:36.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:45:36.966Z"
             }
           ]
         }

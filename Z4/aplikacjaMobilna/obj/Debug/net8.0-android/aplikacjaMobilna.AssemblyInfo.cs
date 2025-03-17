@@ -14,12 +14,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aplikacjaMobilna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74e206072434ad3fc38e203cbf374f2951c997e")]
 [assembly: System.Reflection.AssemblyProductAttribute("aplikacjaMobilna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aplikacjaMobilna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Android34.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android21.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("android0.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("android21.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
 

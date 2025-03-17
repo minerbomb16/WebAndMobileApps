@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9MnNns0NnQ=",
+  "dgSpecHash": "8D9ReKO+1So=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Desktop\\Studia\\Sem5\\WebAndMobile\\Z5-B\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Desktop\\WebAndMobileApps\\Z5\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
@@ -78,26 +78,5 @@
     "C:\\Users\\micha\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Pakiet „Newtonsoft.Json” 9.0.1 ma znane wysoka luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Pakiet „System.Text.Encodings.Web” 4.5.0 ma znane krytyczna luki w zabezpieczeniach o ważności, https://github.com/advisories/GHSA-ghhp-997w-qr28",
-      "libraryId": "System.Text.Encodings.Web",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
